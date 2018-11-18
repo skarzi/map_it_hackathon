@@ -163,7 +163,7 @@ USE_I18N = True
 # https://docs.djangoproject.com/en/dev/ref/settings/#use-l10n
 USE_L10N = True
 # https://docs.djangoproject.com/en/dev/ref/settings/#use-tz
-USE_TZ = True
+USE_TZ = False
 
 
 # TEMPLATES
@@ -353,7 +353,11 @@ CELERY_BEAT_SCHEDULE = {
     },
     'fetch-nexbike-data': {
         'task': 'apps.transports.tasks.nextbike.fetch_nextbike_data',
-        'schedule': 60,  # schedule every 1 minute
+        'schedule': 90,  # schedule every 1 minute
+    },
+    'fetch-traficar-data': {
+        'task': 'apps.transports.tasks.traficar.fetch_traficar_data',
+        'schedule': 30,  # schedule every 1 minute
     },
 }
 

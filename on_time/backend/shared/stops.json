@@ -1,0 +1,8996 @@
+[
+  {
+    "name": "ROZCHODNIKOWA",
+    "id": "2201",
+    "latitude": "52.160070",
+    "longitude": "21.170600"
+  },
+  {
+    "name": "PRZEKORNA",
+    "id": "3050",
+    "latitude": "52.124730",
+    "longitude": "21.102040"
+  },
+  {
+    "name": "ANANASOWA",
+    "id": "3074",
+    "latitude": "52.203090",
+    "longitude": "21.075740"
+  },
+  {
+    "name": "ANTONIEWSKA",
+    "id": "3075",
+    "latitude": "52.200620",
+    "longitude": "21.077390"
+  },
+  {
+    "name": "ZEGARYNKI",
+    "id": "1109",
+    "latitude": "52.337450",
+    "longitude": "20.999340"
+  },
+  {
+    "name": "INSTYTUT REUMATOLOGII",
+    "id": "3257",
+    "latitude": "52.191240",
+    "longitude": "20.995520"
+  },
+  {
+    "name": "BORA-KOMOROWSKIEGO",
+    "id": "2146",
+    "latitude": "52.224680",
+    "longitude": "21.093230"
+  },
+  {
+    "name": "CELULOZY",
+    "id": "2429",
+    "latitude": "52.172255",
+    "longitude": "21.171644"
+  },
+  {
+    "name": "KAJKI",
+    "id": "2020",
+    "latitude": "52.226100",
+    "longitude": "21.160360"
+  },
+  {
+    "name": "GRYFIT\u00d3W",
+    "id": "1167",
+    "latitude": "52.303500",
+    "longitude": "21.029840"
+  },
+  {
+    "name": "TAWU\u0141KOWA",
+    "id": "2169",
+    "latitude": "52.172670",
+    "longitude": "21.175640"
+  },
+  {
+    "name": "KOPIJNIK\u00d3W",
+    "id": "1166",
+    "latitude": "52.300660",
+    "longitude": "21.030700"
+  },
+  {
+    "name": "RONDO GRANZOWA",
+    "id": "2075",
+    "latitude": "52.259180",
+    "longitude": "21.126650"
+  },
+  {
+    "name": "JEZIORKI P\u0141N.",
+    "id": "3396",
+    "latitude": "52.123810",
+    "longitude": "21.007641"
+  },
+  {
+    "name": "SKRZYNECKIEGO",
+    "id": "2260",
+    "latitude": "52.228140",
+    "longitude": "21.145410"
+  },
+  {
+    "name": "WARSZAWA W\u0141OCHY",
+    "id": "4902",
+    "latitude": "52.206253",
+    "longitude": "20.915478"
+  },
+  {
+    "name": "CZERWONYCH BERET\u00d3W",
+    "id": "2263",
+    "latitude": "52.261530",
+    "longitude": "21.178410"
+  },
+  {
+    "name": "KU\u0179NICY KO\u0141\u0141\u0104TAJOWSKIEJ",
+    "id": "4210",
+    "latitude": "52.188930",
+    "longitude": "20.877180"
+  },
+  {
+    "name": "WY\u015aCIGI",
+    "id": "3012",
+    "latitude": "52.164403",
+    "longitude": "21.017020"
+  },
+  {
+    "name": "POLSKIE RADIO",
+    "id": "3232",
+    "latitude": "52.192800",
+    "longitude": "21.015010"
+  },
+  {
+    "name": "HENRYK\u00d3W",
+    "id": "1023",
+    "latitude": "52.334180",
+    "longitude": "20.962120"
+  },
+  {
+    "name": "WARSZAWA FALENICA",
+    "id": "2909",
+    "latitude": "52.162390",
+    "longitude": "21.210590"
+  },
+  {
+    "name": "PATKOWSKIEGO",
+    "id": "3040",
+    "latitude": "52.172260",
+    "longitude": "21.056340"
+  },
+  {
+    "name": "PUSTOLA",
+    "id": "5099",
+    "latitude": "52.232850",
+    "longitude": "20.941360"
+  },
+  {
+    "name": "CH\u0141OPICKIEGO",
+    "id": "2109",
+    "latitude": "52.245690",
+    "longitude": "21.104860"
+  },
+  {
+    "name": "\u0141AGIEWNICKA",
+    "id": "3018",
+    "latitude": "52.126990",
+    "longitude": "21.017870"
+  },
+  {
+    "name": "BAREI",
+    "id": "1404",
+    "latitude": "52.336760",
+    "longitude": "20.937560"
+  },
+  {
+    "name": "MOST GROTA-ROWECKIEGO",
+    "id": "6083",
+    "latitude": "52.282630",
+    "longitude": "20.987750"
+  },
+  {
+    "name": "WIRA\u017bOWA",
+    "id": "4144",
+    "latitude": "52.177448",
+    "longitude": "20.984790"
+  },
+  {
+    "name": "ROKOSOWSKA",
+    "id": "4117",
+    "latitude": "52.213810",
+    "longitude": "20.973970"
+  },
+  {
+    "name": "PRZY PARKU",
+    "id": "4311",
+    "latitude": "52.202030",
+    "longitude": "20.956660"
+  },
+  {
+    "name": "METRO RAC\u0141AWICKA",
+    "id": "3230",
+    "latitude": "52.200000",
+    "longitude": "21.011470"
+  },
+  {
+    "name": "POMORSKA",
+    "id": "1278",
+    "latitude": "52.326440",
+    "longitude": "20.957190"
+  },
+  {
+    "name": "O\u015aRODEK SZKOLENIOWY",
+    "id": "2195",
+    "latitude": "52.184645",
+    "longitude": "21.144936"
+  },
+  {
+    "name": "KOCJANA",
+    "id": "5163",
+    "latitude": "52.248797",
+    "longitude": "20.897983"
+  },
+  {
+    "name": "BOHOMOLCA",
+    "id": "6076",
+    "latitude": "52.272670",
+    "longitude": "20.983010"
+  },
+  {
+    "name": "\u015aW.A.BOBOLI",
+    "id": "3235",
+    "latitude": "52.209620",
+    "longitude": "21.001110"
+  },
+  {
+    "name": "ZARUSKIEGO",
+    "id": "7074",
+    "latitude": "52.218780",
+    "longitude": "21.045500"
+  },
+  {
+    "name": "CZORSZTY\u0143SKA",
+    "id": "5116",
+    "latitude": "52.243010",
+    "longitude": "20.957800"
+  },
+  {
+    "name": "BUDEXPO",
+    "id": "3069",
+    "latitude": "52.212720",
+    "longitude": "21.059510"
+  },
+  {
+    "name": "BRUSZEWSKA",
+    "id": "1129",
+    "latitude": "52.327510",
+    "longitude": "21.028840"
+  },
+  {
+    "name": "\u015aNIE\u017bNA",
+    "id": "1034",
+    "latitude": "52.259750",
+    "longitude": "21.052850"
+  },
+  {
+    "name": "CENTRUM",
+    "id": "7013",
+    "latitude": "52.228960",
+    "longitude": "21.011974"
+  },
+  {
+    "name": "LIMANOWSKIEGO",
+    "id": "3063",
+    "latitude": "52.189590",
+    "longitude": "21.060460"
+  },
+  {
+    "name": "URZ\u0104D STATYSTYCZNY",
+    "id": "4304",
+    "latitude": "52.193240",
+    "longitude": "20.973140"
+  },
+  {
+    "name": "PL.GRZYBOWSKI",
+    "id": "7025",
+    "latitude": "52.236520",
+    "longitude": "21.003000"
+  },
+  {
+    "name": "RUMIANKOWA",
+    "id": "2349",
+    "latitude": "52.216690",
+    "longitude": "21.242040"
+  },
+  {
+    "name": "SPISAKA",
+    "id": "4099",
+    "latitude": "52.189410",
+    "longitude": "20.884700"
+  },
+  {
+    "name": "BOHUSZEWICZ\u00d3WNY",
+    "id": "1062",
+    "latitude": "52.292110",
+    "longitude": "21.060420"
+  },
+  {
+    "name": "AKCENT",
+    "id": "6034",
+    "latitude": "52.295320",
+    "longitude": "20.878120"
+  },
+  {
+    "name": "MYCIELSKIEGO",
+    "id": "2114",
+    "latitude": "52.250420",
+    "longitude": "21.082650"
+  },
+  {
+    "name": "ORACZY",
+    "id": "2073",
+    "latitude": "52.252930",
+    "longitude": "21.128270"
+  },
+  {
+    "name": "STOCZNIOWC\u00d3W",
+    "id": "2400",
+    "latitude": "52.220960",
+    "longitude": "21.106720"
+  },
+  {
+    "name": "OBRO\u0143C\u00d3W TOBRUKU",
+    "id": "6155",
+    "latitude": "52.265150",
+    "longitude": "20.945690"
+  },
+  {
+    "name": "RADIOWA",
+    "id": "5063",
+    "latitude": "52.251704",
+    "longitude": "20.912508"
+  },
+  {
+    "name": "OS.DERBY III",
+    "id": "1358",
+    "latitude": "52.318820",
+    "longitude": "21.058180"
+  },
+  {
+    "name": "INSUREKCJI",
+    "id": "1100",
+    "latitude": "52.341590",
+    "longitude": "20.988310"
+  },
+  {
+    "name": "BIBLIOTEKA UNIWERSYTECKA",
+    "id": "7061",
+    "latitude": "52.242170",
+    "longitude": "21.024360"
+  },
+  {
+    "name": "SIERPNIA,                     r 400903  1 SIERPNIA",
+    "id": "1",
+    "latitude": "52.200410",
+    "longitude": "20.893060"
+  },
+  {
+    "name": "REJTANA",
+    "id": "2280",
+    "latitude": "52.246790",
+    "longitude": "21.213490"
+  },
+  {
+    "name": "EC \u017bERA\u0143",
+    "id": "1014",
+    "latitude": "52.295422",
+    "longitude": "20.997426"
+  },
+  {
+    "name": "RYBNICKA",
+    "id": "4222",
+    "latitude": "52.207560",
+    "longitude": "20.904610"
+  },
+  {
+    "name": "PREFABET",
+    "id": "3081",
+    "latitude": "52.187210",
+    "longitude": "21.082020"
+  },
+  {
+    "name": "BYTNARA",
+    "id": "3390",
+    "latitude": "52.191641",
+    "longitude": "21.001623"
+  },
+  {
+    "name": "K\u0141OBUCKA",
+    "id": "3271",
+    "latitude": "52.156710",
+    "longitude": "20.992040"
+  },
+  {
+    "name": "KASZTANOWA",
+    "id": "1499",
+    "latitude": "52.306930",
+    "longitude": "20.975060"
+  },
+  {
+    "name": "DW.WSCHODNI (KIJOWSKA)",
+    "id": "1028",
+    "latitude": "52.252780",
+    "longitude": "21.049991"
+  },
+  {
+    "name": "KRZY\u017bANOWSKIEGO",
+    "id": "5118",
+    "latitude": "52.228050",
+    "longitude": "20.967430"
+  },
+  {
+    "name": "O\u015a KR\u00d3LEWSKA",
+    "id": "3353",
+    "latitude": "52.164120",
+    "longitude": "21.069850"
+  },
+  {
+    "name": "GEODEZYJNA",
+    "id": "1472",
+    "latitude": "52.307768",
+    "longitude": "21.079664"
+  },
+  {
+    "name": "BRATA ALBERTA",
+    "id": "2277",
+    "latitude": "52.246990",
+    "longitude": "21.187520"
+  },
+  {
+    "name": "KLAMROWA",
+    "id": "1065",
+    "latitude": "52.286220",
+    "longitude": "21.095300"
+  },
+  {
+    "name": "SZPITAL GROCHOWSKI",
+    "id": "2129",
+    "latitude": "52.242750",
+    "longitude": "21.078880"
+  },
+  {
+    "name": "JURANDA ZE SPYCHOWA",
+    "id": "1286",
+    "latitude": "52.317310",
+    "longitude": "21.050590"
+  },
+  {
+    "name": "SKOROSZEWSKA",
+    "id": "4125",
+    "latitude": "52.193470",
+    "longitude": "20.903840"
+  },
+  {
+    "name": "MILENIJNA",
+    "id": "1219",
+    "latitude": "52.319490",
+    "longitude": "20.968340"
+  },
+  {
+    "name": "HORBACZEWSKIEGO",
+    "id": "2147",
+    "latitude": "52.223650",
+    "longitude": "21.098410"
+  },
+  {
+    "name": "WI\u015aNIOWA",
+    "id": "3105",
+    "latitude": "52.209000",
+    "longitude": "21.015490"
+  },
+  {
+    "name": "\u017bO\u0141NIERSKA",
+    "id": "2081",
+    "latitude": "52.260410",
+    "longitude": "21.144840"
+  },
+  {
+    "name": "T\u0141UCHOWSKA",
+    "id": "1421",
+    "latitude": "52.341250",
+    "longitude": "20.940910"
+  },
+  {
+    "name": "TROCKA",
+    "id": "1056",
+    "latitude": "52.272430",
+    "longitude": "21.063260"
+  },
+  {
+    "name": "ZAKR\u0118TOWA",
+    "id": "2297",
+    "latitude": "52.217650",
+    "longitude": "21.254620"
+  },
+  {
+    "name": "EUROPEJSKA",
+    "id": "3147",
+    "latitude": "52.160710",
+    "longitude": "21.092950"
+  },
+  {
+    "name": "BUDZI\u0143SKIEJ-TYLICKIEJ",
+    "id": "1011",
+    "latitude": "52.282080",
+    "longitude": "21.009593"
+  },
+  {
+    "name": "\u015aLIWICE",
+    "id": "1010",
+    "latitude": "52.278280",
+    "longitude": "21.011866"
+  },
+  {
+    "name": "WI\u0104ZANA",
+    "id": "2216",
+    "latitude": "52.198240",
+    "longitude": "21.141500"
+  },
+  {
+    "name": "ODR\u0118BNA",
+    "id": "2196",
+    "latitude": "52.180940",
+    "longitude": "21.148181"
+  },
+  {
+    "name": "\u0141UCZNICZA",
+    "id": "3319",
+    "latitude": "52.181680",
+    "longitude": "21.089820"
+  },
+  {
+    "name": "MURAN\u00d3W",
+    "id": "7017",
+    "latitude": "52.249141",
+    "longitude": "20.997872"
+  },
+  {
+    "name": "BATALIONU W\u0141OCHY",
+    "id": "4254",
+    "latitude": "52.197860",
+    "longitude": "20.904140"
+  },
+  {
+    "name": "DOMANIEWSKA",
+    "id": "3242",
+    "latitude": "52.182696",
+    "longitude": "21.001921"
+  },
+  {
+    "name": "CONRADA-SZKO\u0141A",
+    "id": "6223",
+    "latitude": "52.271157",
+    "longitude": "20.929222"
+  },
+  {
+    "name": "BANACHA",
+    "id": "4108",
+    "latitude": "52.209970",
+    "longitude": "20.980400"
+  },
+  {
+    "name": "KIEPURY",
+    "id": "3209",
+    "latitude": "52.136060",
+    "longitude": "21.072780"
+  },
+  {
+    "name": "ODOLANY",
+    "id": "5128",
+    "latitude": "52.216050",
+    "longitude": "20.932920"
+  },
+  {
+    "name": "WARSZAWA PRAGA",
+    "id": "1902",
+    "latitude": "52.276620",
+    "longitude": "21.022880"
+  },
+  {
+    "name": "CM.\u017bYDOWSKI",
+    "id": "5086",
+    "latitude": "52.244700",
+    "longitude": "20.977000"
+  },
+  {
+    "name": "POLNYCH KWIAT\u00d3W",
+    "id": "1114",
+    "latitude": "52.349870",
+    "longitude": "20.977650"
+  },
+  {
+    "name": "BENNETTA",
+    "id": "4203",
+    "latitude": "52.169600",
+    "longitude": "20.979060"
+  },
+  {
+    "name": "CUKROWNICZA",
+    "id": "2397",
+    "latitude": "52.242650",
+    "longitude": "21.123460"
+  },
+  {
+    "name": "ZAJEZDNIA KLESZCZOWA",
+    "id": "4090",
+    "latitude": "52.196538",
+    "longitude": "20.924923"
+  },
+  {
+    "name": "PL.INWALID\u00d3W",
+    "id": "6002",
+    "latitude": "52.264270",
+    "longitude": "20.990220"
+  },
+  {
+    "name": "OS.MARYWILSKA",
+    "id": "1096",
+    "latitude": "52.315997",
+    "longitude": "20.999573"
+  },
+  {
+    "name": "CISZEWSKIEGO",
+    "id": "3151",
+    "latitude": "52.158960",
+    "longitude": "21.050510"
+  },
+  {
+    "name": "DROHICKA",
+    "id": "6078",
+    "latitude": "52.276090",
+    "longitude": "20.982910"
+  },
+  {
+    "name": "BOGUS\u0141AWSKIEGO",
+    "id": "6026",
+    "latitude": "52.280917",
+    "longitude": "20.925009"
+  },
+  {
+    "name": "CZ\u0141UCHOWSKA",
+    "id": "5047",
+    "latitude": "52.226966",
+    "longitude": "20.896917"
+  },
+  {
+    "name": "TRZYKROTKI",
+    "id": "2033",
+    "latitude": "52.208910",
+    "longitude": "21.200780"
+  },
+  {
+    "name": "ZAKAMAREK",
+    "id": "3294",
+    "latitude": "52.130390",
+    "longitude": "21.115990"
+  },
+  {
+    "name": "\u015aMIG\u0141OWCA",
+    "id": "4046",
+    "latitude": "52.210360",
+    "longitude": "20.950240"
+  },
+  {
+    "name": "PKP KO\u0141O",
+    "id": "5069",
+    "latitude": "52.247329",
+    "longitude": "20.958082"
+  },
+  {
+    "name": "DROGOWA",
+    "id": "1021",
+    "latitude": "52.327000",
+    "longitude": "20.967980"
+  },
+  {
+    "name": "LE\u017bAJSKA",
+    "id": "4036",
+    "latitude": "52.188500",
+    "longitude": "20.980260"
+  },
+  {
+    "name": "ZAMENHOFA",
+    "id": "7024",
+    "latitude": "52.246720",
+    "longitude": "20.997020"
+  },
+  {
+    "name": "KABATY-STP",
+    "id": "3336",
+    "latitude": "52.126520",
+    "longitude": "21.065690"
+  },
+  {
+    "name": "BRYLOWSKA",
+    "id": "5119",
+    "latitude": "52.224740",
+    "longitude": "20.969280"
+  },
+  {
+    "name": "WARSZAWA RADO\u015a\u0106",
+    "id": "2907",
+    "latitude": "52.186160",
+    "longitude": "21.186820"
+  },
+  {
+    "name": "MY\u015aLIBORSKA",
+    "id": "1256",
+    "latitude": "52.317090",
+    "longitude": "20.961950"
+  },
+  {
+    "name": "POLECZKI",
+    "id": "3013",
+    "latitude": "52.152170",
+    "longitude": "21.017300"
+  },
+  {
+    "name": "CHOSZCZ\u00d3WKA",
+    "id": "1116",
+    "latitude": "52.355540",
+    "longitude": "20.982350"
+  },
+  {
+    "name": "NORBLIN",
+    "id": "5039",
+    "latitude": "52.231940",
+    "longitude": "20.993580"
+  },
+  {
+    "name": "MUZEALNA",
+    "id": "6016",
+    "latitude": "52.305380",
+    "longitude": "20.933550"
+  },
+  {
+    "name": "JACHTOWA",
+    "id": "2375",
+    "latitude": "52.178642",
+    "longitude": "21.233848"
+  },
+  {
+    "name": "PKP S\u0141U\u017bEWIEC",
+    "id": "3254",
+    "latitude": "52.181206",
+    "longitude": "20.986969"
+  },
+  {
+    "name": "TARNOWIECKA",
+    "id": "2106",
+    "latitude": "52.237120",
+    "longitude": "21.104690"
+  },
+  {
+    "name": "SIENNICKA",
+    "id": "2122",
+    "latitude": "52.252750",
+    "longitude": "21.078577"
+  },
+  {
+    "name": "TWARDOWSKA",
+    "id": "6009",
+    "latitude": "52.284897",
+    "longitude": "20.954640"
+  },
+  {
+    "name": "WIATRACZNA",
+    "id": "2008",
+    "latitude": "52.245419",
+    "longitude": "21.084934"
+  },
+  {
+    "name": "CIO\u0141KOSZA",
+    "id": "1402",
+    "latitude": "52.326650",
+    "longitude": "20.936930"
+  },
+  {
+    "name": "SIEMIE\u0143SKIEGO",
+    "id": "4109",
+    "latitude": "52.202220",
+    "longitude": "20.973870"
+  },
+  {
+    "name": "KOROTY\u0143SKIEGO",
+    "id": "4007",
+    "latitude": "52.202063",
+    "longitude": "20.968980"
+  },
+  {
+    "name": "KRUCZA",
+    "id": "7033",
+    "latitude": "52.230969",
+    "longitude": "21.017751"
+  },
+  {
+    "name": "PO\u017bARYSKIEGO",
+    "id": "2028",
+    "latitude": "52.206240",
+    "longitude": "21.175720"
+  },
+  {
+    "name": "LATOSZKI",
+    "id": "3295",
+    "latitude": "52.131680",
+    "longitude": "21.128530"
+  },
+  {
+    "name": "ZAWODZIE",
+    "id": "3082",
+    "latitude": "52.184520",
+    "longitude": "21.080770"
+  },
+  {
+    "name": "DOMINIKA\u0143SKA",
+    "id": "3038",
+    "latitude": "52.176890",
+    "longitude": "21.036010"
+  },
+  {
+    "name": "OS.NOWY MOKOT\u00d3W",
+    "id": "3409",
+    "latitude": "52.184947",
+    "longitude": "20.988576"
+  },
+  {
+    "name": "SOSNKOWSKIEGO",
+    "id": "4110",
+    "latitude": "52.190060",
+    "longitude": "20.889960"
+  },
+  {
+    "name": "CYTADELA",
+    "id": "6095",
+    "latitude": "52.265180",
+    "longitude": "21.003500"
+  },
+  {
+    "name": "J\u00d3RSKIEGO",
+    "id": "1057",
+    "latitude": "52.276400",
+    "longitude": "21.066470"
+  },
+  {
+    "name": "BATALION\u00d3W CH\u0141OPSKICH",
+    "id": "5048",
+    "latitude": "52.231192",
+    "longitude": "20.896658"
+  },
+  {
+    "name": "PORZECZKOWA",
+    "id": "1512",
+    "latitude": "52.314276",
+    "longitude": "21.038056"
+  },
+  {
+    "name": "BACHA",
+    "id": "3338",
+    "latitude": "52.169417",
+    "longitude": "21.026156"
+  },
+  {
+    "name": "OP\u0141OTEK",
+    "id": "6066",
+    "latitude": "52.292390",
+    "longitude": "20.902260"
+  },
+  {
+    "name": "BRANICKIEGO",
+    "id": "3385",
+    "latitude": "52.157425",
+    "longitude": "21.076150"
+  },
+  {
+    "name": "DZIA\u0141KOWA",
+    "id": "4280",
+    "latitude": "52.172520",
+    "longitude": "20.932830"
+  },
+  {
+    "name": "DIAMENTOWA",
+    "id": "1431",
+    "latitude": "52.280700",
+    "longitude": "21.081460"
+  },
+  {
+    "name": "MIKO\u0141AJSKA",
+    "id": "4101",
+    "latitude": "52.203010",
+    "longitude": "20.928360"
+  },
+  {
+    "name": "KINOWA",
+    "id": "2133",
+    "latitude": "52.242008",
+    "longitude": "21.070393"
+  },
+  {
+    "name": "REBUSOWA",
+    "id": "4327",
+    "latitude": "52.175100",
+    "longitude": "20.919990"
+  },
+  {
+    "name": "KOLEJOWA",
+    "id": "5120",
+    "latitude": "52.223010",
+    "longitude": "20.969250"
+  },
+  {
+    "name": "TOPIEL",
+    "id": "7067",
+    "latitude": "52.237550",
+    "longitude": "21.026680"
+  },
+  {
+    "name": "PODOLSKA",
+    "id": "2267",
+    "latitude": "52.244370",
+    "longitude": "21.115370"
+  },
+  {
+    "name": "WAWER-RATUSZ",
+    "id": "2438",
+    "latitude": "52.205695",
+    "longitude": "21.171685"
+  },
+  {
+    "name": "MASZYNOWA",
+    "id": "4312",
+    "latitude": "52.202860",
+    "longitude": "20.949400"
+  },
+  {
+    "name": "POWSINEK",
+    "id": "3046",
+    "latitude": "52.152990",
+    "longitude": "21.091128"
+  },
+  {
+    "name": "SMOCZA",
+    "id": "5155",
+    "latitude": "52.245470",
+    "longitude": "20.985763"
+  },
+  {
+    "name": "RAKOWIEC",
+    "id": "4033",
+    "latitude": "52.197910",
+    "longitude": "20.983480"
+  },
+  {
+    "name": "BIA\u0141O\u0141\u0118KA-RATUSZ",
+    "id": "1020",
+    "latitude": "52.320700",
+    "longitude": "20.972100"
+  },
+  {
+    "name": "POLIGONOWA",
+    "id": "2101",
+    "latitude": "52.236170",
+    "longitude": "21.088020"
+  },
+  {
+    "name": "PALISADOWA",
+    "id": "6068",
+    "latitude": "52.294790",
+    "longitude": "20.905010"
+  },
+  {
+    "name": "ROZBRAT",
+    "id": "7071",
+    "latitude": "52.222280",
+    "longitude": "21.037530"
+  },
+  {
+    "name": "SO\u0141TYKA",
+    "id": "5125",
+    "latitude": "52.244350",
+    "longitude": "20.967760"
+  },
+  {
+    "name": "OSTR\u00d3DZKA-SZKO\u0141A",
+    "id": "1288",
+    "latitude": "52.327420",
+    "longitude": "21.048070"
+  },
+  {
+    "name": "GOLESZOWSKA",
+    "id": "5204",
+    "latitude": "52.223677",
+    "longitude": "20.941917"
+  },
+  {
+    "name": "SZPITAL MSW",
+    "id": "3238",
+    "latitude": "52.198030",
+    "longitude": "21.001160"
+  },
+  {
+    "name": "MAKOL\u0104GWY",
+    "id": "3291",
+    "latitude": "52.145300",
+    "longitude": "21.026600"
+  },
+  {
+    "name": "SZPITAL BR\u00d3DNOWSKI",
+    "id": "1147",
+    "latitude": "52.292780",
+    "longitude": "21.040510"
+  },
+  {
+    "name": "ELBL\u0104SKA",
+    "id": "6091",
+    "latitude": "52.258670",
+    "longitude": "20.962080"
+  },
+  {
+    "name": "TANECZNA",
+    "id": "3413",
+    "latitude": "52.152438",
+    "longitude": "21.014927"
+  },
+  {
+    "name": "KORKOWA-CMENTARZ",
+    "id": "2066",
+    "latitude": "52.241710",
+    "longitude": "21.165310"
+  },
+  {
+    "name": "MALINOWSKIEGO",
+    "id": "3301",
+    "latitude": "52.149840",
+    "longitude": "21.038180"
+  },
+  {
+    "name": "PKP OLSZYNKA GROCHOWSKA",
+    "id": "2108",
+    "latitude": "52.247780",
+    "longitude": "21.106650"
+  },
+  {
+    "name": "WARSZAWA ANIN",
+    "id": "2905",
+    "latitude": "52.213460",
+    "longitude": "21.159540"
+  },
+  {
+    "name": "P\u0141OCKA-SZPITAL",
+    "id": "5026",
+    "latitude": "52.237240",
+    "longitude": "20.963940"
+  },
+  {
+    "name": "POGODNA",
+    "id": "2348",
+    "latitude": "52.216175",
+    "longitude": "21.238546"
+  },
+  {
+    "name": "WARSZAWA POWI\u015aLE",
+    "id": "7902",
+    "latitude": "52.233900",
+    "longitude": "21.028760"
+  },
+  {
+    "name": "SKOROCH\u00d3D-MAJEWSKIEGO",
+    "id": "4107",
+    "latitude": "52.205040",
+    "longitude": "20.974000"
+  },
+  {
+    "name": "SANTOCKA",
+    "id": "3083",
+    "latitude": "52.182650",
+    "longitude": "21.077630"
+  },
+  {
+    "name": "KOSZYKOWA",
+    "id": "7089",
+    "latitude": "52.223080",
+    "longitude": "21.003570"
+  },
+  {
+    "name": "RYDYGIERA",
+    "id": "6089",
+    "latitude": "52.258776",
+    "longitude": "20.970227"
+  },
+  {
+    "name": "CENTRUM ONKOLOGII",
+    "id": "3134",
+    "latitude": "52.150180",
+    "longitude": "21.033890"
+  },
+  {
+    "name": "ZA\u015aCIANKOWA",
+    "id": "3196",
+    "latitude": "52.168420",
+    "longitude": "21.107410"
+  },
+  {
+    "name": "KO\u0141O",
+    "id": "5073",
+    "latitude": "52.246679",
+    "longitude": "20.938374"
+  },
+  {
+    "name": "FORT WAWRZYSZEW",
+    "id": "6191",
+    "latitude": "52.275010",
+    "longitude": "20.903410"
+  },
+  {
+    "name": "BE\u0141DAN",
+    "id": "3248",
+    "latitude": "52.174170",
+    "longitude": "21.013600"
+  },
+  {
+    "name": "WINNICA",
+    "id": "1024",
+    "latitude": "52.337450",
+    "longitude": "20.958270"
+  },
+  {
+    "name": "PARK MAGICZNY",
+    "id": "1520",
+    "latitude": "52.313052",
+    "longitude": "21.060467"
+  },
+  {
+    "name": "ARESZT \u015aLEDCZY S\u0141U\u017bEWIEC",
+    "id": "3270",
+    "latitude": "52.159830",
+    "longitude": "20.992320"
+  },
+  {
+    "name": "RUCZAJ",
+    "id": "3149",
+    "latitude": "52.161300",
+    "longitude": "21.105120"
+  },
+  {
+    "name": "NOWAKA-JEZIORA\u0143SKIEGO",
+    "id": "2418",
+    "latitude": "52.231217",
+    "longitude": "21.094867"
+  },
+  {
+    "name": "LAZUROWA",
+    "id": "5192",
+    "latitude": "52.216333",
+    "longitude": "20.897173"
+  },
+  {
+    "name": "ZBYSZKA Z BOGDA\u0143CA",
+    "id": "1169",
+    "latitude": "52.311140",
+    "longitude": "21.029930"
+  },
+  {
+    "name": "DYREKCJA FSO",
+    "id": "1012",
+    "latitude": "52.286640",
+    "longitude": "21.006490"
+  },
+  {
+    "name": "METRO WILANOWSKA",
+    "id": "3009",
+    "latitude": "52.181520",
+    "longitude": "21.022030"
+  },
+  {
+    "name": "PL.BERNARDY\u0143SKI",
+    "id": "3061",
+    "latitude": "52.194830",
+    "longitude": "21.054670"
+  },
+  {
+    "name": "FORT WOLA",
+    "id": "5021",
+    "latitude": "52.223405",
+    "longitude": "20.930627"
+  },
+  {
+    "name": "DICKENSA",
+    "id": "4006",
+    "latitude": "52.205901",
+    "longitude": "20.972387"
+  },
+  {
+    "name": "STARA MI\u0141OSNA",
+    "id": "2275",
+    "latitude": "52.219210",
+    "longitude": "21.242950"
+  },
+  {
+    "name": "GRODKOWSKA",
+    "id": "5194",
+    "latitude": "52.240356",
+    "longitude": "20.923556"
+  },
+  {
+    "name": "W\u00d3LCZY\u0143SKA-BOCZNICA",
+    "id": "6065",
+    "latitude": "52.286960",
+    "longitude": "20.903630"
+  },
+  {
+    "name": "BIA\u0141OWIEJSKA",
+    "id": "5032",
+    "latitude": "52.240540",
+    "longitude": "20.930340"
+  },
+  {
+    "name": "TREN\u00d3W-LAS",
+    "id": "6037",
+    "latitude": "52.309420",
+    "longitude": "20.883130"
+  },
+  {
+    "name": "\u015aWIDERSKA",
+    "id": "1469",
+    "latitude": "52.310630",
+    "longitude": "20.959420"
+  },
+  {
+    "name": "LOTNISKO CHOPINA-ODLOTY",
+    "id": "4200",
+    "latitude": "52.172150",
+    "longitude": "20.973310"
+  },
+  {
+    "name": "JASIELSKA",
+    "id": "4111",
+    "latitude": "52.198280",
+    "longitude": "20.979230"
+  },
+  {
+    "name": "OGR\u00d3D BOTANICZNY",
+    "id": "3305",
+    "latitude": "52.105090",
+    "longitude": "21.098670"
+  },
+  {
+    "name": "GEN.MACZKA",
+    "id": "6129",
+    "latitude": "52.261720",
+    "longitude": "20.954410"
+  },
+  {
+    "name": "OLCHY",
+    "id": "2178",
+    "latitude": "52.183030",
+    "longitude": "21.202590"
+  },
+  {
+    "name": "POTOCKICH",
+    "id": "2062",
+    "latitude": "52.238410",
+    "longitude": "21.147720"
+  },
+  {
+    "name": "PASTUSZK\u00d3W",
+    "id": "2420",
+    "latitude": "52.285948",
+    "longitude": "21.172426"
+  },
+  {
+    "name": "PLATER\u00d3WEK",
+    "id": "1009",
+    "latitude": "52.273767",
+    "longitude": "21.014405"
+  },
+  {
+    "name": "KROKWI",
+    "id": "1486",
+    "latitude": "52.334625",
+    "longitude": "20.971700"
+  },
+  {
+    "name": "SZPITAL WOLSKI",
+    "id": "5042",
+    "latitude": "52.228610",
+    "longitude": "20.970410"
+  },
+  {
+    "name": "NOWINY",
+    "id": "1130",
+    "latitude": "52.332820",
+    "longitude": "21.029930"
+  },
+  {
+    "name": "NOWODWORY",
+    "id": "1253",
+    "latitude": "52.331700",
+    "longitude": "20.941250"
+  },
+  {
+    "name": "SOKRATESA",
+    "id": "6057",
+    "latitude": "52.288410",
+    "longitude": "20.932880"
+  },
+  {
+    "name": "NARWIK",
+    "id": "5051",
+    "latitude": "52.241414",
+    "longitude": "20.896824"
+  },
+  {
+    "name": "PA\u0141ACOWA",
+    "id": "3047",
+    "latitude": "52.149460",
+    "longitude": "21.092130"
+  },
+  {
+    "name": "KONOTOPSKA",
+    "id": "4340",
+    "latitude": "52.207001",
+    "longitude": "20.865058"
+  },
+  {
+    "name": "KONSTRUKTORSKA",
+    "id": "3241",
+    "latitude": "52.184914",
+    "longitude": "21.001856"
+  },
+  {
+    "name": "METRO WAWRZYSZEW",
+    "id": "6055",
+    "latitude": "52.287177",
+    "longitude": "20.937091"
+  },
+  {
+    "name": "PRZYCZ\u00d3\u0141EK GROCHOWSKI",
+    "id": "2100",
+    "latitude": "52.235700",
+    "longitude": "21.078370"
+  },
+  {
+    "name": "MARYSIN",
+    "id": "2064",
+    "latitude": "52.239840",
+    "longitude": "21.155130"
+  },
+  {
+    "name": "KO\u0143SKI JAR",
+    "id": "3128",
+    "latitude": "52.161860",
+    "longitude": "21.024090"
+  },
+  {
+    "name": "POPIELA",
+    "id": "6027",
+    "latitude": "52.281850",
+    "longitude": "20.921182"
+  },
+  {
+    "name": "NOCZNICKIEGO",
+    "id": "6058",
+    "latitude": "52.284872",
+    "longitude": "20.922982"
+  },
+  {
+    "name": "ZAWODOWA",
+    "id": "2090",
+    "latitude": "52.263170",
+    "longitude": "21.157260"
+  },
+  {
+    "name": "LOTNISKO CHOPINA",
+    "id": "404071",
+    "latitude": "52.244781",
+    "longitude": "21.087074"
+  },
+  {
+    "name": "STOICKA",
+    "id": "4018",
+    "latitude": "52.167510",
+    "longitude": "20.934980"
+  },
+  {
+    "name": "ZAKRZEWSKA",
+    "id": "3086",
+    "latitude": "52.202170",
+    "longitude": "21.042150"
+  },
+  {
+    "name": "WARSZAWA MIEDZESZYN",
+    "id": "2908",
+    "latitude": "52.173170",
+    "longitude": "21.199770"
+  },
+  {
+    "name": "ARONIOWA",
+    "id": "1291",
+    "latitude": "52.351940",
+    "longitude": "21.038750"
+  },
+  {
+    "name": "\u017b\u00d3\u0141KIEWSKIEGO",
+    "id": "2012",
+    "latitude": "52.241510",
+    "longitude": "21.106750"
+  },
+  {
+    "name": "FORT RADIOWO",
+    "id": "5162",
+    "latitude": "52.264690",
+    "longitude": "20.885070"
+  },
+  {
+    "name": "KANA\u0141 BR\u00d3DNOWSKI",
+    "id": "1477",
+    "latitude": "52.284190",
+    "longitude": "21.058200"
+  },
+  {
+    "name": "PKP OK\u0118CIE",
+    "id": "4146",
+    "latitude": "52.166600",
+    "longitude": "20.985280"
+  },
+  {
+    "name": "KSI\u0118\u017bYCOWA",
+    "id": "6030",
+    "latitude": "52.284420",
+    "longitude": "20.896860"
+  },
+  {
+    "name": "ST\u0118\u017bYCKA",
+    "id": "2219",
+    "latitude": "52.260020",
+    "longitude": "21.140060"
+  },
+  {
+    "name": "ROGALI\u0143SKA",
+    "id": "5038",
+    "latitude": "52.231370",
+    "longitude": "20.970150"
+  },
+  {
+    "name": "SOKO\u0141OWSKA",
+    "id": "5006",
+    "latitude": "52.232191",
+    "longitude": "20.959627"
+  },
+  {
+    "name": "KOWIE\u0143SKA",
+    "id": "1070",
+    "latitude": "52.263630",
+    "longitude": "21.043210"
+  },
+  {
+    "name": "METRO NATOLIN",
+    "id": "3281",
+    "latitude": "52.140020",
+    "longitude": "21.058600"
+  },
+  {
+    "name": "WIERNA",
+    "id": "1506",
+    "latitude": "52.272990",
+    "longitude": "21.085450"
+  },
+  {
+    "name": "JAD\u0179WING\u00d3W",
+    "id": "3266",
+    "latitude": "52.171350",
+    "longitude": "21.004490"
+  },
+  {
+    "name": "CHEMICZNA",
+    "id": "1045",
+    "latitude": "52.263740",
+    "longitude": "21.063230"
+  },
+  {
+    "name": "WARSZAWA CHOSZCZ\u00d3WKA",
+    "id": "1906",
+    "latitude": "52.357120",
+    "longitude": "20.972590"
+  },
+  {
+    "name": "FORT BEMA",
+    "id": "5165",
+    "latitude": "52.259330",
+    "longitude": "20.936650"
+  },
+  {
+    "name": "PARK SKARYSZEWSKI",
+    "id": "2132",
+    "latitude": "52.240308",
+    "longitude": "21.062082"
+  },
+  {
+    "name": "ORLICH GNIAZD",
+    "id": "5106",
+    "latitude": "52.249250",
+    "longitude": "20.921500"
+  },
+  {
+    "name": "DUCHNICKA",
+    "id": "6090",
+    "latitude": "52.255950",
+    "longitude": "20.969110"
+  },
+  {
+    "name": "CZUMY",
+    "id": "5060",
+    "latitude": "52.236310",
+    "longitude": "20.913950"
+  },
+  {
+    "name": "WIEDE\u0143SKA",
+    "id": "3421",
+    "latitude": "52.130909",
+    "longitude": "21.094455"
+  },
+  {
+    "name": "GALLA ANONIMA",
+    "id": "6132",
+    "latitude": "52.269170",
+    "longitude": "20.942860"
+  },
+  {
+    "name": "INSTYTUT KARDIOLOGII",
+    "id": "2025",
+    "latitude": "52.217910",
+    "longitude": "21.164240"
+  },
+  {
+    "name": "SANGUSZKI",
+    "id": "7056",
+    "latitude": "52.255000",
+    "longitude": "21.011420"
+  },
+  {
+    "name": "ZWYCI\u0118ZC\u00d3W",
+    "id": "2141",
+    "latitude": "52.233230",
+    "longitude": "21.066350"
+  },
+  {
+    "name": "GRZYMALIT\u00d3W",
+    "id": "1406",
+    "latitude": "52.336930",
+    "longitude": "20.942190"
+  },
+  {
+    "name": "ECHA LE\u015aNE",
+    "id": "1354",
+    "latitude": "52.317830",
+    "longitude": "21.035910"
+  },
+  {
+    "name": "DWERNICKIEGO",
+    "id": "2113",
+    "latitude": "52.248300",
+    "longitude": "21.084150"
+  },
+  {
+    "name": "ZAJEZDNIA OSTROBRAMSKA",
+    "id": "2104",
+    "latitude": "52.232790",
+    "longitude": "21.116910"
+  },
+  {
+    "name": "ISKRY",
+    "id": "5135",
+    "latitude": "52.251080",
+    "longitude": "20.869650"
+  },
+  {
+    "name": "MI\u0143SKA",
+    "id": "2117",
+    "latitude": "52.250297",
+    "longitude": "21.067265"
+  },
+  {
+    "name": "ANTKA ROZPYLACZA",
+    "id": "5103",
+    "latitude": "52.234250",
+    "longitude": "20.934940"
+  },
+  {
+    "name": "PODSKARBI\u0143SKA",
+    "id": "2116",
+    "latitude": "52.249490",
+    "longitude": "21.074390"
+  },
+  {
+    "name": "BYSTRZYCKA",
+    "id": "2160",
+    "latitude": "52.161560",
+    "longitude": "21.214600"
+  },
+  {
+    "name": "NIEDZIA\u0141KOWSKIEGO",
+    "id": "2318",
+    "latitude": "52.252710",
+    "longitude": "21.168080"
+  },
+  {
+    "name": "IX POPRZECZNA",
+    "id": "2026",
+    "latitude": "52.212720",
+    "longitude": "21.166140"
+  },
+  {
+    "name": "TOR STEGNY",
+    "id": "3030",
+    "latitude": "52.189400",
+    "longitude": "21.047590"
+  },
+  {
+    "name": "OSTR\u00d3DZKA",
+    "id": "1281",
+    "latitude": "52.304780",
+    "longitude": "21.051370"
+  },
+  {
+    "name": "MOST SIEKIERKOWSKI",
+    "id": "2205",
+    "latitude": "52.217620",
+    "longitude": "21.096730"
+  },
+  {
+    "name": "CHE\u0141MSKA",
+    "id": "3059",
+    "latitude": "52.201470",
+    "longitude": "21.049780"
+  },
+  {
+    "name": "\u0141OPUSZA\u0143SKA",
+    "id": "4049",
+    "latitude": "52.196550",
+    "longitude": "20.929840"
+  },
+  {
+    "name": "WKD RAK\u00d3W",
+    "id": "4089",
+    "latitude": "52.194380",
+    "longitude": "20.936090"
+  },
+  {
+    "name": "WA\u0141USZEWSKA",
+    "id": "1106",
+    "latitude": "52.344180",
+    "longitude": "20.995290"
+  },
+  {
+    "name": "SK\u0141ADKOWSKIEGO",
+    "id": "4258",
+    "latitude": "52.190125",
+    "longitude": "20.899578"
+  },
+  {
+    "name": "AL.WITOSA",
+    "id": "3060",
+    "latitude": "52.196260",
+    "longitude": "21.052500"
+  },
+  {
+    "name": "JANA OLBRACHTA",
+    "id": "5030",
+    "latitude": "52.238570",
+    "longitude": "20.942760"
+  },
+  {
+    "name": "CZARNOMORSKA",
+    "id": "3032",
+    "latitude": "52.184730",
+    "longitude": "21.052470"
+  },
+  {
+    "name": "PL.GRUNWALDZKI",
+    "id": "6039",
+    "latitude": "52.263692",
+    "longitude": "20.978672"
+  },
+  {
+    "name": "BRACI WAG\u00d3W",
+    "id": "3141",
+    "latitude": "52.143740",
+    "longitude": "21.048220"
+  },
+  {
+    "name": "DARWINA",
+    "id": "1074",
+    "latitude": "52.264110",
+    "longitude": "21.033090"
+  },
+  {
+    "name": "KLUB LIRA",
+    "id": "1154",
+    "latitude": "52.296506",
+    "longitude": "21.035907"
+  },
+  {
+    "name": "METRO RATUSZ ARSENA\u0141",
+    "id": "7099",
+    "latitude": "52.245530",
+    "longitude": "20.999910"
+  },
+  {
+    "name": "PL.MA\u0141ACHOWSKIEGO",
+    "id": "7029",
+    "latitude": "52.238290",
+    "longitude": "21.011730"
+  },
+  {
+    "name": "\u0106WIKLI\u0143SKIEJ",
+    "id": "1316",
+    "latitude": "52.331870",
+    "longitude": "20.951590"
+  },
+  {
+    "name": "ROZ\u0141UCKA",
+    "id": "2136",
+    "latitude": "52.236630",
+    "longitude": "21.076490"
+  },
+  {
+    "name": "MAKLAKIEWICZA",
+    "id": "3259",
+    "latitude": "52.188820",
+    "longitude": "20.993440"
+  },
+  {
+    "name": "SYPNIEWSKA",
+    "id": "3091",
+    "latitude": "52.190543",
+    "longitude": "21.075840"
+  },
+  {
+    "name": "OS.DUDZIARSKA",
+    "id": "2364",
+    "latitude": "52.257100",
+    "longitude": "21.104210"
+  },
+  {
+    "name": "JAGIELSKA",
+    "id": "3021",
+    "latitude": "52.115080",
+    "longitude": "21.018190"
+  },
+  {
+    "name": "HALE BANACHA",
+    "id": "4137",
+    "latitude": "52.208600",
+    "longitude": "20.974486"
+  },
+  {
+    "name": "NIEMCEWICZA",
+    "id": "4140",
+    "latitude": "52.221260",
+    "longitude": "20.983830"
+  },
+  {
+    "name": "OSMA\u0143SKA",
+    "id": "3343",
+    "latitude": "52.156280",
+    "longitude": "20.995710"
+  },
+  {
+    "name": "WARSZAWA \u017bWIRKI I WIGURY",
+    "id": "4918",
+    "latitude": "52.193658",
+    "longitude": "20.979403"
+  },
+  {
+    "name": "TRAKT LUBELSKI",
+    "id": "2018",
+    "latitude": "52.228600",
+    "longitude": "21.140340"
+  },
+  {
+    "name": "ZAJEZDNIA \u017bOLIBORZ",
+    "id": "6061",
+    "latitude": "52.297870",
+    "longitude": "20.934730"
+  },
+  {
+    "name": "BOLES\u0141AWA \u015aMIA\u0141EGO",
+    "id": "4124",
+    "latitude": "52.203090",
+    "longitude": "20.862770"
+  },
+  {
+    "name": "ZABRANIECKA-MAGAZYNY",
+    "id": "1037",
+    "latitude": "52.261180",
+    "longitude": "21.067340"
+  },
+  {
+    "name": "WALEREGO S\u0141AWKA",
+    "id": "4262",
+    "latitude": "52.196930",
+    "longitude": "20.897370"
+  },
+  {
+    "name": "BANACHA-SZPITAL",
+    "id": "4030",
+    "latitude": "52.209760",
+    "longitude": "20.987470"
+  },
+  {
+    "name": "STRYJE\u0143SKICH",
+    "id": "3140",
+    "latitude": "52.141630",
+    "longitude": "21.045460"
+  },
+  {
+    "name": "TURMONCKA",
+    "id": "1165",
+    "latitude": "52.297660",
+    "longitude": "21.033100"
+  },
+  {
+    "name": "JOLIOT-CURIE",
+    "id": "3233",
+    "latitude": "52.192560",
+    "longitude": "21.010870"
+  },
+  {
+    "name": "ZYNDRAMA Z MASZKOWIC",
+    "id": "1099",
+    "latitude": "52.327090",
+    "longitude": "20.991210"
+  },
+  {
+    "name": "CHODAKOWSKA",
+    "id": "2118",
+    "latitude": "52.252080",
+    "longitude": "21.064940"
+  },
+  {
+    "name": "FALENICA",
+    "id": "2052",
+    "latitude": "52.159520",
+    "longitude": "21.203400"
+  },
+  {
+    "name": "RADIOWA-WAT",
+    "id": "5110",
+    "latitude": "52.255080",
+    "longitude": "20.905800"
+  },
+  {
+    "name": "PRZEWORSKA",
+    "id": "2121",
+    "latitude": "52.252725",
+    "longitude": "21.083600"
+  },
+  {
+    "name": "GRZEGORZEWSKIEJ",
+    "id": "3207",
+    "latitude": "52.152240",
+    "longitude": "21.056590"
+  },
+  {
+    "name": "MANDARYNKI",
+    "id": "3190",
+    "latitude": "52.144690",
+    "longitude": "21.063870"
+  },
+  {
+    "name": "CHODKIEWICZA",
+    "id": "2283",
+    "latitude": "52.250200",
+    "longitude": "21.231930"
+  },
+  {
+    "name": "NALEWKI-MUZEUM",
+    "id": "7023",
+    "latitude": "52.248740",
+    "longitude": "20.994520"
+  },
+  {
+    "name": "POLONEZA",
+    "id": "3290",
+    "latitude": "52.154520",
+    "longitude": "21.008200"
+  },
+  {
+    "name": "CH\u0141ODNIA",
+    "id": "1259",
+    "latitude": "52.300920",
+    "longitude": "21.011300"
+  },
+  {
+    "name": "PIASTA KO\u0141ODZIEJA",
+    "id": "1285",
+    "latitude": "52.313750",
+    "longitude": "21.051350"
+  },
+  {
+    "name": "WARCHA\u0141OWSKIEGO",
+    "id": "3403",
+    "latitude": "52.145560",
+    "longitude": "21.043530"
+  },
+  {
+    "name": "JAGIELLO\u0143SKA",
+    "id": "2276",
+    "latitude": "52.245390",
+    "longitude": "21.178160"
+  },
+  {
+    "name": "TAD\u017bYCKA",
+    "id": "2403",
+    "latitude": "52.194280",
+    "longitude": "21.163630"
+  },
+  {
+    "name": "TERMINAL CARGO",
+    "id": "4147",
+    "latitude": "52.158010",
+    "longitude": "20.986470"
+  },
+  {
+    "name": "CHRZAN\u00d3W",
+    "id": "5201",
+    "latitude": "52.227257",
+    "longitude": "20.888001"
+  },
+  {
+    "name": "LIMBY",
+    "id": "2177",
+    "latitude": "52.183430",
+    "longitude": "21.195830"
+  },
+  {
+    "name": "KROKUS\u00d3W",
+    "id": "2056",
+    "latitude": "52.152340",
+    "longitude": "21.187350"
+  },
+  {
+    "name": "JARA",
+    "id": "3197",
+    "latitude": "52.172110",
+    "longitude": "21.107440"
+  },
+  {
+    "name": "VOGLA",
+    "id": "3045",
+    "latitude": "52.158810",
+    "longitude": "21.087320"
+  },
+  {
+    "name": "\u0141YSAKOWSKA",
+    "id": "2061",
+    "latitude": "52.237500",
+    "longitude": "21.143160"
+  },
+  {
+    "name": "SAMOCHODOWA",
+    "id": "3116",
+    "latitude": "52.188960",
+    "longitude": "21.008690"
+  },
+  {
+    "name": "\u0141AZIENKI KR\u00d3LEWSKIE",
+    "id": "7095",
+    "latitude": "52.214050",
+    "longitude": "21.026480"
+  },
+  {
+    "name": "OK\u0118CIE BUSINESS PARK",
+    "id": "4198",
+    "latitude": "52.183403",
+    "longitude": "20.965726"
+  },
+  {
+    "name": "BR\u00d3DNOWSKA",
+    "id": "1071",
+    "latitude": "52.263656",
+    "longitude": "21.038181"
+  },
+  {
+    "name": "METRO STOK\u0141OSY",
+    "id": "3132",
+    "latitude": "52.156460",
+    "longitude": "21.035110"
+  },
+  {
+    "name": "SADY \u017bOLIBORSKIE",
+    "id": "6040",
+    "latitude": "52.264976",
+    "longitude": "20.970018"
+  },
+  {
+    "name": "PKP W\u0141OCHY",
+    "id": "4214",
+    "latitude": "52.205340",
+    "longitude": "20.915690"
+  },
+  {
+    "name": "EDISONA",
+    "id": "2017",
+    "latitude": "52.230090",
+    "longitude": "21.136940"
+  },
+  {
+    "name": "SIEDLISKOWA",
+    "id": "3198",
+    "latitude": "52.177040",
+    "longitude": "21.106330"
+  },
+  {
+    "name": "MIKLASZEWSKIEGO",
+    "id": "3139",
+    "latitude": "52.147220",
+    "longitude": "21.042800"
+  },
+  {
+    "name": "PKP ANIN",
+    "id": "2037",
+    "latitude": "52.213380",
+    "longitude": "21.159050"
+  },
+  {
+    "name": "STASZICA",
+    "id": "2271",
+    "latitude": "52.239660",
+    "longitude": "21.222320"
+  },
+  {
+    "name": "K\u0104TY GRODZISKIE",
+    "id": "1183",
+    "latitude": "52.324910",
+    "longitude": "21.064110"
+  },
+  {
+    "name": "KOSODRZEWINY",
+    "id": "2156",
+    "latitude": "52.156842",
+    "longitude": "21.202726"
+  },
+  {
+    "name": "G\u0141OWACKIEGO",
+    "id": "6189",
+    "latitude": "52.273820",
+    "longitude": "20.915910"
+  },
+  {
+    "name": "\u0141\u0104CZYNY",
+    "id": "3103",
+    "latitude": "52.156790",
+    "longitude": "21.002640"
+  },
+  {
+    "name": "WARSZAWA KO\u0141O",
+    "id": "590702",
+    "latitude": "52.238519",
+    "longitude": "20.958331"
+  },
+  {
+    "name": "POBORZA\u0143SKA",
+    "id": "1084",
+    "latitude": "52.290453",
+    "longitude": "21.029102"
+  },
+  {
+    "name": "OSMA\u0143CZYKA",
+    "id": "5148",
+    "latitude": "52.263110",
+    "longitude": "20.931950"
+  },
+  {
+    "name": "OKOPOWA",
+    "id": "5003",
+    "latitude": "52.237058",
+    "longitude": "20.980826"
+  },
+  {
+    "name": "FOKSAL",
+    "id": "7042",
+    "latitude": "52.232380",
+    "longitude": "21.020010"
+  },
+  {
+    "name": "BRACI ZAWADZKICH",
+    "id": "1254",
+    "latitude": "52.323890",
+    "longitude": "20.969780"
+  },
+  {
+    "name": "\u0141UKOWA",
+    "id": "3443",
+    "latitude": "52.175556",
+    "longitude": "21.041980"
+  },
+  {
+    "name": "KS.SITNIKA",
+    "id": "5023",
+    "latitude": "52.243540",
+    "longitude": "20.947930"
+  },
+  {
+    "name": "KS.BOGUCKIEGO",
+    "id": "6198",
+    "latitude": "52.259789",
+    "longitude": "20.983117"
+  },
+  {
+    "name": "TELIGI",
+    "id": "3122",
+    "latitude": "52.154410",
+    "longitude": "21.049200"
+  },
+  {
+    "name": "KIELECKA",
+    "id": "3118",
+    "latitude": "52.206809",
+    "longitude": "21.003679"
+  },
+  {
+    "name": "POST\u0118PU",
+    "id": "3250",
+    "latitude": "52.178905",
+    "longitude": "20.998164"
+  },
+  {
+    "name": "PO\u017bAROWA",
+    "id": "1079",
+    "latitude": "52.277700",
+    "longitude": "21.027830"
+  },
+  {
+    "name": "GRUSZY",
+    "id": "2371",
+    "latitude": "52.198210",
+    "longitude": "21.169190"
+  },
+  {
+    "name": "PO\u0141CZY\u0143SKA-PARKING P+R",
+    "id": "5001",
+    "latitude": "52.221697",
+    "longitude": "20.923705"
+  },
+  {
+    "name": "SADKOWSKA",
+    "id": "1218",
+    "latitude": "52.336240",
+    "longitude": "20.988950"
+  },
+  {
+    "name": "KOBIA\u0141KA-SZKO\u0141A",
+    "id": "1293",
+    "latitude": "52.361500",
+    "longitude": "21.046290"
+  },
+  {
+    "name": "SGGW-BIBLIOTEKA",
+    "id": "3029",
+    "latitude": "52.164390",
+    "longitude": "21.045910"
+  },
+  {
+    "name": "MORSKIE OKO",
+    "id": "3004",
+    "latitude": "52.202247",
+    "longitude": "21.023158"
+  },
+  {
+    "name": "WIERZCHOWSKIEGO",
+    "id": "2021",
+    "latitude": "52.225600",
+    "longitude": "21.174900"
+  },
+  {
+    "name": "DW.GDA\u0143SKI (RYDYGIERA)",
+    "id": "6212",
+    "latitude": "52.259463",
+    "longitude": "20.993562"
+  },
+  {
+    "name": "HOSER\u00d3W",
+    "id": "3158",
+    "latitude": "52.147690",
+    "longitude": "21.135610"
+  },
+  {
+    "name": "PRZEBIEG",
+    "id": "2084",
+    "latitude": "52.257120",
+    "longitude": "21.166360"
+  },
+  {
+    "name": "SUWALSKA",
+    "id": "1150",
+    "latitude": "52.296134",
+    "longitude": "21.032902"
+  },
+  {
+    "name": "GEN.ZAJ\u0104CZKA",
+    "id": "6001",
+    "latitude": "52.262343",
+    "longitude": "20.992284"
+  },
+  {
+    "name": "CH\u0118CI\u0143SKA",
+    "id": "1117",
+    "latitude": "52.332410",
+    "longitude": "20.958120"
+  },
+  {
+    "name": "OS.DERBY VI",
+    "id": "1357",
+    "latitude": "52.321790",
+    "longitude": "21.056960"
+  },
+  {
+    "name": "BUKOWIECKA",
+    "id": "1048",
+    "latitude": "52.269950",
+    "longitude": "21.078080"
+  },
+  {
+    "name": "CONRADA",
+    "id": "6047",
+    "latitude": "52.270590",
+    "longitude": "20.933390"
+  },
+  {
+    "name": "CHOMICZ\u00d3WKA",
+    "id": "6048",
+    "latitude": "52.272720",
+    "longitude": "20.925450"
+  },
+  {
+    "name": "KARCZOCHA",
+    "id": "3309",
+    "latitude": "52.173710",
+    "longitude": "21.049870"
+  },
+  {
+    "name": "BELGRADZKA",
+    "id": "3200",
+    "latitude": "52.141870",
+    "longitude": "21.066460"
+  },
+  {
+    "name": "DOBKA Z OLE\u015aNICY",
+    "id": "1173",
+    "latitude": "52.322660",
+    "longitude": "21.032490"
+  },
+  {
+    "name": "SOBIESKIEGO",
+    "id": "3042",
+    "latitude": "52.169260",
+    "longitude": "21.069660"
+  },
+  {
+    "name": "POZYTYWKI",
+    "id": "3424",
+    "latitude": "52.110508",
+    "longitude": "21.012505"
+  },
+  {
+    "name": "RECHNIEWSKIEGO",
+    "id": "2502",
+    "latitude": "52.229500",
+    "longitude": "21.107708"
+  },
+  {
+    "name": "S\u0141OWACKIEGO",
+    "id": "2248",
+    "latitude": "52.242710",
+    "longitude": "21.222710"
+  },
+  {
+    "name": "LESZCZY\u0143SKIEGO",
+    "id": "4332",
+    "latitude": "52.205920",
+    "longitude": "20.870150"
+  },
+  {
+    "name": "BEMOWO-RATUSZ",
+    "id": "5034",
+    "latitude": "52.239150",
+    "longitude": "20.914790"
+  },
+  {
+    "name": "MARSZA\u0141KOWSKA",
+    "id": "7009",
+    "latitude": "52.217881",
+    "longitude": "21.020022"
+  },
+  {
+    "name": "LEBIODOWA",
+    "id": "2189",
+    "latitude": "52.205890",
+    "longitude": "21.133860"
+  },
+  {
+    "name": "METRYCZNA",
+    "id": "3155",
+    "latitude": "52.155800",
+    "longitude": "21.124920"
+  },
+  {
+    "name": "ZAK\u0141ADY ZBO\u017bOWE",
+    "id": "1128",
+    "latitude": "52.320760",
+    "longitude": "21.023590"
+  },
+  {
+    "name": "KLIMATYCZNA",
+    "id": "2373",
+    "latitude": "52.188440",
+    "longitude": "21.172560"
+  },
+  {
+    "name": "KENIGA",
+    "id": "4343",
+    "latitude": "52.194760",
+    "longitude": "20.867510"
+  },
+  {
+    "name": "\u017bONKILOWA",
+    "id": "2218",
+    "latitude": "52.202990",
+    "longitude": "21.159000"
+  },
+  {
+    "name": "SZOLC-ROGOZI\u0143SKIEGO",
+    "id": "3144",
+    "latitude": "52.149930",
+    "longitude": "21.053200"
+  },
+  {
+    "name": "AWF",
+    "id": "6008",
+    "latitude": "52.283542",
+    "longitude": "20.955824"
+  },
+  {
+    "name": "JULIANOWSKA",
+    "id": "1082",
+    "latitude": "52.284888",
+    "longitude": "21.032905"
+  },
+  {
+    "name": "\u017bYTNIA",
+    "id": "5084",
+    "latitude": "52.239920",
+    "longitude": "20.977602"
+  },
+  {
+    "name": "CZAT\u00d3W",
+    "id": "2027",
+    "latitude": "52.209750",
+    "longitude": "21.171550"
+  },
+  {
+    "name": "RACJONALIZACJI",
+    "id": "3260",
+    "latitude": "52.185494",
+    "longitude": "20.993652"
+  },
+  {
+    "name": "CHODECKA",
+    "id": "1155",
+    "latitude": "52.288200",
+    "longitude": "21.039910"
+  },
+  {
+    "name": "MOCHTY\u0143SKA-KANA\u0141",
+    "id": "1290",
+    "latitude": "52.347240",
+    "longitude": "21.043210"
+  },
+  {
+    "name": "NARODOWA",
+    "id": "2249",
+    "latitude": "52.214050",
+    "longitude": "21.102140"
+  },
+  {
+    "name": "SZWEDZKA",
+    "id": "1053",
+    "latitude": "52.259770",
+    "longitude": "21.046170"
+  },
+  {
+    "name": "FARBIARSKA",
+    "id": "3395",
+    "latitude": "52.122450",
+    "longitude": "21.013533"
+  },
+  {
+    "name": "PO\u015aREDNIA",
+    "id": "1511",
+    "latitude": "52.309857",
+    "longitude": "21.039833"
+  },
+  {
+    "name": "GROSZ\u00d3WKA",
+    "id": "2279",
+    "latitude": "52.247360",
+    "longitude": "21.207280"
+  },
+  {
+    "name": "K\u0118PA ZAWADOWSKA",
+    "id": "3159",
+    "latitude": "52.145930",
+    "longitude": "21.138210"
+  },
+  {
+    "name": "KINO FEMINA",
+    "id": "7085",
+    "latitude": "52.242350",
+    "longitude": "20.995260"
+  },
+  {
+    "name": "TARG\u00d3WEK-RATUSZ",
+    "id": "1146",
+    "latitude": "52.292170",
+    "longitude": "21.047660"
+  },
+  {
+    "name": "MEISSNERA",
+    "id": "2313",
+    "latitude": "52.221660",
+    "longitude": "21.090600"
+  },
+  {
+    "name": "MARIENSZTAT",
+    "id": "7059",
+    "latitude": "52.246260",
+    "longitude": "21.019520"
+  },
+  {
+    "name": "WYBRZE\u017bE SZCZECI\u0143SKIE",
+    "id": "2399",
+    "latitude": "52.239940",
+    "longitude": "21.041270"
+  },
+  {
+    "name": "DZIECI WARSZAWY",
+    "id": "4094",
+    "latitude": "52.192950",
+    "longitude": "20.908810"
+  },
+  {
+    "name": "KLEMENSIEWICZA",
+    "id": "5035",
+    "latitude": "52.238813",
+    "longitude": "20.905423"
+  },
+  {
+    "name": "WESO\u0141A-RATUSZ",
+    "id": "2281",
+    "latitude": "52.246310",
+    "longitude": "21.222460"
+  },
+  {
+    "name": "HARFOWA",
+    "id": "4310",
+    "latitude": "52.201700",
+    "longitude": "20.964560"
+  },
+  {
+    "name": "WARSZAWA OCHOTA WKD",
+    "id": "4911",
+    "latitude": "52.225500",
+    "longitude": "20.989990"
+  },
+  {
+    "name": "KLASYK\u00d3W",
+    "id": "1022",
+    "latitude": "52.330870",
+    "longitude": "20.965720"
+  },
+  {
+    "name": "URSYN\u00d3W P\u0141D.",
+    "id": "3136",
+    "latitude": "52.153920",
+    "longitude": "21.039330"
+  },
+  {
+    "name": "DZIELNA",
+    "id": "5085",
+    "latitude": "52.241851",
+    "longitude": "20.977948"
+  },
+  {
+    "name": "D\u0104BR\u00d3WKA WI\u015aLANA",
+    "id": "1317",
+    "latitude": "52.348580",
+    "longitude": "20.942400"
+  },
+  {
+    "name": "BOERNEROWO",
+    "id": "5056",
+    "latitude": "52.263473",
+    "longitude": "20.899872"
+  },
+  {
+    "name": "NOWY \u015aWIAT",
+    "id": "7043",
+    "latitude": "52.236720",
+    "longitude": "21.015970"
+  },
+  {
+    "name": "CZYNSZOWA",
+    "id": "1069",
+    "latitude": "52.260033",
+    "longitude": "21.043041"
+  },
+  {
+    "name": "CZAPELSKA",
+    "id": "2009",
+    "latitude": "52.244798",
+    "longitude": "21.091401"
+  },
+  {
+    "name": "KS POLONIA",
+    "id": "7053",
+    "latitude": "52.255711",
+    "longitude": "20.998577"
+  },
+  {
+    "name": "KLASZTORNA",
+    "id": "2317",
+    "latitude": "52.254450",
+    "longitude": "21.163230"
+  },
+  {
+    "name": "LISTONOSZY",
+    "id": "2095",
+    "latitude": "52.274620",
+    "longitude": "21.162350"
+  },
+  {
+    "name": "MEGASAM",
+    "id": "3129",
+    "latitude": "52.158170",
+    "longitude": "21.021230"
+  },
+  {
+    "name": "RASZY\u0143SKA",
+    "id": "4028",
+    "latitude": "52.219860",
+    "longitude": "20.989320"
+  },
+  {
+    "name": "NATOLIN P\u0141N.",
+    "id": "3142",
+    "latitude": "52.145730",
+    "longitude": "21.051330"
+  },
+  {
+    "name": "DW.WILE\u0143SKI",
+    "id": "1003",
+    "latitude": "52.253736",
+    "longitude": "21.035480"
+  },
+  {
+    "name": "REMBERT\u00d3W-KOLONIA",
+    "id": "2086",
+    "latitude": "52.256990",
+    "longitude": "21.177420"
+  },
+  {
+    "name": "KARTEZJUSZA",
+    "id": "5093",
+    "latitude": "52.249620",
+    "longitude": "20.895160"
+  },
+  {
+    "name": "STANIEWICKA",
+    "id": "1078",
+    "latitude": "52.272760",
+    "longitude": "21.032510"
+  },
+  {
+    "name": "BART\u0141OMIEJA",
+    "id": "3247",
+    "latitude": "52.169880",
+    "longitude": "21.008840"
+  },
+  {
+    "name": "ORZECHOWA",
+    "id": "4087",
+    "latitude": "52.191940",
+    "longitude": "20.949260"
+  },
+  {
+    "name": "MOZAIKOWA",
+    "id": "2174",
+    "latitude": "52.184280",
+    "longitude": "21.177270"
+  },
+  {
+    "name": "PANCERA",
+    "id": "1257",
+    "latitude": "52.318304",
+    "longitude": "20.946672"
+  },
+  {
+    "name": "RACZKIEWICZA",
+    "id": "2293",
+    "latitude": "52.223930",
+    "longitude": "21.222500"
+  },
+  {
+    "name": "WA\u0141BRZYSKA-CMENTARZ",
+    "id": "3337",
+    "latitude": "52.173480",
+    "longitude": "21.035890"
+  },
+  {
+    "name": "OSMA\u0143SKA-DHL",
+    "id": "3342",
+    "latitude": "52.150800",
+    "longitude": "20.994810"
+  },
+  {
+    "name": "W\u0141ADYS\u0141AWA HERMANA",
+    "id": "4220",
+    "latitude": "52.195240",
+    "longitude": "20.863170"
+  },
+  {
+    "name": "WARSZAWA OCHOTA",
+    "id": "4901",
+    "latitude": "52.225930",
+    "longitude": "20.991470"
+  },
+  {
+    "name": "RONDO \u017bABCZY\u0143SKIEGO",
+    "id": "3263",
+    "latitude": "52.175610",
+    "longitude": "20.994890"
+  },
+  {
+    "name": "MA\u0141YCH D\u0118B\u00d3W",
+    "id": "1289",
+    "latitude": "52.330900",
+    "longitude": "21.047170"
+  },
+  {
+    "name": "MA\u0143KI-WOJDY",
+    "id": "1226",
+    "latitude": "52.339550",
+    "longitude": "21.047640"
+  },
+  {
+    "name": "SPIRALNA",
+    "id": "3318",
+    "latitude": "52.185830",
+    "longitude": "21.094450"
+  },
+  {
+    "name": "UROCZA",
+    "id": "2378",
+    "latitude": "52.242290",
+    "longitude": "21.190580"
+  },
+  {
+    "name": "WIESIO\u0141KA",
+    "id": "2167",
+    "latitude": "52.172040",
+    "longitude": "21.187150"
+  },
+  {
+    "name": "PODKOWI\u0143SKA",
+    "id": "5082",
+    "latitude": "52.250870",
+    "longitude": "20.875270"
+  },
+  {
+    "name": "G\u00d3RNO\u015aL\u0104SKA",
+    "id": "7077",
+    "latitude": "52.225840",
+    "longitude": "21.041060"
+  },
+  {
+    "name": "ALEKSANDR\u00d3W",
+    "id": "2222",
+    "latitude": "52.169940",
+    "longitude": "21.242460"
+  },
+  {
+    "name": "GOC\u0141AW",
+    "id": "2148",
+    "latitude": "52.222140",
+    "longitude": "21.102260"
+  },
+  {
+    "name": "OGRODY DZIA\u0141KOWE PIASKI",
+    "id": "5164",
+    "latitude": "52.261180",
+    "longitude": "20.940620"
+  },
+  {
+    "name": "POMNIK LOTNIKA",
+    "id": "4029",
+    "latitude": "52.215580",
+    "longitude": "20.988120"
+  },
+  {
+    "name": "PKP RAKOWIEC",
+    "id": "4008",
+    "latitude": "52.197880",
+    "longitude": "20.965389"
+  },
+  {
+    "name": "ASPEKT",
+    "id": "6024",
+    "latitude": "52.278497",
+    "longitude": "20.933881"
+  },
+  {
+    "name": "M\u0141YN MICHLA",
+    "id": "1522",
+    "latitude": "52.256517",
+    "longitude": "21.061903"
+  },
+  {
+    "name": "INSTYTUT HEMATOLOGII",
+    "id": "3299",
+    "latitude": "52.145490",
+    "longitude": "21.037460"
+  },
+  {
+    "name": "SOLIDNA",
+    "id": "2036",
+    "latitude": "52.218850",
+    "longitude": "21.153600"
+  },
+  {
+    "name": "ZDZIARSKA-KANA\u0141",
+    "id": "1225",
+    "latitude": "52.340107",
+    "longitude": "21.050974"
+  },
+  {
+    "name": "SGGW-REKTORAT",
+    "id": "3100",
+    "latitude": "52.162560",
+    "longitude": "21.047740"
+  },
+  {
+    "name": "WIERTNICZA",
+    "id": "3066",
+    "latitude": "52.178520",
+    "longitude": "21.072850"
+  },
+  {
+    "name": "REMBIELI\u0143SKA",
+    "id": "1083",
+    "latitude": "52.288140",
+    "longitude": "21.029640"
+  },
+  {
+    "name": "BYS\u0141AWSKA",
+    "id": "2055",
+    "latitude": "52.155312",
+    "longitude": "21.182487"
+  },
+  {
+    "name": "D\u0141UGOSZA",
+    "id": "5066",
+    "latitude": "52.241014",
+    "longitude": "20.970479"
+  },
+  {
+    "name": "GORZYKOWSKA",
+    "id": "1055",
+    "latitude": "52.268690",
+    "longitude": "21.060180"
+  },
+  {
+    "name": "OGRODY DZIA\u0141KOWE CZERNIAK\u00d3W",
+    "id": "3324",
+    "latitude": "52.202020",
+    "longitude": "21.060130"
+  },
+  {
+    "name": "KANA\u0141 \u017bERA\u0143SKI",
+    "id": "1015",
+    "latitude": "52.299798",
+    "longitude": "20.992913"
+  },
+  {
+    "name": "\u0141OJEWSKA",
+    "id": "1153",
+    "latitude": "52.295520",
+    "longitude": "21.042210"
+  },
+  {
+    "name": "HENRYKA PROBUSA",
+    "id": "4185",
+    "latitude": "52.204490",
+    "longitude": "20.865890"
+  },
+  {
+    "name": "KAROLKOWA",
+    "id": "5041",
+    "latitude": "52.229325",
+    "longitude": "20.979822"
+  },
+  {
+    "name": "GOC\u0141AWEK WSCHODNI",
+    "id": "2259",
+    "latitude": "52.240210",
+    "longitude": "21.128800"
+  },
+  {
+    "name": "URSUS-RATUSZ",
+    "id": "4216",
+    "latitude": "52.201670",
+    "longitude": "20.896210"
+  },
+  {
+    "name": "KOPCI\u0143SKIEGO",
+    "id": "3124",
+    "latitude": "52.157920",
+    "longitude": "21.055650"
+  },
+  {
+    "name": "PERZY\u0143SKIEGO",
+    "id": "6020",
+    "latitude": "52.276290",
+    "longitude": "20.953070"
+  },
+  {
+    "name": "NOWOLIPIE",
+    "id": "5154",
+    "latitude": "52.242060",
+    "longitude": "20.987960"
+  },
+  {
+    "name": "PL.TRZECH KRZY\u017bY",
+    "id": "7040",
+    "latitude": "52.228260",
+    "longitude": "21.023070"
+  },
+  {
+    "name": "POET\u00d3W",
+    "id": "1025",
+    "latitude": "52.343250",
+    "longitude": "20.951590"
+  },
+  {
+    "name": "TU\u0141OWICKA",
+    "id": "6062",
+    "latitude": "52.310140",
+    "longitude": "20.912800"
+  },
+  {
+    "name": "PL.PRZYMIERZA",
+    "id": "2253",
+    "latitude": "52.231180",
+    "longitude": "21.056010"
+  },
+  {
+    "name": "WARTKA",
+    "id": "1124",
+    "latitude": "52.309540",
+    "longitude": "20.988210"
+  },
+  {
+    "name": "FARADAYA",
+    "id": "1090",
+    "latitude": "52.308624",
+    "longitude": "21.015631"
+  },
+  {
+    "name": "MARYNIN",
+    "id": "5074",
+    "latitude": "52.247230",
+    "longitude": "20.925306"
+  },
+  {
+    "name": "O\u015aRODEK LOK",
+    "id": "2202",
+    "latitude": "52.222070",
+    "longitude": "21.063830"
+  },
+  {
+    "name": "WARSZAWA \u015aR\u00d3DMIE\u015aCIE WKD",
+    "id": "7911",
+    "latitude": "52.227560",
+    "longitude": "20.999990"
+  },
+  {
+    "name": "OJCA ANICETA",
+    "id": "1510",
+    "latitude": "52.307497",
+    "longitude": "21.033956"
+  },
+  {
+    "name": "\u0141UKASZCZYKA",
+    "id": "3420",
+    "latitude": "52.147202",
+    "longitude": "21.029412"
+  },
+  {
+    "name": "GIZ\u00d3W",
+    "id": "5203",
+    "latitude": "52.224595",
+    "longitude": "20.944833"
+  },
+  {
+    "name": "BRONOWSKA",
+    "id": "2209",
+    "latitude": "52.198589",
+    "longitude": "21.118689"
+  },
+  {
+    "name": "AL. 3 MAJA",
+    "id": "7064",
+    "latitude": "52.234860",
+    "longitude": "21.033380"
+  },
+  {
+    "name": "ZDZIARSKA",
+    "id": "1347",
+    "latitude": "52.341140",
+    "longitude": "21.059030"
+  },
+  {
+    "name": "AL.ZIELENIECKA",
+    "id": "2001",
+    "latitude": "52.247700",
+    "longitude": "21.046936"
+  },
+  {
+    "name": "DZIKA",
+    "id": "7020",
+    "latitude": "52.252870",
+    "longitude": "20.990830"
+  },
+  {
+    "name": "BARSZCZEWSKA",
+    "id": "6079",
+    "latitude": "52.278360",
+    "longitude": "20.986550"
+  },
+  {
+    "name": "RUDZKA",
+    "id": "6137",
+    "latitude": "52.279400",
+    "longitude": "20.972950"
+  },
+  {
+    "name": "KOSA\u0106COWA",
+    "id": "2054",
+    "latitude": "52.156580",
+    "longitude": "21.188000"
+  },
+  {
+    "name": "OG\u00d3RKOWA",
+    "id": "2199",
+    "latitude": "52.165260",
+    "longitude": "21.161040"
+  },
+  {
+    "name": "GNIEWKOWSKA",
+    "id": "5126",
+    "latitude": "52.212750",
+    "longitude": "20.922080"
+  },
+  {
+    "name": "RZESZOTARSKIEJ",
+    "id": "1052",
+    "latitude": "52.256870",
+    "longitude": "21.039410"
+  },
+  {
+    "name": "SOCHACZEWSKA",
+    "id": "5015",
+    "latitude": "52.216580",
+    "longitude": "20.885690"
+  },
+  {
+    "name": "CYKLAMEN\u00d3W",
+    "id": "2213",
+    "latitude": "52.178761",
+    "longitude": "21.139463"
+  },
+  {
+    "name": "DRZEWIECKIEGO",
+    "id": "4143",
+    "latitude": "52.181380",
+    "longitude": "20.974090"
+  },
+  {
+    "name": "PRA\u017bMOWSKA",
+    "id": "4209",
+    "latitude": "52.192920",
+    "longitude": "20.879240"
+  },
+  {
+    "name": "OS.WY\u017bYNY",
+    "id": "3195",
+    "latitude": "52.137500",
+    "longitude": "21.050090"
+  },
+  {
+    "name": "TEATR KOMEDIA",
+    "id": "6004",
+    "latitude": "52.270420",
+    "longitude": "20.978900"
+  },
+  {
+    "name": "PKP REMBERT\u00d3W",
+    "id": "2070",
+    "latitude": "52.255440",
+    "longitude": "21.155800"
+  },
+  {
+    "name": "ROGOWSKA",
+    "id": "1142",
+    "latitude": "52.270520",
+    "longitude": "21.041530"
+  },
+  {
+    "name": "MADALI\u0143SKIEGO",
+    "id": "3229",
+    "latitude": "52.202810",
+    "longitude": "21.010190"
+  },
+  {
+    "name": "BIBLIOTEKA NARODOWA",
+    "id": "7094",
+    "latitude": "52.212840",
+    "longitude": "21.005970"
+  },
+  {
+    "name": "KONCERTOWA",
+    "id": "3298",
+    "latitude": "52.163570",
+    "longitude": "21.026800"
+  },
+  {
+    "name": "WRZECIONO",
+    "id": "6070",
+    "latitude": "52.292010",
+    "longitude": "20.937740"
+  },
+  {
+    "name": "GIERDZIEJEWSKIEGO",
+    "id": "4127",
+    "latitude": "52.199020",
+    "longitude": "20.878610"
+  },
+  {
+    "name": "CM.WAWRZYSZEWSKI",
+    "id": "6025",
+    "latitude": "52.279946",
+    "longitude": "20.928544"
+  },
+  {
+    "name": "LISTOPADA,                   r 106604  IN\u017bYNIERSKA",
+    "id": "11",
+    "latitude": "52.238124",
+    "longitude": "21.119004"
+  },
+  {
+    "name": "PIASTOWSKA",
+    "id": "4134",
+    "latitude": "52.187920",
+    "longitude": "20.873540"
+  },
+  {
+    "name": "OCZAPOWSKIEGO",
+    "id": "6054",
+    "latitude": "52.283900",
+    "longitude": "20.944340"
+  },
+  {
+    "name": "SMUGOWA",
+    "id": "1098",
+    "latitude": "52.324300",
+    "longitude": "20.993520"
+  },
+  {
+    "name": "MI\u0141OB\u0118DZKA",
+    "id": "3255",
+    "latitude": "52.196530",
+    "longitude": "20.993840"
+  },
+  {
+    "name": "AFRYKA\u0143SKA",
+    "id": "2143",
+    "latitude": "52.225070",
+    "longitude": "21.072290"
+  },
+  {
+    "name": "KOCJANA-BOCZNICA",
+    "id": "5080",
+    "latitude": "52.251420",
+    "longitude": "20.883870"
+  },
+  {
+    "name": "AUGUST\u00d3WKA",
+    "id": "3078",
+    "latitude": "52.194960",
+    "longitude": "21.087840"
+  },
+  {
+    "name": "OGRODY DZIA\u0141KOWE BEMOWO",
+    "id": "5065",
+    "latitude": "52.269210",
+    "longitude": "20.933170"
+  },
+  {
+    "name": "TARCHOMIN",
+    "id": "1277",
+    "latitude": "52.318250",
+    "longitude": "20.952760"
+  },
+  {
+    "name": "TUZINOWA",
+    "id": "3317",
+    "latitude": "52.185350",
+    "longitude": "21.098310"
+  },
+  {
+    "name": "O\u0141\u00d3WKOWA",
+    "id": "1105",
+    "latitude": "52.338680",
+    "longitude": "20.992440"
+  },
+  {
+    "name": "MARCELIN",
+    "id": "1097",
+    "latitude": "52.319220",
+    "longitude": "20.997210"
+  },
+  {
+    "name": "SCHROEGERA",
+    "id": "6097",
+    "latitude": "52.280850",
+    "longitude": "20.939810"
+  },
+  {
+    "name": "PARK TRAUGUTTA",
+    "id": "7054",
+    "latitude": "52.258666",
+    "longitude": "21.003276"
+  },
+  {
+    "name": "MERA-PNEFAL",
+    "id": "2053",
+    "latitude": "52.158462",
+    "longitude": "21.197294"
+  },
+  {
+    "name": "BOHATEREWICZA",
+    "id": "2417",
+    "latitude": "52.231240",
+    "longitude": "21.090942"
+  },
+  {
+    "name": "PL.OSTREJ BRAMY",
+    "id": "1481",
+    "latitude": "52.275108",
+    "longitude": "21.082600"
+  },
+  {
+    "name": "ROMASZEWSKIEGO",
+    "id": "6043",
+    "latitude": "52.269551",
+    "longitude": "20.953008"
+  },
+  {
+    "name": "ZAJEZDNIA REDUTOWA",
+    "id": "5098",
+    "latitude": "52.230250",
+    "longitude": "20.942080"
+  },
+  {
+    "name": "UTRATA",
+    "id": "1043",
+    "latitude": "52.260650",
+    "longitude": "21.100630"
+  },
+  {
+    "name": "SASKA",
+    "id": "2097",
+    "latitude": "52.228440",
+    "longitude": "21.061720"
+  },
+  {
+    "name": "TRASA \u0141AZIENKOWSKA",
+    "id": "7080",
+    "latitude": "52.217765",
+    "longitude": "21.019048"
+  },
+  {
+    "name": "POTULICKA",
+    "id": "1304",
+    "latitude": "52.286670",
+    "longitude": "21.082330"
+  },
+  {
+    "name": "GARWOLI\u0143SKA",
+    "id": "2111",
+    "latitude": "52.249920",
+    "longitude": "21.091430"
+  },
+  {
+    "name": "SZCZ\u0118\u015aLIWICE",
+    "id": "4119",
+    "latitude": "52.208120",
+    "longitude": "20.963820"
+  },
+  {
+    "name": "OSIEDLE",
+    "id": "1422",
+    "latitude": "52.345910",
+    "longitude": "20.943460"
+  },
+  {
+    "name": "WARSZAWA URSUS-NIED\u0179WIADEK",
+    "id": "4923",
+    "latitude": "52.191525",
+    "longitude": "20.870242"
+  },
+  {
+    "name": "GO\u015aCIERADOWSKA",
+    "id": "1213",
+    "latitude": "52.276240",
+    "longitude": "21.047220"
+  },
+  {
+    "name": "WO\u0141OMI\u0143SKA",
+    "id": "1160",
+    "latitude": "52.262710",
+    "longitude": "21.054790"
+  },
+  {
+    "name": "JANA KAZIMIERZA",
+    "id": "5205",
+    "latitude": "52.222089",
+    "longitude": "20.936150"
+  },
+  {
+    "name": "SZUMI\u0104CYCH TRAW",
+    "id": "1504",
+    "latitude": "52.309554",
+    "longitude": "21.058504"
+  },
+  {
+    "name": "SGGW-KLINIKA",
+    "id": "3206",
+    "latitude": "52.160450",
+    "longitude": "21.049900"
+  },
+  {
+    "name": "ROKOKOWA",
+    "id": "6064",
+    "latitude": "52.286330",
+    "longitude": "20.909360"
+  },
+  {
+    "name": "CM.P\u00d3\u0141NOCNY-BRAMA P\u0141N.",
+    "id": "6071",
+    "latitude": "52.305310",
+    "longitude": "20.907760"
+  },
+  {
+    "name": "AL.JANA PAW\u0141A II",
+    "id": "7087",
+    "latitude": "52.236050",
+    "longitude": "20.998070"
+  },
+  {
+    "name": "GRAWERSKA",
+    "id": "2449",
+    "latitude": "52.255395",
+    "longitude": "21.158456"
+  },
+  {
+    "name": "M\u0141YN\u00d3W",
+    "id": "5067",
+    "latitude": "52.244641",
+    "longitude": "20.965807"
+  },
+  {
+    "name": "TARG\u00d3WEK",
+    "id": "1141",
+    "latitude": "52.276720",
+    "longitude": "21.053020"
+  },
+  {
+    "name": "\u0141ABISZY\u0143SKA",
+    "id": "1149",
+    "latitude": "52.293680",
+    "longitude": "21.032510"
+  },
+  {
+    "name": "BUKOWI\u0143SKA",
+    "id": "3008",
+    "latitude": "52.186100",
+    "longitude": "21.024350"
+  },
+  {
+    "name": "\u015aMIGIELSKA",
+    "id": "4219",
+    "latitude": "52.198330",
+    "longitude": "20.870680"
+  },
+  {
+    "name": "PARCELACYJNA",
+    "id": "1113",
+    "latitude": "52.346560",
+    "longitude": "20.975400"
+  },
+  {
+    "name": "WAWELSKA",
+    "id": "4121",
+    "latitude": "52.217030",
+    "longitude": "20.981810"
+  },
+  {
+    "name": "UKSW",
+    "id": "6011",
+    "latitude": "52.289281",
+    "longitude": "20.950392"
+  },
+  {
+    "name": "SAGALLI",
+    "id": "2345",
+    "latitude": "52.222320",
+    "longitude": "21.222990"
+  },
+  {
+    "name": "PL.HALLERA",
+    "id": "1005",
+    "latitude": "52.258150",
+    "longitude": "21.027009"
+  },
+  {
+    "name": "CENTRUM ZDROWIA DZIECKA",
+    "id": "2031",
+    "latitude": "52.207430",
+    "longitude": "21.191480"
+  },
+  {
+    "name": "AMBARAS",
+    "id": "1108",
+    "latitude": "52.340860",
+    "longitude": "20.999710"
+  },
+  {
+    "name": "RONDO WASZYNGTONA",
+    "id": "2131",
+    "latitude": "52.237960",
+    "longitude": "21.049980"
+  },
+  {
+    "name": "DW.GDA\u0143SKI",
+    "id": "7019",
+    "latitude": "52.258217",
+    "longitude": "20.995544"
+  },
+  {
+    "name": "KONDUKTORSKA",
+    "id": "3117",
+    "latitude": "52.200980",
+    "longitude": "21.031300"
+  },
+  {
+    "name": "P\u0141OWIECKA",
+    "id": "2015",
+    "latitude": "52.234836",
+    "longitude": "21.126036"
+  },
+  {
+    "name": "OS.PATIO",
+    "id": "3334",
+    "latitude": "52.127140",
+    "longitude": "21.096330"
+  },
+  {
+    "name": "DOJAZDOWA",
+    "id": "4091",
+    "latitude": "52.198310",
+    "longitude": "20.919430"
+  },
+  {
+    "name": "BELLOTTIEGO",
+    "id": "5166",
+    "latitude": "52.243100",
+    "longitude": "20.980870"
+  },
+  {
+    "name": "KONWALIOWA",
+    "id": "1016",
+    "latitude": "52.302750",
+    "longitude": "20.989760"
+  },
+  {
+    "name": "ANDERSENA",
+    "id": "6023",
+    "latitude": "52.277440",
+    "longitude": "20.938730"
+  },
+  {
+    "name": "NOSKOWSKIEGO",
+    "id": "3097",
+    "latitude": "52.172567",
+    "longitude": "21.039084"
+  },
+  {
+    "name": "LEGIA-STADION",
+    "id": "7075",
+    "latitude": "52.220700",
+    "longitude": "21.044810"
+  },
+  {
+    "name": "PL.POWSTA\u0143C\u00d3W WARSZAWY",
+    "id": "7031",
+    "latitude": "52.235180",
+    "longitude": "21.013790"
+  },
+  {
+    "name": "OS.ZIELONY STAW",
+    "id": "5078",
+    "latitude": "52.246740",
+    "longitude": "20.906212"
+  },
+  {
+    "name": "GOC\u0141AWEK",
+    "id": "2014",
+    "latitude": "52.237931",
+    "longitude": "21.119024"
+  },
+  {
+    "name": "ZB\u00d3JNOG\u00d3RSKA",
+    "id": "2314",
+    "latitude": "52.191710",
+    "longitude": "21.181710"
+  },
+  {
+    "name": "MOST \u015aWI\u0118TOKRZYSKI",
+    "id": "1232",
+    "latitude": "52.242738",
+    "longitude": "21.038715"
+  },
+  {
+    "name": "WIELICKA",
+    "id": "3109",
+    "latitude": "52.189490",
+    "longitude": "21.019330"
+  },
+  {
+    "name": "KALORYCZNA",
+    "id": "3076",
+    "latitude": "52.198710",
+    "longitude": "21.081330"
+  },
+  {
+    "name": "LOKAJSKIEGO",
+    "id": "3201",
+    "latitude": "52.138960",
+    "longitude": "21.068090"
+  },
+  {
+    "name": "WROC\u0141AWSKA",
+    "id": "5064",
+    "latitude": "52.257992",
+    "longitude": "20.920862"
+  },
+  {
+    "name": "OS.ISKRA",
+    "id": "2269",
+    "latitude": "52.221220",
+    "longitude": "21.097360"
+  },
+  {
+    "name": "KADET\u00d3W-KO\u015aCI\u00d3\u0141",
+    "id": "2387",
+    "latitude": "52.214860",
+    "longitude": "21.118550"
+  },
+  {
+    "name": "ARESZT \u015aLEDCZY GROCH\u00d3W",
+    "id": "2365",
+    "latitude": "52.255850",
+    "longitude": "21.114060"
+  },
+  {
+    "name": "D\u0104BR\u00d3WKA",
+    "id": "3023",
+    "latitude": "52.105670",
+    "longitude": "21.018360"
+  },
+  {
+    "name": "WIDAWSKA",
+    "id": "5107",
+    "latitude": "52.252550",
+    "longitude": "20.924060"
+  },
+  {
+    "name": "ADAMPOLSKA",
+    "id": "2138",
+    "latitude": "52.237280",
+    "longitude": "21.057040"
+  },
+  {
+    "name": "BUDOWLANA",
+    "id": "1080",
+    "latitude": "52.280250",
+    "longitude": "21.025910"
+  },
+  {
+    "name": "ROSNOWSKIEGO",
+    "id": "3423",
+    "latitude": "52.130328",
+    "longitude": "21.078775"
+  },
+  {
+    "name": "NOWOLIPKI",
+    "id": "7082",
+    "latitude": "52.244120",
+    "longitude": "20.991360"
+  },
+  {
+    "name": "NA SKRAJU",
+    "id": "4019",
+    "latitude": "52.163770",
+    "longitude": "20.930740"
+  },
+  {
+    "name": "TYTU\u0141OWA",
+    "id": "6028",
+    "latitude": "52.283070",
+    "longitude": "20.915460"
+  },
+  {
+    "name": "MOTYLKOWA",
+    "id": "2217",
+    "latitude": "52.201039",
+    "longitude": "21.149832"
+  },
+  {
+    "name": "TARNINY",
+    "id": "3404",
+    "latitude": "52.171370",
+    "longitude": "21.010980"
+  },
+  {
+    "name": "PARK M\u0141OCI\u0143SKI",
+    "id": "6018",
+    "latitude": "52.313882",
+    "longitude": "20.921344"
+  },
+  {
+    "name": "OCHOTA-RATUSZ",
+    "id": "4002",
+    "latitude": "52.222508",
+    "longitude": "20.986632"
+  },
+  {
+    "name": "SIENNA",
+    "id": "5088",
+    "latitude": "52.229800",
+    "longitude": "20.993650"
+  },
+  {
+    "name": "MAGISTRACKA",
+    "id": "5070",
+    "latitude": "52.247280",
+    "longitude": "20.952900"
+  },
+  {
+    "name": "CENTRUM OLIMPIJSKIE",
+    "id": "6096",
+    "latitude": "52.270480",
+    "longitude": "20.996890"
+  },
+  {
+    "name": "LUSI\u0143SKA",
+    "id": "1517",
+    "latitude": "52.274311",
+    "longitude": "21.049568"
+  },
+  {
+    "name": "KLARYSEWSKA",
+    "id": "3092",
+    "latitude": "52.184840",
+    "longitude": "21.060900"
+  },
+  {
+    "name": "IWICKA",
+    "id": "3085",
+    "latitude": "52.206560",
+    "longitude": "21.043270"
+  },
+  {
+    "name": "KORBO\u0143SKIEGO",
+    "id": "3382",
+    "latitude": "52.130310",
+    "longitude": "21.097900"
+  },
+  {
+    "name": "SASANKI",
+    "id": "4037",
+    "latitude": "52.182770",
+    "longitude": "20.978350"
+  },
+  {
+    "name": "BALEYA",
+    "id": "4034",
+    "latitude": "52.195610",
+    "longitude": "20.982750"
+  },
+  {
+    "name": "WAPOWSKIEGO",
+    "id": "4098",
+    "latitude": "52.190650",
+    "longitude": "20.891940"
+  },
+  {
+    "name": "SZASER\u00d3W",
+    "id": "2268",
+    "latitude": "52.244340",
+    "longitude": "21.117890"
+  },
+  {
+    "name": "WR\u00d3BLA",
+    "id": "3096",
+    "latitude": "52.173360",
+    "longitude": "21.029600"
+  },
+  {
+    "name": "WYSZKOWSKA",
+    "id": "1223",
+    "latitude": "52.329240",
+    "longitude": "21.058810"
+  },
+  {
+    "name": "EC SIEKIERKI",
+    "id": "3079",
+    "latitude": "52.193420",
+    "longitude": "21.083990"
+  },
+  {
+    "name": "BERESTECKA",
+    "id": "4051",
+    "latitude": "52.212480",
+    "longitude": "20.953440"
+  },
+  {
+    "name": "RAGINISA",
+    "id": "5108",
+    "latitude": "52.228370",
+    "longitude": "20.907900"
+  },
+  {
+    "name": "BOHUNA",
+    "id": "1496",
+    "latitude": "52.321370",
+    "longitude": "21.049510"
+  },
+  {
+    "name": "BR\u00d3DNO-PODGRODZIE",
+    "id": "1152",
+    "latitude": "52.299260",
+    "longitude": "21.042540"
+  },
+  {
+    "name": "SZYMA\u0143SKIEGO",
+    "id": "2072",
+    "latitude": "52.247730",
+    "longitude": "21.132350"
+  },
+  {
+    "name": "WARSZAWA ZOO",
+    "id": "1901",
+    "latitude": "52.263400",
+    "longitude": "21.017290"
+  },
+  {
+    "name": "WARSZAWA WAWER",
+    "id": "2904",
+    "latitude": "52.223860",
+    "longitude": "21.149170"
+  },
+  {
+    "name": "WO\u0141OSKA",
+    "id": "3239",
+    "latitude": "52.194796",
+    "longitude": "21.001426"
+  },
+  {
+    "name": "URSUS-SANKTUARIUM",
+    "id": "4211",
+    "latitude": "52.191674",
+    "longitude": "20.861269"
+  },
+  {
+    "name": "OS.G\u00d3RCZEWSKA",
+    "id": "5050",
+    "latitude": "52.239260",
+    "longitude": "20.896213"
+  },
+  {
+    "name": "WILAN\u00d3W",
+    "id": "3044",
+    "latitude": "52.165180",
+    "longitude": "21.084200"
+  },
+  {
+    "name": "CM.OFIAR WOJNY",
+    "id": "2125",
+    "latitude": "52.234480",
+    "longitude": "21.158110"
+  },
+  {
+    "name": "PKP URSUS P\u0141N.",
+    "id": "4129",
+    "latitude": "52.205830",
+    "longitude": "20.888770"
+  },
+  {
+    "name": "TOR KOLARSKI",
+    "id": "2123",
+    "latitude": "52.251970",
+    "longitude": "21.073410"
+  },
+  {
+    "name": "PL.SZEMBEKA",
+    "id": "2011",
+    "latitude": "52.242720",
+    "longitude": "21.101140"
+  },
+  {
+    "name": "BERENSONA",
+    "id": "1287",
+    "latitude": "52.322020",
+    "longitude": "21.049310"
+  },
+  {
+    "name": "BIELA\u0143SKA",
+    "id": "7101",
+    "latitude": "52.244720",
+    "longitude": "21.004851"
+  },
+  {
+    "name": "IN\u017bYNIERSKA",
+    "id": "1066",
+    "latitude": "52.258458",
+    "longitude": "21.034458"
+  },
+  {
+    "name": "CERAMICZNA",
+    "id": "1312",
+    "latitude": "52.320610",
+    "longitude": "20.968710"
+  },
+  {
+    "name": "REZEDOWA",
+    "id": "2060",
+    "latitude": "52.238150",
+    "longitude": "21.138850"
+  },
+  {
+    "name": "DW.ZACHODNI (TUNELOWA)",
+    "id": "5121",
+    "latitude": "52.221360",
+    "longitude": "20.964700"
+  },
+  {
+    "name": "TKACZY",
+    "id": "5013",
+    "latitude": "52.218250",
+    "longitude": "20.909140"
+  },
+  {
+    "name": "PIEL\u0118GNIAREK",
+    "id": "2264",
+    "latitude": "52.214220",
+    "longitude": "21.142430"
+  },
+  {
+    "name": "RONDO DASZY\u0143SKIEGO",
+    "id": "5040",
+    "latitude": "52.230450",
+    "longitude": "20.986050"
+  },
+  {
+    "name": "OBJAZDOWA",
+    "id": "2292",
+    "latitude": "52.224300",
+    "longitude": "21.209950"
+  },
+  {
+    "name": "\u015aW.HIERONIMA",
+    "id": "1161",
+    "latitude": "52.292300",
+    "longitude": "21.021950"
+  },
+  {
+    "name": "ZASOBNA",
+    "id": "2173",
+    "latitude": "52.183910",
+    "longitude": "21.171900"
+  },
+  {
+    "name": "PIMOT",
+    "id": "1008",
+    "latitude": "52.270007",
+    "longitude": "21.017569"
+  },
+  {
+    "name": "DALIBORA",
+    "id": "5072",
+    "latitude": "52.246776",
+    "longitude": "20.942247"
+  },
+  {
+    "name": "SZPITAL BIELA\u0143SKI",
+    "id": "6010",
+    "latitude": "52.287450",
+    "longitude": "20.952150"
+  },
+  {
+    "name": "PIECHUR\u00d3W",
+    "id": "2038",
+    "latitude": "52.209520",
+    "longitude": "21.163040"
+  },
+  {
+    "name": "ZERZE\u0143",
+    "id": "2191",
+    "latitude": "52.199013",
+    "longitude": "21.134745"
+  },
+  {
+    "name": "MOST GDA\u0143SKI",
+    "id": "7055",
+    "latitude": "52.260060",
+    "longitude": "21.007090"
+  },
+  {
+    "name": "STRZELECKIEGO",
+    "id": "3121",
+    "latitude": "52.156120",
+    "longitude": "21.045000"
+  },
+  {
+    "name": "DS RIVIERA",
+    "id": "7036",
+    "latitude": "52.215970",
+    "longitude": "21.015290"
+  },
+  {
+    "name": "POMNIK SAPERA",
+    "id": "7098",
+    "latitude": "52.228331",
+    "longitude": "21.042022"
+  },
+  {
+    "name": "DZIER\u017bONIOWSKA",
+    "id": "6017",
+    "latitude": "52.308650",
+    "longitude": "20.927680"
+  },
+  {
+    "name": "LITEWSKA",
+    "id": "7008",
+    "latitude": "52.216020",
+    "longitude": "21.020080"
+  },
+  {
+    "name": "ZIELONA",
+    "id": "2379",
+    "latitude": "52.238790",
+    "longitude": "21.191700"
+  },
+  {
+    "name": "BARTOSZYCKA",
+    "id": "2161",
+    "latitude": "52.162240",
+    "longitude": "21.221180"
+  },
+  {
+    "name": "PLUTONU TORPEDY",
+    "id": "4313",
+    "latitude": "52.196830",
+    "longitude": "20.890290"
+  },
+  {
+    "name": "DZIERZGO\u0143SKA",
+    "id": "1405",
+    "latitude": "52.339840",
+    "longitude": "20.940220"
+  },
+  {
+    "name": "ZARUBY",
+    "id": "3288",
+    "latitude": "52.132150",
+    "longitude": "21.071948"
+  },
+  {
+    "name": "KACZMARSKIEGO",
+    "id": "3112",
+    "latitude": "52.183000",
+    "longitude": "21.013960"
+  },
+  {
+    "name": "SPACEROWA",
+    "id": "3026",
+    "latitude": "52.206030",
+    "longitude": "21.031430"
+  },
+  {
+    "name": "LEWINOWSKA",
+    "id": "1064",
+    "latitude": "52.286500",
+    "longitude": "21.086770"
+  },
+  {
+    "name": "NIZINNA",
+    "id": "2295",
+    "latitude": "52.223300",
+    "longitude": "21.238320"
+  },
+  {
+    "name": "NIED\u0179WIEDZIA",
+    "id": "3010",
+    "latitude": "52.176423",
+    "longitude": "21.020854"
+  },
+  {
+    "name": "ZAPLECZE",
+    "id": "1127",
+    "latitude": "52.318660",
+    "longitude": "21.018830"
+  },
+  {
+    "name": "WOJCIECHOWSKIEGO",
+    "id": "4228",
+    "latitude": "52.195910",
+    "longitude": "20.879690"
+  },
+  {
+    "name": "PARK PRASKI",
+    "id": "1163",
+    "latitude": "52.252573",
+    "longitude": "21.029632"
+  },
+  {
+    "name": "HALA KOPI\u0143SKA",
+    "id": "4116",
+    "latitude": "52.217240",
+    "longitude": "20.978050"
+  },
+  {
+    "name": "PL.KASZTELA\u0143SKI",
+    "id": "5059",
+    "latitude": "52.231020",
+    "longitude": "20.914850"
+  },
+  {
+    "name": "NIK",
+    "id": "4153",
+    "latitude": "52.218932",
+    "longitude": "20.999097"
+  },
+  {
+    "name": "FRACHTOWA",
+    "id": "1438",
+    "latitude": "52.358880",
+    "longitude": "21.038720"
+  },
+  {
+    "name": "WARSZAWA TORU\u0143SKA",
+    "id": "1903",
+    "latitude": "52.293270",
+    "longitude": "21.013520"
+  },
+  {
+    "name": "WALECZNYCH",
+    "id": "2139",
+    "latitude": "52.234940",
+    "longitude": "21.059510"
+  },
+  {
+    "name": "KAROLIN",
+    "id": "5092",
+    "latitude": "52.216380",
+    "longitude": "20.881540"
+  },
+  {
+    "name": "PL.NARUTOWICZA",
+    "id": "4003",
+    "latitude": "52.220333",
+    "longitude": "20.984919"
+  },
+  {
+    "name": "RONDO ZES\u0141A\u0143C\u00d3W SYBERYJSKICH",
+    "id": "4045",
+    "latitude": "52.216160",
+    "longitude": "20.959490"
+  },
+  {
+    "name": "G\u0104SEK",
+    "id": "3053",
+    "latitude": "52.120917",
+    "longitude": "21.093167"
+  },
+  {
+    "name": "SUZINA",
+    "id": "6098",
+    "latitude": "52.267080",
+    "longitude": "20.979900"
+  },
+  {
+    "name": "WIEJSKA",
+    "id": "7039",
+    "latitude": "52.224280",
+    "longitude": "21.028770"
+  },
+  {
+    "name": "LIPOWCZANA",
+    "id": "4013",
+    "latitude": "52.183274",
+    "longitude": "20.951596"
+  },
+  {
+    "name": "ATRAKCYJNA",
+    "id": "1224",
+    "latitude": "52.332990",
+    "longitude": "21.055130"
+  },
+  {
+    "name": "RAFII",
+    "id": "2071",
+    "latitude": "52.244470",
+    "longitude": "21.134160"
+  },
+  {
+    "name": "PARK MOCZYD\u0141O",
+    "id": "5020",
+    "latitude": "52.238450",
+    "longitude": "20.949590"
+  },
+  {
+    "name": "FABRYCZNA",
+    "id": "2294",
+    "latitude": "52.223610",
+    "longitude": "21.229900"
+  },
+  {
+    "name": "MALINOWA",
+    "id": "4100",
+    "latitude": "52.193788",
+    "longitude": "20.883565"
+  },
+  {
+    "name": "BIA\u0141O\u0141\u0118KA DWORSKA",
+    "id": "1110",
+    "latitude": "52.336210",
+    "longitude": "21.004330"
+  },
+  {
+    "name": "RAKOWIECKA",
+    "id": "3002",
+    "latitude": "52.210350",
+    "longitude": "21.020700"
+  },
+  {
+    "name": "POW\u0104ZKI-IV BRAMA",
+    "id": "5158",
+    "latitude": "52.254240",
+    "longitude": "20.973940"
+  },
+  {
+    "name": "ARCHIMEDESA",
+    "id": "5054",
+    "latitude": "52.255640",
+    "longitude": "20.897920"
+  },
+  {
+    "name": "KRZESIWA",
+    "id": "1430",
+    "latitude": "52.279020",
+    "longitude": "21.078210"
+  },
+  {
+    "name": "RAKOWIECKA-SANKTUARIUM",
+    "id": "3286",
+    "latitude": "52.205110",
+    "longitude": "20.999120"
+  },
+  {
+    "name": "MASZEWSKA",
+    "id": "6190",
+    "latitude": "52.273170",
+    "longitude": "20.911350"
+  },
+  {
+    "name": "BODYCHA",
+    "id": "4243",
+    "latitude": "52.182540",
+    "longitude": "20.891960"
+  },
+  {
+    "name": "METRO KABATY",
+    "id": "3282",
+    "latitude": "52.131713",
+    "longitude": "21.065634"
+  },
+  {
+    "name": "SOBOCKA",
+    "id": "6136",
+    "latitude": "52.281750",
+    "longitude": "20.972570"
+  },
+  {
+    "name": "BOLE\u015a\u0106",
+    "id": "7104",
+    "latitude": "52.252090",
+    "longitude": "21.014350"
+  },
+  {
+    "name": "MONTE CASSINO",
+    "id": "5019",
+    "latitude": "52.236620",
+    "longitude": "20.948051"
+  },
+  {
+    "name": "PIOTRA SKARGI",
+    "id": "1054",
+    "latitude": "52.266720",
+    "longitude": "21.058520"
+  },
+  {
+    "name": "KOMBAJNIST\u00d3W",
+    "id": "2190",
+    "latitude": "52.203040",
+    "longitude": "21.134230"
+  },
+  {
+    "name": "KAMYKOWA",
+    "id": "1355",
+    "latitude": "52.317720",
+    "longitude": "21.041810"
+  },
+  {
+    "name": "KSI\u0118CIA BOLES\u0141AWA",
+    "id": "5152",
+    "latitude": "52.252500",
+    "longitude": "20.935450"
+  },
+  {
+    "name": "NOWY ZJAZD",
+    "id": "7058",
+    "latitude": "52.246860",
+    "longitude": "21.020420"
+  },
+  {
+    "name": "KAFLOWA",
+    "id": "1497",
+    "latitude": "52.322600",
+    "longitude": "20.965500"
+  },
+  {
+    "name": "STR\u0104KOWA",
+    "id": "5105",
+    "latitude": "52.232080",
+    "longitude": "20.925860"
+  },
+  {
+    "name": "PROZY",
+    "id": "6015",
+    "latitude": "52.300426",
+    "longitude": "20.939480"
+  },
+  {
+    "name": "MA\u0141E SIEKIERKI",
+    "id": "3323",
+    "latitude": "52.203060",
+    "longitude": "21.066620"
+  },
+  {
+    "name": "WARSZAWA MI\u0118DZYLESIE",
+    "id": "2906",
+    "latitude": "52.204310",
+    "longitude": "21.168710"
+  },
+  {
+    "name": "REMBERT\u00d3W-AKADEMIA",
+    "id": "2088",
+    "latitude": "52.264270",
+    "longitude": "21.169100"
+  },
+  {
+    "name": "SZASER\u00d3W-SZPITAL",
+    "id": "2112",
+    "latitude": "52.250230",
+    "longitude": "21.087790"
+  },
+  {
+    "name": "DANISZEWSKA",
+    "id": "1093",
+    "latitude": "52.306680",
+    "longitude": "21.006910"
+  },
+  {
+    "name": "SUWAK",
+    "id": "3410",
+    "latitude": "52.183637",
+    "longitude": "20.988691"
+  },
+  {
+    "name": "RONDO \"RADOS\u0141AWA\"",
+    "id": "7091",
+    "latitude": "52.252930",
+    "longitude": "20.983680"
+  },
+  {
+    "name": "PARK DRESZERA",
+    "id": "3005",
+    "latitude": "52.197682",
+    "longitude": "21.023788"
+  },
+  {
+    "name": "PODCZASZY\u0143SKIEGO",
+    "id": "6051",
+    "latitude": "52.278500",
+    "longitude": "20.956100"
+  },
+  {
+    "name": "ANNY GERMAN",
+    "id": "6215",
+    "latitude": "52.259734",
+    "longitude": "20.974769"
+  },
+  {
+    "name": "STAROD\u0118BY",
+    "id": "4131",
+    "latitude": "52.184340",
+    "longitude": "20.899530"
+  },
+  {
+    "name": "WYBRZE\u017bE HELSKIE",
+    "id": "1164",
+    "latitude": "52.262270",
+    "longitude": "21.014090"
+  },
+  {
+    "name": "DOSTAWCZA",
+    "id": "5117",
+    "latitude": "52.216340",
+    "longitude": "20.891880"
+  },
+  {
+    "name": "INSTRUKTORSKA",
+    "id": "2322",
+    "latitude": "52.250350",
+    "longitude": "21.174360"
+  },
+  {
+    "name": "SIEDMIOGRODZKA",
+    "id": "5095",
+    "latitude": "52.232310",
+    "longitude": "20.976720"
+  },
+  {
+    "name": "WOJNICKA",
+    "id": "1030",
+    "latitude": "52.257354",
+    "longitude": "21.056152"
+  },
+  {
+    "name": "PRATULI\u0143SKA",
+    "id": "1140",
+    "latitude": "52.275018",
+    "longitude": "21.056284"
+  },
+  {
+    "name": "SZYSZKOWA",
+    "id": "4016",
+    "latitude": "52.171960",
+    "longitude": "20.939660"
+  },
+  {
+    "name": "LE\u015aNEJ POLANKI",
+    "id": "1118",
+    "latitude": "52.330620",
+    "longitude": "20.955630"
+  },
+  {
+    "name": "UNIWERSYTET MEDYCZNY",
+    "id": "4031",
+    "latitude": "52.204830",
+    "longitude": "20.985760"
+  },
+  {
+    "name": "ORZYCKA",
+    "id": "3246",
+    "latitude": "52.171200",
+    "longitude": "21.008570"
+  },
+  {
+    "name": "INSTYTUT ENERGETYKI",
+    "id": "5016",
+    "latitude": "52.216310",
+    "longitude": "20.874550"
+  },
+  {
+    "name": "CM.PRAWOS\u0141AWNY",
+    "id": "5022",
+    "latitude": "52.227416",
+    "longitude": "20.945840"
+  },
+  {
+    "name": "MAGIERA",
+    "id": "6087",
+    "latitude": "52.271230",
+    "longitude": "20.950410"
+  },
+  {
+    "name": "TROMBITY",
+    "id": "3024",
+    "latitude": "52.110300",
+    "longitude": "21.006230"
+  },
+  {
+    "name": "KORSAKA",
+    "id": "1033",
+    "latitude": "52.256420",
+    "longitude": "21.050090"
+  },
+  {
+    "name": "REDUTOWA",
+    "id": "5100",
+    "latitude": "52.235860",
+    "longitude": "20.938630"
+  },
+  {
+    "name": "NUGAT",
+    "id": "3123",
+    "latitude": "52.155860",
+    "longitude": "21.051980"
+  },
+  {
+    "name": "KLIMONTOWSKA",
+    "id": "2187",
+    "latitude": "52.217450",
+    "longitude": "21.133640"
+  },
+  {
+    "name": "INSTYTUT FIZYKI",
+    "id": "3249",
+    "latitude": "52.177480",
+    "longitude": "21.007240"
+  },
+  {
+    "name": "SZYMANOWSKIEGO",
+    "id": "1292",
+    "latitude": "52.262850",
+    "longitude": "21.034650"
+  },
+  {
+    "name": "W\u00d3LKA W\u0118GLOWA",
+    "id": "6036",
+    "latitude": "52.302910",
+    "longitude": "20.883020"
+  },
+  {
+    "name": "DANUSI",
+    "id": "1170",
+    "latitude": "52.314520",
+    "longitude": "21.029840"
+  },
+  {
+    "name": "INSTYTUT NEUROLOGII",
+    "id": "3036",
+    "latitude": "52.172050",
+    "longitude": "21.065870"
+  },
+  {
+    "name": "METRO \u015aWI\u0118TOKRZYSKA",
+    "id": "7014",
+    "latitude": "52.236730",
+    "longitude": "21.007380"
+  },
+  {
+    "name": "KSI\u0118CIA ZIEMOWITA",
+    "id": "1217",
+    "latitude": "52.262640",
+    "longitude": "21.059990"
+  },
+  {
+    "name": "PODLE\u015aNA-IMiGW",
+    "id": "6007",
+    "latitude": "52.280520",
+    "longitude": "20.958670"
+  },
+  {
+    "name": "SEZAM",
+    "id": "2063",
+    "latitude": "52.239340",
+    "longitude": "21.153440"
+  },
+  {
+    "name": "M\u0141ODZIE\u0143CZA",
+    "id": "1060",
+    "latitude": "52.286410",
+    "longitude": "21.074690"
+  },
+  {
+    "name": "W\u0118DKARSKA",
+    "id": "2197",
+    "latitude": "52.175404",
+    "longitude": "21.153360"
+  },
+  {
+    "name": "ZAOLZIA\u0143SKA",
+    "id": "3199",
+    "latitude": "52.160900",
+    "longitude": "21.020990"
+  },
+  {
+    "name": "ZAU\u0141EK",
+    "id": "1204",
+    "latitude": "52.324200",
+    "longitude": "21.068470"
+  },
+  {
+    "name": "WOLA-RATUSZ",
+    "id": "5002",
+    "latitude": "52.239920",
+    "longitude": "20.988015"
+  },
+  {
+    "name": "HORTENSJI",
+    "id": "2171",
+    "latitude": "52.177230",
+    "longitude": "21.174250"
+  },
+  {
+    "name": "ALUZYJNA",
+    "id": "1366",
+    "latitude": "52.349530",
+    "longitude": "20.946420"
+  },
+  {
+    "name": "KWITN\u0104CA",
+    "id": "6049",
+    "latitude": "52.275360",
+    "longitude": "20.923120"
+  },
+  {
+    "name": "RADAROWA",
+    "id": "4085",
+    "latitude": "52.188130",
+    "longitude": "20.964230"
+  },
+  {
+    "name": "MOCHTY\u0143SKA",
+    "id": "1296",
+    "latitude": "52.357800",
+    "longitude": "21.035590"
+  },
+  {
+    "name": "KATOWICKA",
+    "id": "2154",
+    "latitude": "52.231036",
+    "longitude": "21.053504"
+  },
+  {
+    "name": "PKP P\u0141UDY",
+    "id": "1104",
+    "latitude": "52.334447",
+    "longitude": "20.985652"
+  },
+  {
+    "name": "WI\u015aLICKA",
+    "id": "4113",
+    "latitude": "52.203940",
+    "longitude": "20.975600"
+  },
+  {
+    "name": "PODKOWY",
+    "id": "2165",
+    "latitude": "52.159860",
+    "longitude": "21.216310"
+  },
+  {
+    "name": "OS.BERNARDY\u0143SKA",
+    "id": "3089",
+    "latitude": "52.192290",
+    "longitude": "21.064280"
+  },
+  {
+    "name": "PKP PRAGA",
+    "id": "1356",
+    "latitude": "52.277360",
+    "longitude": "21.023830"
+  },
+  {
+    "name": "FELI\u0143SKIEGO",
+    "id": "6197",
+    "latitude": "52.260347",
+    "longitude": "20.990269"
+  },
+  {
+    "name": "PSZENICZNA",
+    "id": "1346",
+    "latitude": "52.338010",
+    "longitude": "21.047170"
+  },
+  {
+    "name": "MALBORSKA",
+    "id": "1319",
+    "latitude": "52.296350",
+    "longitude": "21.054710"
+  },
+  {
+    "name": "MI\u0141A",
+    "id": "5156",
+    "latitude": "52.247306",
+    "longitude": "20.984301"
+  },
+  {
+    "name": "CZEREMCHOWA",
+    "id": "1111",
+    "latitude": "52.337390",
+    "longitude": "20.964970"
+  },
+  {
+    "name": "URBANIST\u00d3W",
+    "id": "4120",
+    "latitude": "52.207325",
+    "longitude": "20.968325"
+  },
+  {
+    "name": "WARSZAWA SALOMEA",
+    "id": "4915",
+    "latitude": "52.186560",
+    "longitude": "20.924890"
+  },
+  {
+    "name": "POMOLOGICZNA",
+    "id": "2042",
+    "latitude": "52.185980",
+    "longitude": "21.186480"
+  },
+  {
+    "name": "SZYSZAK\u00d3W",
+    "id": "2094",
+    "latitude": "52.273310",
+    "longitude": "21.158410"
+  },
+  {
+    "name": "HUBALA-DOBRZA\u0143SKIEGO",
+    "id": "5136",
+    "latitude": "52.249390",
+    "longitude": "20.869450"
+  },
+  {
+    "name": "KANA\u0141 NOWE UJ\u015aCIE",
+    "id": "2208",
+    "latitude": "52.204110",
+    "longitude": "21.113760"
+  },
+  {
+    "name": "DUNIKOWSKIEGO",
+    "id": "3131",
+    "latitude": "52.154350",
+    "longitude": "21.031900"
+  },
+  {
+    "name": "ELEKCYJNA",
+    "id": "5008",
+    "latitude": "52.229373",
+    "longitude": "20.951280"
+  },
+  {
+    "name": "PL.KRASI\u0143SKICH",
+    "id": "7050",
+    "latitude": "52.248890",
+    "longitude": "21.005660"
+  },
+  {
+    "name": "BUK\u00d3W",
+    "id": "1027",
+    "latitude": "52.355380",
+    "longitude": "20.941400"
+  },
+  {
+    "name": "OS.KABATY",
+    "id": "3400",
+    "latitude": "52.129070",
+    "longitude": "21.068600"
+  },
+  {
+    "name": "ENERGETYCZNA",
+    "id": "6138",
+    "latitude": "52.291890",
+    "longitude": "20.876970"
+  },
+  {
+    "name": "PRZEDPOLE",
+    "id": "4088",
+    "latitude": "52.192820",
+    "longitude": "20.944590"
+  },
+  {
+    "name": "KLAUDYNY",
+    "id": "6086",
+    "latitude": "52.285750",
+    "longitude": "20.971810"
+  },
+  {
+    "name": "NA\u0141\u0118CZOWSKA",
+    "id": "3035",
+    "latitude": "52.174850",
+    "longitude": "21.062910"
+  },
+  {
+    "name": "MARYWILSKA-LAS",
+    "id": "1094",
+    "latitude": "52.308760",
+    "longitude": "21.005370"
+  },
+  {
+    "name": "HALA SPORTOWA BEMOWO",
+    "id": "5150",
+    "latitude": "52.257950",
+    "longitude": "20.932010"
+  },
+  {
+    "name": "KAW\u0118CZY\u0143SKA-BAZYLIKA",
+    "id": "1031",
+    "latitude": "52.258348",
+    "longitude": "21.059455"
+  },
+  {
+    "name": "DROBIARSKA",
+    "id": "2273",
+    "latitude": "52.232300",
+    "longitude": "21.251130"
+  },
+  {
+    "name": "SALOMEA",
+    "id": "4114",
+    "latitude": "52.187743",
+    "longitude": "20.912259"
+  },
+  {
+    "name": "WARSZAWA DAWIDY",
+    "id": "3902",
+    "latitude": "52.128993",
+    "longitude": "20.991166"
+  },
+  {
+    "name": "SIEKIERKI-SANKTUARIUM",
+    "id": "3308",
+    "latitude": "52.206660",
+    "longitude": "21.082960"
+  },
+  {
+    "name": "CH BLUE CITY",
+    "id": "4027",
+    "latitude": "52.211993",
+    "longitude": "20.954977"
+  },
+  {
+    "name": "ST\u0118PI\u0143SKA",
+    "id": "3084",
+    "latitude": "52.206620",
+    "longitude": "21.036990"
+  },
+  {
+    "name": "OKULAROWA",
+    "id": "2059",
+    "latitude": "52.241393",
+    "longitude": "21.134613"
+  },
+  {
+    "name": "SZCZ\u0118\u015aLIWICKA",
+    "id": "4154",
+    "latitude": "52.213700",
+    "longitude": "20.968920"
+  },
+  {
+    "name": "JARZ\u0118BINOWA",
+    "id": "1348",
+    "latitude": "52.345950",
+    "longitude": "21.055790"
+  },
+  {
+    "name": "STARE BEMOWO",
+    "id": "5055",
+    "latitude": "52.258838",
+    "longitude": "20.898470"
+  },
+  {
+    "name": "PERKUNA",
+    "id": "2250",
+    "latitude": "52.232380",
+    "longitude": "21.096470"
+  },
+  {
+    "name": "DOLNA",
+    "id": "3027",
+    "latitude": "52.200900",
+    "longitude": "21.036000"
+  },
+  {
+    "name": "KR\u00d3LEWSKA",
+    "id": "7015",
+    "latitude": "52.238672",
+    "longitude": "21.005763"
+  },
+  {
+    "name": "NOWODWORSKA",
+    "id": "1120",
+    "latitude": "52.320630",
+    "longitude": "20.940380"
+  },
+  {
+    "name": "GONTARSKA",
+    "id": "2074",
+    "latitude": "52.254930",
+    "longitude": "21.127770"
+  },
+  {
+    "name": "OS.DOMANIEWSKA",
+    "id": "3111",
+    "latitude": "52.182920",
+    "longitude": "21.020390"
+  },
+  {
+    "name": "RATUSZOWA-ZOO",
+    "id": "1004",
+    "latitude": "52.256680",
+    "longitude": "21.028456"
+  },
+  {
+    "name": "WARSZAWA MOKRY \u0141UG",
+    "id": "2920",
+    "latitude": "52.276874",
+    "longitude": "21.170849"
+  },
+  {
+    "name": "RKS ORZE\u0141",
+    "id": "2115",
+    "latitude": "52.250421",
+    "longitude": "21.078131"
+  },
+  {
+    "name": "WSP\u00d3\u0141CZESNA",
+    "id": "1283",
+    "latitude": "52.307820",
+    "longitude": "21.052000"
+  },
+  {
+    "name": "WARSZAWA STADION",
+    "id": "2901",
+    "latitude": "52.244260",
+    "longitude": "21.043840"
+  },
+  {
+    "name": "PARK OLSZYNA",
+    "id": "6042",
+    "latitude": "52.268249",
+    "longitude": "20.958495"
+  },
+  {
+    "name": "SOWI\u0143SKIEGO",
+    "id": "5010",
+    "latitude": "52.225493",
+    "longitude": "20.936849"
+  },
+  {
+    "name": "PRZEJEZDNA",
+    "id": "1519",
+    "latitude": "52.343128",
+    "longitude": "21.046212"
+  },
+  {
+    "name": "WARSZAWA WOLA GRZYBOWSKA",
+    "id": "2912",
+    "latitude": "52.252980",
+    "longitude": "21.248650"
+  },
+  {
+    "name": "PL.UNII LUBELSKIEJ",
+    "id": "3001",
+    "latitude": "52.212288",
+    "longitude": "21.018658"
+  },
+  {
+    "name": "\u015aRODKOWA",
+    "id": "1068",
+    "latitude": "52.259215",
+    "longitude": "21.041482"
+  },
+  {
+    "name": "\u0141OKIETKA",
+    "id": "1177",
+    "latitude": "52.278820",
+    "longitude": "21.060830"
+  },
+  {
+    "name": "ODY\u0143CA",
+    "id": "3231",
+    "latitude": "52.195540",
+    "longitude": "21.013660"
+  },
+  {
+    "name": "TOPOGRAFICZNA",
+    "id": "2262",
+    "latitude": "52.261900",
+    "longitude": "21.173570"
+  },
+  {
+    "name": "VOGLA-MORYSIN",
+    "id": "3148",
+    "latitude": "52.161300",
+    "longitude": "21.099620"
+  },
+  {
+    "name": "NACZELNIKOWSKA",
+    "id": "1035",
+    "latitude": "52.263450",
+    "longitude": "21.057140"
+  },
+  {
+    "name": "PL.NIEMENA",
+    "id": "6221",
+    "latitude": "52.257113",
+    "longitude": "20.966833"
+  },
+  {
+    "name": "\u0141OWICKA",
+    "id": "3125",
+    "latitude": "52.202520",
+    "longitude": "21.005650"
+  },
+  {
+    "name": "FIELDORFA",
+    "id": "2255",
+    "latitude": "52.220050",
+    "longitude": "21.088280"
+  },
+  {
+    "name": "WARSZAWA OLSZYNKA GROCHOWSKA",
+    "id": "2902",
+    "latitude": "52.250120",
+    "longitude": "21.105770"
+  },
+  {
+    "name": "TU\u017bYCKA",
+    "id": "1059",
+    "latitude": "52.283020",
+    "longitude": "21.071950"
+  },
+  {
+    "name": "KONARSKIEGO",
+    "id": "5033",
+    "latitude": "52.239642",
+    "longitude": "20.918902"
+  },
+  {
+    "name": "URSYN\u00d3W ZACH.",
+    "id": "3292",
+    "latitude": "52.142530",
+    "longitude": "21.025650"
+  },
+  {
+    "name": "ORL\u0104T LWOWSKICH",
+    "id": "4207",
+    "latitude": "52.190993",
+    "longitude": "20.865673"
+  },
+  {
+    "name": "\u015aW.BONIFACEGO",
+    "id": "3033",
+    "latitude": "52.181220",
+    "longitude": "21.056200"
+  },
+  {
+    "name": "ZAPUSTNA",
+    "id": "4093",
+    "latitude": "52.195489",
+    "longitude": "20.910562"
+  },
+  {
+    "name": "ZAJEZDNIA PRAGA",
+    "id": "1029",
+    "latitude": "52.256526",
+    "longitude": "21.053319"
+  },
+  {
+    "name": "NOVOTEL",
+    "id": "4035",
+    "latitude": "52.190740",
+    "longitude": "20.981070"
+  },
+  {
+    "name": "EKSPRESOWA",
+    "id": "1018",
+    "latitude": "52.311690",
+    "longitude": "20.978490"
+  },
+  {
+    "name": "GRZYBOWA",
+    "id": "2278",
+    "latitude": "52.247750",
+    "longitude": "21.199780"
+  },
+  {
+    "name": "DEOTYMY",
+    "id": "5071",
+    "latitude": "52.247003",
+    "longitude": "20.947063"
+  },
+  {
+    "name": "WIELKIEGO D\u0118BU",
+    "id": "1168",
+    "latitude": "52.306570",
+    "longitude": "21.029890"
+  },
+  {
+    "name": "SZAMOCIN",
+    "id": "1132",
+    "latitude": "52.348630",
+    "longitude": "21.028870"
+  },
+  {
+    "name": "PKP JEZIORKI",
+    "id": "3025",
+    "latitude": "52.109531",
+    "longitude": "20.996842"
+  },
+  {
+    "name": "KOBIA\u0141KA",
+    "id": "1133",
+    "latitude": "52.354870",
+    "longitude": "21.028180"
+  },
+  {
+    "name": "PKP POWI\u015aLE",
+    "id": "7068",
+    "latitude": "52.232780",
+    "longitude": "21.025950"
+  },
+  {
+    "name": "SAMORZ\u0104DOWA",
+    "id": "2377",
+    "latitude": "52.173660",
+    "longitude": "21.229230"
+  },
+  {
+    "name": "RYCHNOWSKA",
+    "id": "2258",
+    "latitude": "52.173187",
+    "longitude": "21.153301"
+  },
+  {
+    "name": "M\u0141YNARSKA",
+    "id": "5025",
+    "latitude": "52.237070",
+    "longitude": "20.973026"
+  },
+  {
+    "name": "LAWINOWA",
+    "id": "2245",
+    "latitude": "52.173290",
+    "longitude": "21.200040"
+  },
+  {
+    "name": "PKP WOLA (KASPRZAKA)",
+    "id": "5043",
+    "latitude": "52.227850",
+    "longitude": "20.958130"
+  },
+  {
+    "name": "BARTYKI",
+    "id": "3156",
+    "latitude": "52.156590",
+    "longitude": "21.128270"
+  },
+  {
+    "name": "WARNE\u0143SKA",
+    "id": "3095",
+    "latitude": "52.182170",
+    "longitude": "21.045040"
+  },
+  {
+    "name": "WORONICZA",
+    "id": "3240",
+    "latitude": "52.188285",
+    "longitude": "21.001734"
+  },
+  {
+    "name": "BITWY WARSZAWSKIEJ 1920 R.",
+    "id": "4005",
+    "latitude": "52.211489",
+    "longitude": "20.977275"
+  },
+  {
+    "name": "MARSA-LAS",
+    "id": "2068",
+    "latitude": "52.248090",
+    "longitude": "21.143430"
+  },
+  {
+    "name": "SZACHOWA",
+    "id": "2045",
+    "latitude": "52.173180",
+    "longitude": "21.199170"
+  },
+  {
+    "name": "WARSZAWA REDUTA ORDONA",
+    "id": "4912",
+    "latitude": "52.214360",
+    "longitude": "20.947580"
+  },
+  {
+    "name": "ZACH\u0118TA",
+    "id": "7028",
+    "latitude": "52.239360",
+    "longitude": "21.010570"
+  },
+  {
+    "name": "BOROWIECKA",
+    "id": "2172",
+    "latitude": "52.180200",
+    "longitude": "21.172050"
+  },
+  {
+    "name": "DZIELNICOWA",
+    "id": "2186",
+    "latitude": "52.221630",
+    "longitude": "21.137500"
+  },
+  {
+    "name": "OKR\u0118\u017bNA",
+    "id": "4279",
+    "latitude": "52.158040",
+    "longitude": "20.945500"
+  },
+  {
+    "name": "GRODZISK",
+    "id": "1182",
+    "latitude": "52.322316",
+    "longitude": "21.066737"
+  },
+  {
+    "name": "ADAMIECKIEGO",
+    "id": "4123",
+    "latitude": "52.193720",
+    "longitude": "20.895730"
+  },
+  {
+    "name": "TRAWIASTA",
+    "id": "2019",
+    "latitude": "52.226300",
+    "longitude": "21.155020"
+  },
+  {
+    "name": "OGRODY DZIA\u0141KOWE BUDOWLANI II",
+    "id": "3077",
+    "latitude": "52.197160",
+    "longitude": "21.085200"
+  },
+  {
+    "name": "CH TARG\u00d3WEK",
+    "id": "1179",
+    "latitude": "52.302990",
+    "longitude": "21.059160"
+  },
+  {
+    "name": "KOSIARZY",
+    "id": "3068",
+    "latitude": "52.170680",
+    "longitude": "21.082120"
+  },
+  {
+    "name": "BOLES\u0141AWA KRZYWOUSTEGO",
+    "id": "4142",
+    "latitude": "52.203570",
+    "longitude": "20.859610"
+  },
+  {
+    "name": "WARSZAWA WILE\u0143SKA",
+    "id": "1920",
+    "latitude": "52.256056",
+    "longitude": "21.038789"
+  },
+  {
+    "name": "\u015aWI\u0104TYNIA OPATRZNO\u015aCI BO\u017bEJ",
+    "id": "3354",
+    "latitude": "52.159690",
+    "longitude": "21.072670"
+  },
+  {
+    "name": "\u0141UKOWSKA",
+    "id": "2107",
+    "latitude": "52.238590",
+    "longitude": "21.099760"
+  },
+  {
+    "name": "CM.WOLSKI",
+    "id": "5011",
+    "latitude": "52.224731",
+    "longitude": "20.931274"
+  },
+  {
+    "name": "MARMUROWA",
+    "id": "2347",
+    "latitude": "52.216643",
+    "longitude": "21.229276"
+  },
+  {
+    "name": "OGRODY DZIA\u0141KOWE WILAN\u00d3WKA",
+    "id": "3278",
+    "latitude": "52.163200",
+    "longitude": "21.107890"
+  },
+  {
+    "name": "ZAJEZDNIA STALOWA",
+    "id": "1199",
+    "latitude": "52.263390",
+    "longitude": "21.048330"
+  },
+  {
+    "name": "DW.ZACHODNI",
+    "id": "4044",
+    "latitude": "52.218150",
+    "longitude": "20.967100"
+  },
+  {
+    "name": "\u0141OWCZA",
+    "id": "3067",
+    "latitude": "52.174360",
+    "longitude": "21.078350"
+  },
+  {
+    "name": "WSP\u00d3LNA",
+    "id": "2306",
+    "latitude": "52.246310",
+    "longitude": "21.184050"
+  },
+  {
+    "name": "TELEWIZJA POLSKA",
+    "id": "3115",
+    "latitude": "52.189040",
+    "longitude": "21.012720"
+  },
+  {
+    "name": "KRASICKIEGO",
+    "id": "3108",
+    "latitude": "52.196830",
+    "longitude": "21.020090"
+  },
+  {
+    "name": "MATUSZEWSKA",
+    "id": "1040",
+    "latitude": "52.260460",
+    "longitude": "21.084070"
+  },
+  {
+    "name": "KRA\u015aNICKA",
+    "id": "1303",
+    "latitude": "52.274240",
+    "longitude": "21.066500"
+  },
+  {
+    "name": "WIOLINOWA",
+    "id": "3293",
+    "latitude": "52.158370",
+    "longitude": "21.030630"
+  },
+  {
+    "name": "CIEP\u0141OWNIA WOLA",
+    "id": "5012",
+    "latitude": "52.220290",
+    "longitude": "20.917844"
+  },
+  {
+    "name": "MALCZEWSKIEGO",
+    "id": "3006",
+    "latitude": "52.193760",
+    "longitude": "21.024170"
+  },
+  {
+    "name": "STARE MIASTO",
+    "id": "7047",
+    "latitude": "52.246750",
+    "longitude": "21.015126"
+  },
+  {
+    "name": "JURANDA ZE SPYCHOWA-SZKO\u0141A",
+    "id": "1353",
+    "latitude": "52.317830",
+    "longitude": "21.032530"
+  },
+  {
+    "name": "WAT",
+    "id": "5053",
+    "latitude": "52.251540",
+    "longitude": "20.898380"
+  },
+  {
+    "name": "FIGOWA",
+    "id": "3070",
+    "latitude": "52.212320",
+    "longitude": "21.067300"
+  },
+  {
+    "name": "ODESKA",
+    "id": "2040",
+    "latitude": "52.200160",
+    "longitude": "21.172110"
+  },
+  {
+    "name": "REMBERT\u00d3W-RATUSZ",
+    "id": "2083",
+    "latitude": "52.258920",
+    "longitude": "21.161090"
+  },
+  {
+    "name": "WAWRZYSZEWSKA",
+    "id": "5068",
+    "latitude": "52.246001",
+    "longitude": "20.962706"
+  },
+  {
+    "name": "BASENY INFLANCKA",
+    "id": "7081",
+    "latitude": "52.256390",
+    "longitude": "20.988020"
+  },
+  {
+    "name": "PRZE\u0141\u0118CZY",
+    "id": "2050",
+    "latitude": "52.169280",
+    "longitude": "21.224140"
+  },
+  {
+    "name": "KOMPASOWA",
+    "id": "2415",
+    "latitude": "52.232608",
+    "longitude": "21.083333"
+  },
+  {
+    "name": "CM.P\u00d3\u0141NOCNY-BRAMA ZACH.",
+    "id": "6100",
+    "latitude": "52.304830",
+    "longitude": "20.887050"
+  },
+  {
+    "name": "\u015aRENIAWIT\u00d3W",
+    "id": "1521",
+    "latitude": "52.316069",
+    "longitude": "20.966002"
+  },
+  {
+    "name": "POWSIN-PARK KULTURY",
+    "id": "3056",
+    "latitude": "52.116710",
+    "longitude": "21.092860"
+  },
+  {
+    "name": "DOBOSZA",
+    "id": "4338",
+    "latitude": "52.211660",
+    "longitude": "20.966340"
+  },
+  {
+    "name": "TATARSKA",
+    "id": "5122",
+    "latitude": "52.254420",
+    "longitude": "20.971040"
+  },
+  {
+    "name": "RONDO \u017bABA",
+    "id": "1077",
+    "latitude": "52.269340",
+    "longitude": "21.038640"
+  },
+  {
+    "name": "DW.CENTRALNY",
+    "id": "7002",
+    "latitude": "52.227890",
+    "longitude": "21.003750"
+  },
+  {
+    "name": "PRZEMYS\u0141AWA II",
+    "id": "4115",
+    "latitude": "52.203390",
+    "longitude": "20.864940"
+  },
+  {
+    "name": "KSI\u0118\u017bNEJ ANNY",
+    "id": "1039",
+    "latitude": "52.260900",
+    "longitude": "21.076040"
+  },
+  {
+    "name": "PKP WKD AL.JEROZOLIMSKIE",
+    "id": "4047",
+    "latitude": "52.205740",
+    "longitude": "20.943220"
+  },
+  {
+    "name": "STARE KABATY",
+    "id": "3055",
+    "latitude": "52.130532",
+    "longitude": "21.084207"
+  },
+  {
+    "name": "KONOPACKA",
+    "id": "1067",
+    "latitude": "52.259471",
+    "longitude": "21.039335"
+  },
+  {
+    "name": "O\u015aRODEK CORA",
+    "id": "2204",
+    "latitude": "52.221010",
+    "longitude": "21.082850"
+  },
+  {
+    "name": "REKRUCKA",
+    "id": "2067",
+    "latitude": "52.243480",
+    "longitude": "21.137473"
+  },
+  {
+    "name": "KAKOWSKIEGO",
+    "id": "2416",
+    "latitude": "52.230500",
+    "longitude": "21.083510"
+  },
+  {
+    "name": "CZO\u0141GIST\u00d3W",
+    "id": "2180",
+    "latitude": "52.182620",
+    "longitude": "21.212480"
+  },
+  {
+    "name": "MA\u0143KOWSKA",
+    "id": "1349",
+    "latitude": "52.349470",
+    "longitude": "21.054380"
+  },
+  {
+    "name": "TORFOWA",
+    "id": "2346",
+    "latitude": "52.218380",
+    "longitude": "21.222680"
+  },
+  {
+    "name": "CYNAMONOWA",
+    "id": "3143",
+    "latitude": "52.149040",
+    "longitude": "21.055830"
+  },
+  {
+    "name": "ZAJ\u0118CZA",
+    "id": "7062",
+    "latitude": "52.239400",
+    "longitude": "21.026960"
+  },
+  {
+    "name": "WI\u015aNIOWA G\u00d3RA",
+    "id": "2034",
+    "latitude": "52.210150",
+    "longitude": "21.205620"
+  },
+  {
+    "name": "WARSZAWA P\u0141UDY",
+    "id": "1905",
+    "latitude": "52.333440",
+    "longitude": "20.986130"
+  },
+  {
+    "name": "BLISKA",
+    "id": "2003",
+    "latitude": "52.247110",
+    "longitude": "21.057480"
+  },
+  {
+    "name": "SIECZNA",
+    "id": "152451",
+    "latitude": "52.311280",
+    "longitude": "21.063600"
+  },
+  {
+    "name": "KRASNOWOLA",
+    "id": "3419",
+    "latitude": "52.142301",
+    "longitude": "21.006083"
+  },
+  {
+    "name": "WOLA GRZYBOWSKA",
+    "id": "2285",
+    "latitude": "52.249630",
+    "longitude": "21.242950"
+  },
+  {
+    "name": "ZABRANIECKA-BOCZNICA",
+    "id": "1038",
+    "latitude": "52.260770",
+    "longitude": "21.071990"
+  },
+  {
+    "name": "EMILII PLATER",
+    "id": "7001",
+    "latitude": "52.233180",
+    "longitude": "21.002520"
+  },
+  {
+    "name": "UNIWERSYTET",
+    "id": "7044",
+    "latitude": "52.240030",
+    "longitude": "21.016680"
+  },
+  {
+    "name": "POW\u0104ZKI-CM.WOJSKOWY",
+    "id": "6093",
+    "latitude": "52.260370",
+    "longitude": "20.957790"
+  },
+  {
+    "name": "SKALNICOWA",
+    "id": "2212",
+    "latitude": "52.184359",
+    "longitude": "21.131846"
+  },
+  {
+    "name": "MARKOWSKA",
+    "id": "1032",
+    "latitude": "52.254570",
+    "longitude": "21.044790"
+  },
+  {
+    "name": "KORDIANA",
+    "id": "2082",
+    "latitude": "52.260060",
+    "longitude": "21.154320"
+  },
+  {
+    "name": "MR\u0104GOWSKA",
+    "id": "2426",
+    "latitude": "52.172150",
+    "longitude": "21.167050"
+  },
+  {
+    "name": "\u015aWIECKA",
+    "id": "2016",
+    "latitude": "52.232900",
+    "longitude": "21.130410"
+  },
+  {
+    "name": "LEKTYKARSKA",
+    "id": "6085",
+    "latitude": "52.283670",
+    "longitude": "20.966440"
+  },
+  {
+    "name": "GWARK\u00d3W",
+    "id": "2076",
+    "latitude": "52.264820",
+    "longitude": "21.122090"
+  },
+  {
+    "name": "SIELCE",
+    "id": "3058",
+    "latitude": "52.205720",
+    "longitude": "21.048520"
+  },
+  {
+    "name": "PKP RADO\u015a\u0106",
+    "id": "2043",
+    "latitude": "52.184300",
+    "longitude": "21.188090"
+  },
+  {
+    "name": "INSTALATOR\u00d3W-KIS",
+    "id": "4105",
+    "latitude": "52.200190",
+    "longitude": "20.949860"
+  },
+  {
+    "name": "OS.LE\u015aNE",
+    "id": "5151",
+    "latitude": "52.254460",
+    "longitude": "20.931440"
+  },
+  {
+    "name": "SPARTA\u0143SKA",
+    "id": "3256",
+    "latitude": "52.191510",
+    "longitude": "20.995390"
+  },
+  {
+    "name": "PRZY AGORZE",
+    "id": "6013",
+    "latitude": "52.294460",
+    "longitude": "20.945460"
+  },
+  {
+    "name": "RADO\u015a\u0106-WODOCI\u0104G",
+    "id": "2315",
+    "latitude": "52.197640",
+    "longitude": "21.175730"
+  },
+  {
+    "name": "GROTY",
+    "id": "5083",
+    "latitude": "52.248230",
+    "longitude": "20.878700"
+  },
+  {
+    "name": "WARSZAWA ZACHODNIA (PERON 8)",
+    "id": "590208",
+    "latitude": "52.411414",
+    "longitude": "20.913160"
+  },
+  {
+    "name": "ANNY JAGIELLONKI",
+    "id": "6074",
+    "latitude": "52.308960",
+    "longitude": "20.919940"
+  },
+  {
+    "name": "ERAZMA Z ZAKROCZYMIA",
+    "id": "1194",
+    "latitude": "52.324170",
+    "longitude": "20.946270"
+  },
+  {
+    "name": "GRAB\u00d3W",
+    "id": "3014",
+    "latitude": "52.146720",
+    "longitude": "21.017450"
+  },
+  {
+    "name": "GUS",
+    "id": "7093",
+    "latitude": "52.216370",
+    "longitude": "21.004960"
+  },
+  {
+    "name": "WARSZAWA WOLA",
+    "id": "5903",
+    "latitude": "52.230253",
+    "longitude": "20.957900"
+  },
+  {
+    "name": "CH\u0141ODNA",
+    "id": "5089",
+    "latitude": "52.236713",
+    "longitude": "20.989330"
+  },
+  {
+    "name": "SPICHRZOWA",
+    "id": "1503",
+    "latitude": "52.335085",
+    "longitude": "21.053891"
+  },
+  {
+    "name": "HIPODROM",
+    "id": "2274",
+    "latitude": "52.232829",
+    "longitude": "21.224411"
+  },
+  {
+    "name": "WARSZAWA ZACISZE-WILNO",
+    "id": "1927",
+    "latitude": "52.277963",
+    "longitude": "21.080006"
+  },
+  {
+    "name": "BURSZTYNOWA-SZPITAL",
+    "id": "2029",
+    "latitude": "52.207020",
+    "longitude": "21.180670"
+  },
+  {
+    "name": "SZELIGOWSKA-WIADUKT",
+    "id": "5200",
+    "latitude": "52.227818",
+    "longitude": "20.881910"
+  },
+  {
+    "name": "OS.LEWAND\u00d3W I",
+    "id": "1180",
+    "latitude": "52.311280",
+    "longitude": "21.063600"
+  },
+  {
+    "name": "ARBUZOWA",
+    "id": "3099",
+    "latitude": "52.167680",
+    "longitude": "21.043660"
+  },
+  {
+    "name": "LOTNISKO CHOPINA-PRZYLOTY",
+    "id": "4201",
+    "latitude": "52.170610",
+    "longitude": "20.973690"
+  },
+  {
+    "name": "Z\u0104BKOWSKA",
+    "id": "1002",
+    "latitude": "52.251300",
+    "longitude": "21.038540"
+  },
+  {
+    "name": "TRAKT LUBELSKI-LAS",
+    "id": "2247",
+    "latitude": "52.210020",
+    "longitude": "21.133310"
+  },
+  {
+    "name": "PARK POST\u0118PU",
+    "id": "3412",
+    "latitude": "52.183252",
+    "longitude": "20.998934"
+  },
+  {
+    "name": "OS.WILGA",
+    "id": "2128",
+    "latitude": "52.225670",
+    "longitude": "21.101060"
+  },
+  {
+    "name": "OLECKA",
+    "id": "2158",
+    "latitude": "52.154250",
+    "longitude": "21.209330"
+  },
+  {
+    "name": "BRZEZINY",
+    "id": "1176",
+    "latitude": "52.334830",
+    "longitude": "21.033370"
+  },
+  {
+    "name": "CYGA\u0143SKA",
+    "id": "2183",
+    "latitude": "52.185920",
+    "longitude": "21.220380"
+  },
+  {
+    "name": "DAWIDY",
+    "id": "3407",
+    "latitude": "52.130585",
+    "longitude": "20.985082"
+  },
+  {
+    "name": "\u017bYWIECKA",
+    "id": "4237",
+    "latitude": "52.185510",
+    "longitude": "20.903790"
+  },
+  {
+    "name": "WARSZAWA RAK\u00d3W",
+    "id": "4914",
+    "latitude": "52.194230",
+    "longitude": "20.935610"
+  },
+  {
+    "name": "BIELSZOWICKA",
+    "id": "2030",
+    "latitude": "52.206920",
+    "longitude": "21.185770"
+  },
+  {
+    "name": "ZASADOWA",
+    "id": "2414",
+    "latitude": "52.184320",
+    "longitude": "21.171190"
+  },
+  {
+    "name": "TANGO",
+    "id": "3102",
+    "latitude": "52.154010",
+    "longitude": "21.011740"
+  },
+  {
+    "name": "LINDLEYA",
+    "id": "4152",
+    "latitude": "52.223470",
+    "longitude": "20.996450"
+  },
+  {
+    "name": "FRANCISZKA\u0143SKA",
+    "id": "7051",
+    "latitude": "52.252370",
+    "longitude": "21.001260"
+  },
+  {
+    "name": "BROWARNA",
+    "id": "7100",
+    "latitude": "52.243190",
+    "longitude": "21.020530"
+  },
+  {
+    "name": "RUTY",
+    "id": "2423",
+    "latitude": "52.186360",
+    "longitude": "21.152290"
+  },
+  {
+    "name": "DW.WSCHODNI (LUBELSKA)",
+    "id": "2120",
+    "latitude": "52.250272",
+    "longitude": "21.052248"
+  },
+  {
+    "name": "ZAU\u0141EK-SZKO\u0141A",
+    "id": "1470",
+    "latitude": "52.327697",
+    "longitude": "21.065672"
+  },
+  {
+    "name": "CHLUBNA",
+    "id": "1483",
+    "latitude": "52.355042",
+    "longitude": "20.952024"
+  },
+  {
+    "name": "RUDNICKIEGO",
+    "id": "6044",
+    "latitude": "52.270270",
+    "longitude": "20.951000"
+  },
+  {
+    "name": "CH REDUTA",
+    "id": "4126",
+    "latitude": "52.211620",
+    "longitude": "20.949450"
+  },
+  {
+    "name": "TAGORE'A",
+    "id": "3126",
+    "latitude": "52.195410",
+    "longitude": "21.008420"
+  },
+  {
+    "name": "BYSTRA",
+    "id": "1258",
+    "latitude": "52.294760",
+    "longitude": "21.081590"
+  },
+  {
+    "name": "TORU\u0143SKA",
+    "id": "1086",
+    "latitude": "52.296655",
+    "longitude": "21.024653"
+  },
+  {
+    "name": "TERMINAL AUTOKAROWY",
+    "id": "4202",
+    "latitude": "52.169090",
+    "longitude": "20.973990"
+  },
+  {
+    "name": "KS.SZULCZYKA",
+    "id": "2221",
+    "latitude": "52.171340",
+    "longitude": "21.232420"
+  },
+  {
+    "name": "S\u0118CZKOWA",
+    "id": "2385",
+    "latitude": "52.212470",
+    "longitude": "21.107920"
+  },
+  {
+    "name": "WODNIAK\u00d3W",
+    "id": "2215",
+    "latitude": "52.201470",
+    "longitude": "21.128600"
+  },
+  {
+    "name": "BIELANY-RATUSZ",
+    "id": "6021",
+    "latitude": "52.276809",
+    "longitude": "20.948610"
+  },
+  {
+    "name": "MONTA\u017bOWA",
+    "id": "2041",
+    "latitude": "52.191070",
+    "longitude": "21.181180"
+  },
+  {
+    "name": "HO\u0141UBCOWA",
+    "id": "3289",
+    "latitude": "52.156010",
+    "longitude": "21.000050"
+  },
+  {
+    "name": "STACJA KRWIODAWSTWA",
+    "id": "2140",
+    "latitude": "52.231570",
+    "longitude": "21.061120"
+  },
+  {
+    "name": "SIERPNIA,                     r 403504  NOVOTEL",
+    "id": "1",
+    "latitude": "52.150800",
+    "longitude": "20.994810"
+  },
+  {
+    "name": "UMI\u0143SKIEGO",
+    "id": "2149",
+    "latitude": "52.227090",
+    "longitude": "21.093400"
+  },
+  {
+    "name": "PL.TYSI\u0104CLECIA",
+    "id": "4096",
+    "latitude": "52.193780",
+    "longitude": "20.890670"
+  },
+  {
+    "name": "RUSKOWY BR\u00d3D",
+    "id": "1294",
+    "latitude": "52.361260",
+    "longitude": "21.052860"
+  },
+  {
+    "name": "\u017bERA\u0143 WSCHODNI",
+    "id": "1091",
+    "latitude": "52.310941",
+    "longitude": "21.012400"
+  },
+  {
+    "name": "IZBICKA-CMENTARZ",
+    "id": "2182",
+    "latitude": "52.181820",
+    "longitude": "21.224980"
+  },
+  {
+    "name": "MA\u0141CU\u017bY\u0143SKIEGO",
+    "id": "3194",
+    "latitude": "52.139070",
+    "longitude": "21.055230"
+  },
+  {
+    "name": "POLFA",
+    "id": "1102",
+    "latitude": "52.315450",
+    "longitude": "20.981550"
+  },
+  {
+    "name": "KRYNICZNA",
+    "id": "2155",
+    "latitude": "52.229020",
+    "longitude": "21.051540"
+  },
+  {
+    "name": "JESIOTROWA",
+    "id": "1049",
+    "latitude": "52.273820",
+    "longitude": "21.087170"
+  },
+  {
+    "name": "BATALIONU MIOT\u0141A",
+    "id": "5113",
+    "latitude": "52.232045",
+    "longitude": "20.920624"
+  },
+  {
+    "name": "WERSALSKA",
+    "id": "2151",
+    "latitude": "52.226600",
+    "longitude": "21.059210"
+  },
+  {
+    "name": "DZIA\u0141Y\u0143CZYK\u00d3W",
+    "id": "2256",
+    "latitude": "52.251620",
+    "longitude": "21.170810"
+  },
+  {
+    "name": "KRA\u0143COWA",
+    "id": "5189",
+    "latitude": "52.212640",
+    "longitude": "20.870900"
+  },
+  {
+    "name": "KAMI\u0143SKIEGO",
+    "id": "1314",
+    "latitude": "52.321340",
+    "longitude": "20.956030"
+  },
+  {
+    "name": "ZNANA",
+    "id": "5104",
+    "latitude": "52.233765",
+    "longitude": "20.929288"
+  },
+  {
+    "name": "ROSOCHATA",
+    "id": "3049",
+    "latitude": "52.126930",
+    "longitude": "21.103380"
+  },
+  {
+    "name": "BE\u0141ZY",
+    "id": "4205",
+    "latitude": "52.195270",
+    "longitude": "20.874430"
+  },
+  {
+    "name": "ZAG\u0141OBY",
+    "id": "5147",
+    "latitude": "52.249180",
+    "longitude": "20.873060"
+  },
+  {
+    "name": "\u017bUBROWA-UKSW",
+    "id": "6073",
+    "latitude": "52.311250",
+    "longitude": "20.915830"
+  },
+  {
+    "name": "WAGONOWNIA",
+    "id": "5127",
+    "latitude": "52.214620",
+    "longitude": "20.930420"
+  },
+  {
+    "name": "JESIENNYCH LI\u015aCI",
+    "id": "1280",
+    "latitude": "52.309650",
+    "longitude": "21.061810"
+  },
+  {
+    "name": "KAROWA",
+    "id": "7106",
+    "latitude": "52.244805",
+    "longitude": "21.024333"
+  },
+  {
+    "name": "P\u0141OCHOCI\u0143SKA",
+    "id": "1017",
+    "latitude": "52.307200",
+    "longitude": "20.984020"
+  },
+  {
+    "name": "PKP TORU\u0143SKA",
+    "id": "1159",
+    "latitude": "52.293230",
+    "longitude": "21.010600"
+  },
+  {
+    "name": "MEBLOWA",
+    "id": "2319",
+    "latitude": "52.269310",
+    "longitude": "21.119760"
+  },
+  {
+    "name": "ANIELEWICZA",
+    "id": "7083",
+    "latitude": "52.246850",
+    "longitude": "20.989160"
+  },
+  {
+    "name": "ODKRYTA",
+    "id": "1429",
+    "latitude": "52.324650",
+    "longitude": "20.937720"
+  },
+  {
+    "name": "LESZNO",
+    "id": "5024",
+    "latitude": "52.237990",
+    "longitude": "20.977540"
+  },
+  {
+    "name": "OS.JANTAR",
+    "id": "2252",
+    "latitude": "52.222850",
+    "longitude": "21.087000"
+  },
+  {
+    "name": "TABOROWA",
+    "id": "3268",
+    "latitude": "52.167150",
+    "longitude": "20.993060"
+  },
+  {
+    "name": "WARSZAWA URSUS P\u0141N.",
+    "id": "4921",
+    "latitude": "52.205514",
+    "longitude": "20.890076"
+  },
+  {
+    "name": "WARSZAWA JEZIORKI",
+    "id": "3903",
+    "latitude": "52.109615",
+    "longitude": "20.993315"
+  },
+  {
+    "name": "CODZIENNA",
+    "id": "1061",
+    "latitude": "52.290750",
+    "longitude": "21.069680"
+  },
+  {
+    "name": "KULSKIEGO",
+    "id": "3237",
+    "latitude": "52.201030",
+    "longitude": "21.000280"
+  },
+  {
+    "name": "KARCZUNKOWSKA",
+    "id": "3022",
+    "latitude": "52.110700",
+    "longitude": "21.018270"
+  },
+  {
+    "name": "CZERWCA 1989 R.,              r 422405  NOWE W\u0141OCHY",
+    "id": "4",
+    "latitude": "52.231755",
+    "longitude": "21.010349"
+  },
+  {
+    "name": "SZAFARZY",
+    "id": "2091",
+    "latitude": "52.267740",
+    "longitude": "21.153410"
+  },
+  {
+    "name": "ELSNER\u00d3W",
+    "id": "1051",
+    "latitude": "52.270940",
+    "longitude": "21.093820"
+  },
+  {
+    "name": "ZAJEZDNIA URSUS P\u0141N.",
+    "id": "4305",
+    "latitude": "52.205780",
+    "longitude": "20.884670"
+  },
+  {
+    "name": "ROGATKOWA",
+    "id": "2257",
+    "latitude": "52.203600",
+    "longitude": "21.162130"
+  },
+  {
+    "name": "INSTALATOR\u00d3W-KAM",
+    "id": "4104",
+    "latitude": "52.198180",
+    "longitude": "20.958620"
+  },
+  {
+    "name": "PRAGA-P\u0141D.-RATUSZ",
+    "id": "2005",
+    "latitude": "52.246360",
+    "longitude": "21.069100"
+  },
+  {
+    "name": "WARSZAWA OK\u0118CIE",
+    "id": "4920",
+    "latitude": "52.167419",
+    "longitude": "20.987422"
+  },
+  {
+    "name": "ZAB\u0141UDOWSKA",
+    "id": "2402",
+    "latitude": "52.190750",
+    "longitude": "21.150330"
+  },
+  {
+    "name": "KAPITULNA",
+    "id": "7048",
+    "latitude": "52.246560",
+    "longitude": "21.011460"
+  },
+  {
+    "name": "ANDRUTOWA",
+    "id": "3052",
+    "latitude": "52.123150",
+    "longitude": "21.098470"
+  },
+  {
+    "name": "WARSZAWA REMBERT\u00d3W",
+    "id": "2910",
+    "latitude": "52.257190",
+    "longitude": "21.157720"
+  },
+  {
+    "name": "COOPERA",
+    "id": "5208",
+    "latitude": "52.236376",
+    "longitude": "20.893481"
+  },
+  {
+    "name": "PKP MI\u0118DZYLESIE",
+    "id": "2039",
+    "latitude": "52.205130",
+    "longitude": "21.167330"
+  },
+  {
+    "name": "WARSZAWSKA",
+    "id": "4307",
+    "latitude": "52.199910",
+    "longitude": "20.874040"
+  },
+  {
+    "name": "KO\u015aCIELISKA",
+    "id": "1058",
+    "latitude": "52.279690",
+    "longitude": "21.069190"
+  },
+  {
+    "name": "\u015aW.WINCENTEGO",
+    "id": "1282",
+    "latitude": "52.291580",
+    "longitude": "21.051130"
+  },
+  {
+    "name": "FLAMENCO",
+    "id": "3416",
+    "latitude": "52.144273",
+    "longitude": "21.011310"
+  },
+  {
+    "name": "ZABRANIECKA",
+    "id": "1041",
+    "latitude": "52.260740",
+    "longitude": "21.087520"
+  },
+  {
+    "name": "RYBNA",
+    "id": "4021",
+    "latitude": "52.159060",
+    "longitude": "20.941680"
+  },
+  {
+    "name": "WARSZAWA ZACHODNIA WKD",
+    "id": "4910",
+    "latitude": "52.219530",
+    "longitude": "20.965970"
+  },
+  {
+    "name": "OS.LEWAND\u00d3W II",
+    "id": "1463",
+    "latitude": "52.322280",
+    "longitude": "21.074450"
+  },
+  {
+    "name": "JEZIORKO CZERNIAKOWSKIE",
+    "id": "3090",
+    "latitude": "52.191896",
+    "longitude": "21.068154"
+  },
+  {
+    "name": "KICKIEGO",
+    "id": "2007",
+    "latitude": "52.245626",
+    "longitude": "21.079237"
+  },
+  {
+    "name": "PL.ZBAWICIELA",
+    "id": "7010",
+    "latitude": "52.218680",
+    "longitude": "21.018530"
+  },
+  {
+    "name": "MI\u0118DZYBORSKA",
+    "id": "2006",
+    "latitude": "52.246078",
+    "longitude": "21.073465"
+  },
+  {
+    "name": "PRZYJAZNA",
+    "id": "1172",
+    "latitude": "52.318470",
+    "longitude": "21.032470"
+  },
+  {
+    "name": "KATIUSZY",
+    "id": "2441",
+    "latitude": "52.260120",
+    "longitude": "21.161004"
+  },
+  {
+    "name": "ASTRONAUT\u00d3W",
+    "id": "4084",
+    "latitude": "52.184600",
+    "longitude": "20.975000"
+  },
+  {
+    "name": "D\u0104BR\u00d3WKA SZLACHECKA",
+    "id": "1026",
+    "latitude": "52.346440",
+    "longitude": "20.948930"
+  },
+  {
+    "name": "RONDO STARZY\u0143SKIEGO",
+    "id": "1006",
+    "latitude": "52.263640",
+    "longitude": "21.019600"
+  },
+  {
+    "name": "HANKI ORDON\u00d3WNY",
+    "id": "1403",
+    "latitude": "52.332400",
+    "longitude": "20.935810"
+  },
+  {
+    "name": "P\u0141OCKA",
+    "id": "5005",
+    "latitude": "52.233600",
+    "longitude": "20.967000"
+  },
+  {
+    "name": "STAWKI",
+    "id": "7084",
+    "latitude": "52.250580",
+    "longitude": "20.985860"
+  },
+  {
+    "name": "KONDRATOWICZA",
+    "id": "1085",
+    "latitude": "52.293490",
+    "longitude": "21.026200"
+  },
+  {
+    "name": "PORAJ\u00d3W",
+    "id": "1250",
+    "latitude": "52.314440",
+    "longitude": "20.962700"
+  },
+  {
+    "name": "AL.LOTNIK\u00d3W",
+    "id": "3011",
+    "latitude": "52.172340",
+    "longitude": "21.019520"
+  },
+  {
+    "name": "\u0141OSOSIOWA",
+    "id": "3071",
+    "latitude": "52.212120",
+    "longitude": "21.073640"
+  },
+  {
+    "name": "PODBIA\u0141OWA",
+    "id": "2200",
+    "latitude": "52.162460",
+    "longitude": "21.166190"
+  },
+  {
+    "name": "CZWARTAK\u00d3W",
+    "id": "2442",
+    "latitude": "52.268878",
+    "longitude": "21.144988"
+  },
+  {
+    "name": "INOW\u0141ODZKA",
+    "id": "1088",
+    "latitude": "52.301557",
+    "longitude": "21.020951"
+  },
+  {
+    "name": "KOMITETU OBRONY ROBOTNIK\u00d3W",
+    "id": "4038",
+    "latitude": "52.178870",
+    "longitude": "20.978190"
+  },
+  {
+    "name": "DROHOBYCKA",
+    "id": "2374",
+    "latitude": "52.180440",
+    "longitude": "21.231340"
+  },
+  {
+    "name": "WIDOKOWA",
+    "id": "6053",
+    "latitude": "52.305440",
+    "longitude": "20.884850"
+  },
+  {
+    "name": "RZECZNA",
+    "id": "1047",
+    "latitude": "52.267360",
+    "longitude": "21.071930"
+  },
+  {
+    "name": "COOPERA-PRZYCHODNIA",
+    "id": "5207",
+    "latitude": "52.232849",
+    "longitude": "20.891908"
+  },
+  {
+    "name": "REDUTA WOLSKA",
+    "id": "5009",
+    "latitude": "52.225961",
+    "longitude": "20.941612"
+  },
+  {
+    "name": "SZLACHECKA",
+    "id": "1526",
+    "latitude": "52.311895",
+    "longitude": "21.022450"
+  },
+  {
+    "name": "O\u015aRODEK AZS",
+    "id": "2203",
+    "latitude": "52.221440",
+    "longitude": "21.072160"
+  },
+  {
+    "name": "ORDYNACKA",
+    "id": "7049",
+    "latitude": "52.236180",
+    "longitude": "21.018230"
+  },
+  {
+    "name": "KIERBEDZIA",
+    "id": "3088",
+    "latitude": "52.198828",
+    "longitude": "21.046494"
+  },
+  {
+    "name": "SMOLUCHOWSKIEGO",
+    "id": "3113",
+    "latitude": "52.179310",
+    "longitude": "21.013930"
+  },
+  {
+    "name": "NAMYS\u0141OWSKA",
+    "id": "1075",
+    "latitude": "52.266810",
+    "longitude": "21.029970"
+  },
+  {
+    "name": "LAS BIELA\u0143SKI",
+    "id": "6012",
+    "latitude": "52.293230",
+    "longitude": "20.946657"
+  },
+  {
+    "name": "PKP URSUS-NIED\u0179WIADEK",
+    "id": "4342",
+    "latitude": "52.192050",
+    "longitude": "20.869610"
+  },
+  {
+    "name": "SIEKIERKOWSKA",
+    "id": "3072",
+    "latitude": "52.208790",
+    "longitude": "21.077430"
+  },
+  {
+    "name": "GLEBOWA",
+    "id": "3152",
+    "latitude": "52.179490",
+    "longitude": "21.101760"
+  },
+  {
+    "name": "KR\u00d3LOWEJ MARYSIE\u0143KI",
+    "id": "3043",
+    "latitude": "52.167740",
+    "longitude": "21.076400"
+  },
+  {
+    "name": "CZEKANOWSKA",
+    "id": "2049",
+    "latitude": "52.164030",
+    "longitude": "21.219840"
+  },
+  {
+    "name": "OS.RUDA",
+    "id": "6081",
+    "latitude": "52.284940",
+    "longitude": "20.978990"
+  },
+  {
+    "name": "KS POLONEZ",
+    "id": "1260",
+    "latitude": "52.299640",
+    "longitude": "21.031060"
+  },
+  {
+    "name": "MEHOFFERA",
+    "id": "1195",
+    "latitude": "52.322140",
+    "longitude": "20.944790"
+  },
+  {
+    "name": "KONDRACKA",
+    "id": "3415",
+    "latitude": "52.146515",
+    "longitude": "21.015256"
+  },
+  {
+    "name": "SIEMIATYCKA",
+    "id": "5046",
+    "latitude": "52.223510",
+    "longitude": "20.897201"
+  },
+  {
+    "name": "MO\u015aCISKA",
+    "id": "6033",
+    "latitude": "52.286940",
+    "longitude": "20.878490"
+  },
+  {
+    "name": "ZAJEZDNIA WORONICZA",
+    "id": "3258",
+    "latitude": "52.188850",
+    "longitude": "20.997150"
+  },
+  {
+    "name": "G\u0141\u00d3WNA",
+    "id": "1424",
+    "latitude": "52.353230",
+    "longitude": "20.940990"
+  },
+  {
+    "name": "OS.ORLIK",
+    "id": "2270",
+    "latitude": "52.228010",
+    "longitude": "21.088400"
+  },
+  {
+    "name": "POPULARNA",
+    "id": "4048",
+    "latitude": "52.201690",
+    "longitude": "20.937180"
+  },
+  {
+    "name": "DRACENY",
+    "id": "2170",
+    "latitude": "52.176150",
+    "longitude": "21.175960"
+  },
+  {
+    "name": "PKP WESO\u0141A",
+    "id": "2344",
+    "latitude": "52.253800",
+    "longitude": "21.223430"
+  },
+  {
+    "name": "KRZYWICKIEGO",
+    "id": "4261",
+    "latitude": "52.223280",
+    "longitude": "21.001380"
+  },
+  {
+    "name": "RYBA\u0141T\u00d3W",
+    "id": "3284",
+    "latitude": "52.131680",
+    "longitude": "21.056000"
+  },
+  {
+    "name": "METRO URSYN\u00d3W",
+    "id": "3127",
+    "latitude": "52.161600",
+    "longitude": "21.027410"
+  },
+  {
+    "name": "KOLUMBA",
+    "id": "4281",
+    "latitude": "52.173020",
+    "longitude": "20.929070"
+  },
+  {
+    "name": "PARAFIALNA",
+    "id": "5096",
+    "latitude": "52.222950",
+    "longitude": "20.958090"
+  },
+  {
+    "name": "HANDLOWA",
+    "id": "1139",
+    "latitude": "52.273990",
+    "longitude": "21.051780"
+  },
+  {
+    "name": "WYSZOGRODZKA",
+    "id": "1156",
+    "latitude": "52.288550",
+    "longitude": "21.035060"
+  },
+  {
+    "name": "ABRAHAMA",
+    "id": "2145",
+    "latitude": "52.225890",
+    "longitude": "21.084450"
+  },
+  {
+    "name": "OKR\u0104G\u0141A",
+    "id": "118151",
+    "latitude": "52.311280",
+    "longitude": "21.063600"
+  },
+  {
+    "name": "WIOSENNA",
+    "id": "2284",
+    "latitude": "52.249850",
+    "longitude": "21.238340"
+  },
+  {
+    "name": "GRENADIER\u00d3W",
+    "id": "2134",
+    "latitude": "52.243683",
+    "longitude": "21.078570"
+  },
+  {
+    "name": "KRYNOLINY",
+    "id": "1279",
+    "latitude": "52.290420",
+    "longitude": "21.078010"
+  },
+  {
+    "name": "CH ARKADIA",
+    "id": "7102",
+    "latitude": "52.257560",
+    "longitude": "20.987090"
+  },
+  {
+    "name": "LAUROWA",
+    "id": "1500",
+    "latitude": "52.303510",
+    "longitude": "20.981130"
+  },
+  {
+    "name": "PL.ZAWISZY",
+    "id": "4001",
+    "latitude": "52.225316",
+    "longitude": "20.991693"
+  },
+  {
+    "name": "NOWE BEMOWO",
+    "id": "5161",
+    "latitude": "52.260597",
+    "longitude": "20.924092"
+  },
+  {
+    "name": "KAMPINOSKA",
+    "id": "6128",
+    "latitude": "52.281910",
+    "longitude": "20.876090"
+  },
+  {
+    "name": "KOCHANOWSKIEGO",
+    "id": "6131",
+    "latitude": "52.267440",
+    "longitude": "20.947060"
+  },
+  {
+    "name": "ARKADYJSKA",
+    "id": "5081",
+    "latitude": "52.250730",
+    "longitude": "20.880750"
+  },
+  {
+    "name": "ROLANDA",
+    "id": "1151",
+    "latitude": "52.282417",
+    "longitude": "21.053281"
+  },
+  {
+    "name": "STEGNY",
+    "id": "3094",
+    "latitude": "52.177700",
+    "longitude": "21.048530"
+  },
+  {
+    "name": "WARSZAWA WESO\u0141A",
+    "id": "2911",
+    "latitude": "52.254250",
+    "longitude": "21.221600"
+  },
+  {
+    "name": "\u015aWI\u0118TOJERSKA",
+    "id": "7078",
+    "latitude": "52.249640",
+    "longitude": "21.002890"
+  },
+  {
+    "name": "METRO POLITECHNIKA",
+    "id": "7006",
+    "latitude": "52.216858",
+    "longitude": "21.013827"
+  },
+  {
+    "name": "ZAG\u00d3RZA\u0143SKA",
+    "id": "2376",
+    "latitude": "52.175360",
+    "longitude": "21.231330"
+  },
+  {
+    "name": "JACHOWICZA",
+    "id": "2157",
+    "latitude": "52.153760",
+    "longitude": "21.203590"
+  },
+  {
+    "name": "MARYMONT-POTOK",
+    "id": "6077",
+    "latitude": "52.274516",
+    "longitude": "20.981513"
+  },
+  {
+    "name": "PIAST\u00d3W \u015aL\u0104SKICH",
+    "id": "5062",
+    "latitude": "52.264018",
+    "longitude": "20.928710"
+  },
+  {
+    "name": "NOWOWIEJSKA",
+    "id": "7090",
+    "latitude": "52.221210",
+    "longitude": "21.004670"
+  },
+  {
+    "name": "PL.NA ROZDRO\u017bU",
+    "id": "7037",
+    "latitude": "52.220650",
+    "longitude": "21.024830"
+  },
+  {
+    "name": "SAMARYTANKA",
+    "id": "1178",
+    "latitude": "52.279840",
+    "longitude": "21.056780"
+  },
+  {
+    "name": "CENTRUM TARGOWE",
+    "id": "3119",
+    "latitude": "52.171090",
+    "longitude": "20.992170"
+  },
+  {
+    "name": "KO\u0179MI\u0143SKA",
+    "id": "7092",
+    "latitude": "52.225180",
+    "longitude": "21.036270"
+  },
+  {
+    "name": "PARK BR\u00d3DNOWSKI",
+    "id": "1148",
+    "latitude": "52.293130",
+    "longitude": "21.036440"
+  },
+  {
+    "name": "\u017bEROMSKIEGO",
+    "id": "6006",
+    "latitude": "52.276170",
+    "longitude": "20.962820"
+  },
+  {
+    "name": "STEFANA BATOREGO",
+    "id": "3234",
+    "latitude": "52.210460",
+    "longitude": "21.005820"
+  },
+  {
+    "name": "SZARADY",
+    "id": "4282",
+    "latitude": "52.174680",
+    "longitude": "20.921930"
+  },
+  {
+    "name": "FLORIANA",
+    "id": "2079",
+    "latitude": "52.225920",
+    "longitude": "21.141250"
+  },
+  {
+    "name": "NOWE W\u0141OCHY",
+    "id": "4224",
+    "latitude": "52.208800",
+    "longitude": "20.895340"
+  },
+  {
+    "name": "BUCHALTERYJNA",
+    "id": "2396",
+    "latitude": "52.270890",
+    "longitude": "21.170450"
+  },
+  {
+    "name": "KR\u00d3LIKARNIA",
+    "id": "3007",
+    "latitude": "52.189360",
+    "longitude": "21.024330"
+  },
+  {
+    "name": "METRO WIERZBNO",
+    "id": "3114",
+    "latitude": "52.188520",
+    "longitude": "21.017215"
+  },
+  {
+    "name": "METRO M\u0141OCINY",
+    "id": "6059",
+    "latitude": "52.289900",
+    "longitude": "20.931210"
+  },
+  {
+    "name": "B\u0141OTA",
+    "id": "2057",
+    "latitude": "52.149630",
+    "longitude": "21.188650"
+  },
+  {
+    "name": "G\u0141\u0118BOCKA",
+    "id": "1205",
+    "latitude": "52.307000",
+    "longitude": "21.061210"
+  },
+  {
+    "name": "DZI\u0118CIO\u0141A",
+    "id": "2425",
+    "latitude": "52.170680",
+    "longitude": "21.159160"
+  },
+  {
+    "name": "KAZUB\u00d3W",
+    "id": "5061",
+    "latitude": "52.241450",
+    "longitude": "20.912440"
+  },
+  {
+    "name": "W\u0104WOZOWA",
+    "id": "3287",
+    "latitude": "52.132796",
+    "longitude": "21.075691"
+  },
+  {
+    "name": "LUCERNY",
+    "id": "2188",
+    "latitude": "52.213810",
+    "longitude": "21.132800"
+  },
+  {
+    "name": "G\u0104SOCI\u0143SKA",
+    "id": "3073",
+    "latitude": "52.205280",
+    "longitude": "21.074540"
+  },
+  {
+    "name": "STARE \u015aWIDRY",
+    "id": "1122",
+    "latitude": "52.313250",
+    "longitude": "20.964490"
+  },
+  {
+    "name": "PKP GO\u0141\u0104BKI",
+    "id": "4149",
+    "latitude": "52.207890",
+    "longitude": "20.863563"
+  },
+  {
+    "name": "HARNASIE",
+    "id": "1072",
+    "latitude": "52.260370",
+    "longitude": "21.035886"
+  },
+  {
+    "name": "SKOROSZE",
+    "id": "4284",
+    "latitude": "52.186679",
+    "longitude": "20.896444"
+  },
+  {
+    "name": "\u017bUPNICZA",
+    "id": "2119",
+    "latitude": "52.250570",
+    "longitude": "21.058930"
+  },
+  {
+    "name": "KWITN\u0104CEJ AKACJI",
+    "id": "2181",
+    "latitude": "52.182440",
+    "longitude": "21.217600"
+  },
+  {
+    "name": "POWOJOWA",
+    "id": "2175",
+    "latitude": "52.184180",
+    "longitude": "21.183900"
+  },
+  {
+    "name": "WARSZAWA M\u0141YN\u00d3W",
+    "id": "5904",
+    "latitude": "52.239517",
+    "longitude": "20.958569"
+  },
+  {
+    "name": "SYMPATYCZNA",
+    "id": "4225",
+    "latitude": "52.209640",
+    "longitude": "20.920330"
+  },
+  {
+    "name": "1 SIERPNIA",
+    "id": "4009",
+    "latitude": "52.195880",
+    "longitude": "20.963530"
+  },
+  {
+    "name": "\u0141ASAKA",
+    "id": "2421",
+    "latitude": "52.216760",
+    "longitude": "21.109360"
+  },
+  {
+    "name": "POW\u0104ZKOWSKA",
+    "id": "5159",
+    "latitude": "52.253350",
+    "longitude": "20.979530"
+  },
+  {
+    "name": "GOTARDA",
+    "id": "3245",
+    "latitude": "52.171300",
+    "longitude": "21.005680"
+  },
+  {
+    "name": "OLSZOWA",
+    "id": "4020",
+    "latitude": "52.160570",
+    "longitude": "20.936780"
+  },
+  {
+    "name": "ZBARASKA",
+    "id": "2127",
+    "latitude": "52.243420",
+    "longitude": "21.075200"
+  },
+  {
+    "name": "M\u0141OCINY-UKSW",
+    "id": "6145",
+    "latitude": "52.312910",
+    "longitude": "20.917180"
+  },
+  {
+    "name": "PRZYDRO\u017bNA",
+    "id": "1171",
+    "latitude": "52.316720",
+    "longitude": "21.029500"
+  },
+  {
+    "name": "NOWOTYSKA",
+    "id": "4086",
+    "latitude": "52.196870",
+    "longitude": "20.894650"
+  },
+  {
+    "name": "ROSY",
+    "id": "3296",
+    "latitude": "52.131470",
+    "longitude": "21.135370"
+  },
+  {
+    "name": "CZERNIAKOWSKA",
+    "id": "7066",
+    "latitude": "52.230440",
+    "longitude": "21.033750"
+  },
+  {
+    "name": "DOMANIEWSKA OFFICE PARK",
+    "id": "3411",
+    "latitude": "52.183188",
+    "longitude": "20.993632"
+  },
+  {
+    "name": "OSTROROGA",
+    "id": "5124",
+    "latitude": "52.248630",
+    "longitude": "20.965360"
+  },
+  {
+    "name": "ODLEWNICZA",
+    "id": "1089",
+    "latitude": "52.305562",
+    "longitude": "21.017940"
+  },
+  {
+    "name": "WILKOWIECKA",
+    "id": "1200",
+    "latitude": "52.342450",
+    "longitude": "21.028410"
+  },
+  {
+    "name": "ODRODZENIA",
+    "id": "2024",
+    "latitude": "52.221070",
+    "longitude": "21.163060"
+  },
+  {
+    "name": "PILECKIEGO",
+    "id": "3333",
+    "latitude": "52.140810",
+    "longitude": "21.037690"
+  },
+  {
+    "name": "JASNA",
+    "id": "7030",
+    "latitude": "52.235220",
+    "longitude": "21.011030"
+  },
+  {
+    "name": "WARSZAWA GDA\u0143SKA",
+    "id": "7903",
+    "latitude": "52.258914",
+    "longitude": "20.992300"
+  },
+  {
+    "name": "SPADOWA",
+    "id": "2185",
+    "latitude": "52.223640",
+    "longitude": "21.139390"
+  },
+  {
+    "name": "WOJS\u0141AWICKA",
+    "id": "2207",
+    "latitude": "52.206990",
+    "longitude": "21.110690"
+  },
+  {
+    "name": "JURAJSKA",
+    "id": "3269",
+    "latitude": "52.162390",
+    "longitude": "20.992240"
+  },
+  {
+    "name": "METRO STARE BIELANY",
+    "id": "6052",
+    "latitude": "52.280690",
+    "longitude": "20.951250"
+  },
+  {
+    "name": "PKP MOKRY \u0141UG",
+    "id": "2220",
+    "latitude": "52.276880",
+    "longitude": "21.170070"
+  },
+  {
+    "name": "HO\u017bA",
+    "id": "7012",
+    "latitude": "52.225540",
+    "longitude": "21.014061"
+  },
+  {
+    "name": "CZERWONA DROGA",
+    "id": "4306",
+    "latitude": "52.201490",
+    "longitude": "20.868140"
+  },
+  {
+    "name": "MOKOTOWSKA",
+    "id": "7035",
+    "latitude": "52.223470",
+    "longitude": "21.018540"
+  },
+  {
+    "name": "SUCHY LAS",
+    "id": "4308",
+    "latitude": "52.185810",
+    "longitude": "20.884820"
+  },
+  {
+    "name": "Z\u0141OTEJ JESIENI",
+    "id": "2430",
+    "latitude": "52.170284",
+    "longitude": "21.237486"
+  },
+  {
+    "name": "ORDONA",
+    "id": "5044",
+    "latitude": "52.227860",
+    "longitude": "20.952630"
+  },
+  {
+    "name": "TERESPOLSKA",
+    "id": "2413",
+    "latitude": "52.249384",
+    "longitude": "21.070017"
+  },
+  {
+    "name": "GWIA\u0179DZISTA",
+    "id": "6082",
+    "latitude": "52.286670",
+    "longitude": "20.977330"
+  },
+  {
+    "name": "GOL\u0118DZIN\u00d3W",
+    "id": "1007",
+    "latitude": "52.266692",
+    "longitude": "21.020002"
+  },
+  {
+    "name": "SZOSA LUBELSKA",
+    "id": "2296",
+    "latitude": "52.222950",
+    "longitude": "21.249080"
+  },
+  {
+    "name": "OGRODY DZIA\u0141KOWE KAW\u0118CZYN",
+    "id": "2078",
+    "latitude": "52.273320",
+    "longitude": "21.117640"
+  },
+  {
+    "name": "AL.SOLIDARNO\u015aCI",
+    "id": "1301",
+    "latitude": "52.262600",
+    "longitude": "21.052590"
+  },
+  {
+    "name": "NIE\u015aWIESKA",
+    "id": "1300",
+    "latitude": "52.264220",
+    "longitude": "21.077040"
+  },
+  {
+    "name": "POCISK",
+    "id": "2069",
+    "latitude": "52.253350",
+    "longitude": "21.152770"
+  },
+  {
+    "name": "PLANETOWA",
+    "id": "2126",
+    "latitude": "52.188150",
+    "longitude": "21.185230"
+  },
+  {
+    "name": "WARSZAWA ZACHODNIA",
+    "id": "4900",
+    "latitude": "52.219840",
+    "longitude": "20.966480"
+  },
+  {
+    "name": "WARSZAWA GO\u0141\u0104BKI",
+    "id": "4922",
+    "latitude": "52.208448",
+    "longitude": "20.864719"
+  },
+  {
+    "name": "TARCHOMIN KO\u015aCIELNY",
+    "id": "1507",
+    "latitude": "52.323933",
+    "longitude": "20.942707"
+  },
+  {
+    "name": "NADARZY\u0143SKA",
+    "id": "2166",
+    "latitude": "52.171290",
+    "longitude": "21.193700"
+  },
+  {
+    "name": "STRZYG\u0141OWSKA",
+    "id": "2198",
+    "latitude": "52.171600",
+    "longitude": "21.155170"
+  },
+  {
+    "name": "PODBIPI\u0118TY",
+    "id": "3037",
+    "latitude": "52.177900",
+    "longitude": "21.029520"
+  },
+  {
+    "name": "MANGALIA",
+    "id": "3031",
+    "latitude": "52.187430",
+    "longitude": "21.049660"
+  },
+  {
+    "name": "DWORKOWA",
+    "id": "3003",
+    "latitude": "52.205057",
+    "longitude": "21.022624"
+  },
+  {
+    "name": "TALAROWA",
+    "id": "1119",
+    "latitude": "52.326200",
+    "longitude": "20.949450"
+  },
+  {
+    "name": "BOGATKI",
+    "id": "3017",
+    "latitude": "52.131910",
+    "longitude": "21.017740"
+  },
+  {
+    "name": "\u017bO\u0141NY",
+    "id": "3016",
+    "latitude": "52.138565",
+    "longitude": "21.017385"
+  },
+  {
+    "name": "SZEROKA",
+    "id": "2370",
+    "latitude": "52.257686",
+    "longitude": "21.121967"
+  },
+  {
+    "name": "DKS TARG\u00d3WEK",
+    "id": "1138",
+    "latitude": "52.273730",
+    "longitude": "21.046260"
+  },
+  {
+    "name": "BORK\u00d3W",
+    "id": "2194",
+    "latitude": "52.189700",
+    "longitude": "21.140810"
+  },
+  {
+    "name": "WARSZAWA AL.JEROZOLIMSKIE",
+    "id": "4913",
+    "latitude": "52.206514",
+    "longitude": "20.940622"
+  },
+  {
+    "name": "OKRZEI",
+    "id": "1305",
+    "latitude": "52.250920",
+    "longitude": "21.035970"
+  },
+  {
+    "name": "POLINEZYJSKA",
+    "id": "3138",
+    "latitude": "52.151560",
+    "longitude": "21.047150"
+  },
+  {
+    "name": "PKP MIEDZESZYN",
+    "id": "2046",
+    "latitude": "52.170120",
+    "longitude": "21.202210"
+  },
+  {
+    "name": "UTRATA-URZ\u0104D CELNY",
+    "id": "1044",
+    "latitude": "52.264720",
+    "longitude": "21.093530"
+  },
+  {
+    "name": "OCZYSZCZALNIA \"CZAJKA\"",
+    "id": "1206",
+    "latitude": "52.351160",
+    "longitude": "20.959940"
+  },
+  {
+    "name": "WARSZAWA URSUS",
+    "id": "4903",
+    "latitude": "52.196680",
+    "longitude": "20.886340"
+  },
+  {
+    "name": "OS.POTOK",
+    "id": "6133",
+    "latitude": "52.278790",
+    "longitude": "20.977130"
+  },
+  {
+    "name": "KAPELI",
+    "id": "3020",
+    "latitude": "52.117060",
+    "longitude": "21.018100"
+  },
+  {
+    "name": "WARSZAWA RAKOWIEC",
+    "id": "4917",
+    "latitude": "52.197019",
+    "longitude": "20.965331"
+  },
+  {
+    "name": "SIERAKOWSKIEGO",
+    "id": "1220",
+    "latitude": "52.250290",
+    "longitude": "21.033130"
+  },
+  {
+    "name": "ATE\u0143SKA",
+    "id": "2150",
+    "latitude": "52.224790",
+    "longitude": "21.067150"
+  },
+  {
+    "name": "WYNALAZEK",
+    "id": "3251",
+    "latitude": "52.180044",
+    "longitude": "20.994029"
+  },
+  {
+    "name": "RADIOWO",
+    "id": "6031",
+    "latitude": "52.285790",
+    "longitude": "20.887070"
+  },
+  {
+    "name": "ORCHOWIECKA",
+    "id": "1112",
+    "latitude": "52.342880",
+    "longitude": "20.972520"
+  },
+  {
+    "name": "KADET\u00d3W",
+    "id": "2206",
+    "latitude": "52.211140",
+    "longitude": "21.105670"
+  },
+  {
+    "name": "MA\u0141EJ \u0141\u0104KI",
+    "id": "3203",
+    "latitude": "52.134440",
+    "longitude": "21.053010"
+  },
+  {
+    "name": "INFLANCKA",
+    "id": "7021",
+    "latitude": "52.253630",
+    "longitude": "20.994300"
+  },
+  {
+    "name": "CZERWI\u0143SKA",
+    "id": "1121",
+    "latitude": "52.289140",
+    "longitude": "21.066260"
+  },
+  {
+    "name": "SZOBERA",
+    "id": "5049",
+    "latitude": "52.235280",
+    "longitude": "20.896499"
+  },
+  {
+    "name": "WA\u0141OWICKA",
+    "id": "4213",
+    "latitude": "52.208790",
+    "longitude": "20.913870"
+  },
+  {
+    "name": "AL.REYMONTA",
+    "id": "6046",
+    "latitude": "52.274717",
+    "longitude": "20.939235"
+  },
+  {
+    "name": "ESKULAP\u00d3W",
+    "id": "2087",
+    "latitude": "52.260550",
+    "longitude": "21.163250"
+  },
+  {
+    "name": "CYBERNETYKI",
+    "id": "3244",
+    "latitude": "52.174390",
+    "longitude": "21.002590"
+  },
+  {
+    "name": "DO FORTU",
+    "id": "3326",
+    "latitude": "52.197320",
+    "longitude": "20.989388"
+  },
+  {
+    "name": "KIJOWSKA",
+    "id": "1001",
+    "latitude": "52.248605",
+    "longitude": "21.044572"
+  },
+  {
+    "name": "\u017bYRARDOWSKA",
+    "id": "1107",
+    "latitude": "52.344860",
+    "longitude": "20.998330"
+  },
+  {
+    "name": "ZAJEZDNIA WOLA",
+    "id": "5004",
+    "latitude": "52.235048",
+    "longitude": "20.974122"
+  },
+  {
+    "name": "BEREZY\u0143SKA",
+    "id": "2251",
+    "latitude": "52.238948",
+    "longitude": "21.055396"
+  },
+  {
+    "name": "W\u00d3LCZY\u0143SKA",
+    "id": "6214",
+    "latitude": "52.297331",
+    "longitude": "20.888372"
+  },
+  {
+    "name": "PL.KONSTYTUCJI",
+    "id": "7011",
+    "latitude": "52.222292",
+    "longitude": "21.015735"
+  },
+  {
+    "name": "HASSA",
+    "id": "4336",
+    "latitude": "52.188900",
+    "longitude": "20.898510"
+  },
+  {
+    "name": "PKP \u017bERA\u0143",
+    "id": "1095",
+    "latitude": "52.313750",
+    "longitude": "21.001500"
+  },
+  {
+    "name": "P\u0141U\u017bA\u0143SKA",
+    "id": "4103",
+    "latitude": "52.207050",
+    "longitude": "20.924950"
+  },
+  {
+    "name": "PRZELOTOWA",
+    "id": "4022",
+    "latitude": "52.156400",
+    "longitude": "20.952660"
+  },
+  {
+    "name": "PKP FALENICA",
+    "id": "2048",
+    "latitude": "52.161250",
+    "longitude": "21.211100"
+  },
+  {
+    "name": "WAFLOWA",
+    "id": "3051",
+    "latitude": "52.118170",
+    "longitude": "21.103510"
+  },
+  {
+    "name": "MELCERA",
+    "id": "4309",
+    "latitude": "52.183260",
+    "longitude": "20.885470"
+  },
+  {
+    "name": "RONDO ONZ",
+    "id": "7088",
+    "latitude": "52.231938",
+    "longitude": "20.998801"
+  },
+  {
+    "name": "METRO IMIELIN",
+    "id": "3280",
+    "latitude": "52.150170",
+    "longitude": "21.046380"
+  },
+  {
+    "name": "JARACZA",
+    "id": "7063",
+    "latitude": "52.236390",
+    "longitude": "21.030940"
+  },
+  {
+    "name": "LANCIEGO",
+    "id": "3146",
+    "latitude": "52.140920",
+    "longitude": "21.061660"
+  },
+  {
+    "name": "SYTA",
+    "id": "3150",
+    "latitude": "52.165580",
+    "longitude": "21.108988"
+  },
+  {
+    "name": "PKP ZACISZE-WILNO",
+    "id": "1482",
+    "latitude": "52.277700",
+    "longitude": "21.080556"
+  },
+  {
+    "name": "RY\u017bOWA",
+    "id": "4092",
+    "latitude": "52.200200",
+    "longitude": "20.914500"
+  },
+  {
+    "name": "TRUSKAWIECKA",
+    "id": "3034",
+    "latitude": "52.178850",
+    "longitude": "21.058730"
+  },
+  {
+    "name": "HERBSTA",
+    "id": "3133",
+    "latitude": "52.150860",
+    "longitude": "21.027310"
+  },
+  {
+    "name": "OS.DERBY",
+    "id": "1359",
+    "latitude": "52.315850",
+    "longitude": "21.059880"
+  },
+  {
+    "name": "BUSKA",
+    "id": "3425",
+    "latitude": "52.177508",
+    "longitude": "21.068188"
+  },
+  {
+    "name": "SPALINOWA",
+    "id": "2137",
+    "latitude": "52.239300",
+    "longitude": "21.080410"
+  },
+  {
+    "name": "BEETHOVENA",
+    "id": "3325",
+    "latitude": "52.194500",
+    "longitude": "21.048950"
+  },
+  {
+    "name": "KRAKOWIAK\u00d3W",
+    "id": "4012",
+    "latitude": "52.184902",
+    "longitude": "20.953668"
+  },
+  {
+    "name": "MAJERANKOWA",
+    "id": "2168",
+    "latitude": "52.172370",
+    "longitude": "21.181740"
+  },
+  {
+    "name": "WAWERSKA",
+    "id": "2291",
+    "latitude": "52.224470",
+    "longitude": "21.206100"
+  },
+  {
+    "name": "BAZYLIA\u0143SKA",
+    "id": "1158",
+    "latitude": "52.290760",
+    "longitude": "21.018470"
+  },
+  {
+    "name": "LUBELSKA",
+    "id": "2002",
+    "latitude": "52.247490",
+    "longitude": "21.051210"
+  },
+  {
+    "name": "P\u0141ASKOWICKIEJ",
+    "id": "3208",
+    "latitude": "52.148740",
+    "longitude": "21.060090"
+  },
+  {
+    "name": "G\u00d3RALSKA",
+    "id": "5031",
+    "latitude": "52.239730",
+    "longitude": "20.936380"
+  },
+  {
+    "name": "METRO POLE MOKOTOWSKIE",
+    "id": "3228",
+    "latitude": "52.208640",
+    "longitude": "21.007520"
+  },
+  {
+    "name": "PL.TEATRALNY",
+    "id": "7026",
+    "latitude": "52.242760",
+    "longitude": "21.010000"
+  },
+  {
+    "name": "MA\u0141EGO RYCERZA",
+    "id": "1318",
+    "latitude": "52.334070",
+    "longitude": "21.047270"
+  },
+  {
+    "name": "TECHNIK\u00d3W",
+    "id": "4102",
+    "latitude": "52.204330",
+    "longitude": "20.923410"
+  },
+  {
+    "name": "ARMII KRAJOWEJ",
+    "id": "2282",
+    "latitude": "52.250490",
+    "longitude": "21.224410"
+  },
+  {
+    "name": "DZIEWANOWSKA",
+    "id": "2093",
+    "latitude": "52.271880",
+    "longitude": "21.154150"
+  },
+  {
+    "name": "HOSPICJUM ONKOLOGICZNE",
+    "id": "3300",
+    "latitude": "52.144100",
+    "longitude": "21.038230"
+  },
+  {
+    "name": "MIELCZARSKIEGO",
+    "id": "3283",
+    "latitude": "52.131280",
+    "longitude": "21.059410"
+  },
+  {
+    "name": "W\u0141O\u015aCIA\u0143SKA",
+    "id": "6041",
+    "latitude": "52.267144",
+    "longitude": "20.960374"
+  },
+  {
+    "name": "AL.BOHATER\u00d3W WRZE\u015aNIA",
+    "id": "4082",
+    "latitude": "52.211270",
+    "longitude": "20.960400"
+  },
+  {
+    "name": "D\u0118BOWA",
+    "id": "1514",
+    "latitude": "52.362011",
+    "longitude": "20.946059"
+  },
+  {
+    "name": "PL.WILSONA",
+    "id": "6003",
+    "latitude": "52.269150",
+    "longitude": "20.984393"
+  },
+  {
+    "name": "11 LISTOPADA",
+    "id": "1076",
+    "latitude": "52.266640",
+    "longitude": "21.037750"
+  },
+  {
+    "name": "PIASKI",
+    "id": "6045",
+    "latitude": "52.271944",
+    "longitude": "20.944355"
+  },
+  {
+    "name": "PRZEPI\u00d3RKI",
+    "id": "4215",
+    "latitude": "52.203160",
+    "longitude": "20.904770"
+  },
+  {
+    "name": "JADWISIN",
+    "id": "4303",
+    "latitude": "52.194090",
+    "longitude": "20.969540"
+  },
+  {
+    "name": "SOSNOWA",
+    "id": "2321",
+    "latitude": "52.247260",
+    "longitude": "21.184390"
+  },
+  {
+    "name": "ZAWADY",
+    "id": "3154",
+    "latitude": "52.159420",
+    "longitude": "21.118760"
+  },
+  {
+    "name": "WIELOWIEJSKA",
+    "id": "2044",
+    "latitude": "52.178960",
+    "longitude": "21.193380"
+  },
+  {
+    "name": "BARTNICZA",
+    "id": "1157",
+    "latitude": "52.285280",
+    "longitude": "21.022390"
+  },
+  {
+    "name": "D\u0141UGORZECZNA",
+    "id": "1134",
+    "latitude": "52.362160",
+    "longitude": "21.027710"
+  },
+  {
+    "name": "MOST PONIATOWSKIEGO",
+    "id": "7003",
+    "latitude": "52.234731",
+    "longitude": "21.035743"
+  },
+  {
+    "name": "MUZEUM NARODOWE",
+    "id": "7041",
+    "latitude": "52.232139",
+    "longitude": "21.023325"
+  },
+  {
+    "name": "BU\u0141AWY",
+    "id": "2085",
+    "latitude": "52.257020",
+    "longitude": "21.171880"
+  },
+  {
+    "name": "METRO S\u0141U\u017bEW",
+    "id": "3279",
+    "latitude": "52.173350",
+    "longitude": "21.026850"
+  },
+  {
+    "name": "SARMACKA",
+    "id": "3391",
+    "latitude": "52.158044",
+    "longitude": "21.081376"
+  },
+  {
+    "name": "GRZYMA\u0141Y-SOKO\u0141OWSKIEGO",
+    "id": "4043",
+    "latitude": "52.219943",
+    "longitude": "20.971753"
+  },
+  {
+    "name": "PARK KASKADA",
+    "id": "6075",
+    "latitude": "52.273230",
+    "longitude": "20.966820"
+  },
+  {
+    "name": "SCHRONISKO DLA ZWIERZ\u0104T",
+    "id": "4024",
+    "latitude": "52.155930",
+    "longitude": "20.963480"
+  },
+  {
+    "name": "PODZAMCZE",
+    "id": "7057",
+    "latitude": "52.249342",
+    "longitude": "21.017305"
+  },
+  {
+    "name": "HALA MIROWSKA",
+    "id": "7086",
+    "latitude": "52.238280",
+    "longitude": "20.996000"
+  },
+  {
+    "name": "PL.PI\u0141SUDSKIEGO",
+    "id": "7027",
+    "latitude": "52.242470",
+    "longitude": "21.013160"
+  },
+  {
+    "name": "WARSZAWA WSCHODNIA",
+    "id": "2900",
+    "latitude": "52.251390",
+    "longitude": "21.053370"
+  },
+  {
+    "name": "KOMPUTEROWA",
+    "id": "3383",
+    "latitude": "52.176555",
+    "longitude": "20.992979"
+  },
+  {
+    "name": "STRUSIA",
+    "id": "2261",
+    "latitude": "52.227180",
+    "longitude": "21.151410"
+  },
+  {
+    "name": "METRO CENTRUM NAUKI KOPERNIK",
+    "id": "7079",
+    "latitude": "52.243273",
+    "longitude": "21.026540"
+  },
+  {
+    "name": "PEONII",
+    "id": "2211",
+    "latitude": "52.186814",
+    "longitude": "21.128683"
+  },
+  {
+    "name": "REGULSKA",
+    "id": "4130",
+    "latitude": "52.183480",
+    "longitude": "20.870330"
+  },
+  {
+    "name": "JONTKA",
+    "id": "2179",
+    "latitude": "52.182890",
+    "longitude": "21.206140"
+  },
+  {
+    "name": "NAPOLEONA BONAPARTE",
+    "id": "2051",
+    "latitude": "52.171560",
+    "longitude": "21.226740"
+  },
+  {
+    "name": "DYWIZJONU 303",
+    "id": "5077",
+    "latitude": "52.247130",
+    "longitude": "20.911150"
+  },
+  {
+    "name": "\u0106MIELOWSKA",
+    "id": "1313",
+    "latitude": "52.323840",
+    "longitude": "20.960540"
+  },
+  {
+    "name": "GDECKA",
+    "id": "2362",
+    "latitude": "52.240900",
+    "longitude": "21.101160"
+  },
+  {
+    "name": "OGRODY DZIA\u0141KOWE NA SKRAJU",
+    "id": "4023",
+    "latitude": "52.156280",
+    "longitude": "20.957850"
+  },
+  {
+    "name": "KSI\u0104\u017b\u0118CA",
+    "id": "7069",
+    "latitude": "52.229340",
+    "longitude": "21.031390"
+  },
+  {
+    "name": "ROMANTYCZNA",
+    "id": "2214",
+    "latitude": "52.175331",
+    "longitude": "21.147261"
+  },
+  {
+    "name": "CHE\u0141MO\u0143SKIEGO",
+    "id": "4259",
+    "latitude": "52.191235",
+    "longitude": "20.900709"
+  },
+  {
+    "name": "ANNOPOL",
+    "id": "1087",
+    "latitude": "52.298487",
+    "longitude": "21.021703"
+  },
+  {
+    "name": "WARSZAWA S\u0141U\u017bEWIEC",
+    "id": "3901",
+    "latitude": "52.181086",
+    "longitude": "20.987108"
+  },
+  {
+    "name": "PKP GOC\u0141AWEK",
+    "id": "2058",
+    "latitude": "52.239109",
+    "longitude": "21.131607"
+  },
+  {
+    "name": "OGRODY DZIA\u0141KOWE PALUCH",
+    "id": "4025",
+    "latitude": "52.153400",
+    "longitude": "20.965310"
+  },
+  {
+    "name": "FORT BLIZNE",
+    "id": "5052",
+    "latitude": "52.245961",
+    "longitude": "20.897572"
+  },
+  {
+    "name": "CM.P\u00d3\u0141NOCNY-BRAMA G\u0141.",
+    "id": "6069",
+    "latitude": "52.299310",
+    "longitude": "20.903630"
+  },
+  {
+    "name": "JERZEGO",
+    "id": "2395",
+    "latitude": "52.267320",
+    "longitude": "21.170070"
+  },
+  {
+    "name": "KOSTRZEWSKIEGO",
+    "id": "3028",
+    "latitude": "52.197440",
+    "longitude": "21.039120"
+  },
+  {
+    "name": "ESPERANTO",
+    "id": "5157",
+    "latitude": "52.244420",
+    "longitude": "20.978650"
+  },
+  {
+    "name": "GAWRONIA",
+    "id": "2422",
+    "latitude": "52.185490",
+    "longitude": "21.159590"
+  },
+  {
+    "name": "WITEBSKA",
+    "id": "1137",
+    "latitude": "52.270520",
+    "longitude": "21.046940"
+  },
+  {
+    "name": "\u017bUROMI\u0143SKA",
+    "id": "1145",
+    "latitude": "52.287690",
+    "longitude": "21.048260"
+  },
+  {
+    "name": "PELIKAN\u00d3W",
+    "id": "3019",
+    "latitude": "52.122500",
+    "longitude": "21.017970"
+  },
+  {
+    "name": "TYMOTKI",
+    "id": "1351",
+    "latitude": "52.356480",
+    "longitude": "21.052930"
+  },
+  {
+    "name": "SYN\u00d3W PU\u0141KU",
+    "id": "5057",
+    "latitude": "52.224840",
+    "longitude": "20.916340"
+  },
+  {
+    "name": "METRO MARYMONT",
+    "id": "6005",
+    "latitude": "52.271710",
+    "longitude": "20.971880"
+  },
+  {
+    "name": "MADALI\u0143SKIEGO-SZPITAL",
+    "id": "3106",
+    "latitude": "52.204420",
+    "longitude": "21.015700"
+  },
+  {
+    "name": "SPISKA",
+    "id": "4041",
+    "latitude": "52.223430",
+    "longitude": "20.983330"
+  },
+  {
+    "name": "MURANOWSKA",
+    "id": "7018",
+    "latitude": "52.253783",
+    "longitude": "20.997242"
+  },
+  {
+    "name": "WSP\u00d3LNA DROGA",
+    "id": "2010",
+    "latitude": "52.244118",
+    "longitude": "21.094269"
+  },
+  {
+    "name": "GRABAL\u00d3WKI",
+    "id": "3157",
+    "latitude": "52.151250",
+    "longitude": "21.132800"
+  },
+  {
+    "name": "GILARSKA",
+    "id": "1215",
+    "latitude": "52.286590",
+    "longitude": "21.047190"
+  },
+  {
+    "name": "CM.P\u00d3\u0141NOCNY-BRAMA P\u0141D.",
+    "id": "6103",
+    "latitude": "52.296170",
+    "longitude": "20.894020"
+  },
+  {
+    "name": "BARTYCKA",
+    "id": "3057",
+    "latitude": "52.212080",
+    "longitude": "21.046970"
+  },
+  {
+    "name": "TOMASZEW",
+    "id": "1131",
+    "latitude": "52.338640",
+    "longitude": "21.028880"
+  },
+  {
+    "name": "GOC\u0141AWSKA",
+    "id": "2004",
+    "latitude": "52.246746",
+    "longitude": "21.062592"
+  },
+  {
+    "name": "PKP URSUS",
+    "id": "4217",
+    "latitude": "52.196610",
+    "longitude": "20.885140"
+  },
+  {
+    "name": "KOZIELSKA",
+    "id": "5123",
+    "latitude": "52.253010",
+    "longitude": "20.966230"
+  },
+  {
+    "name": "CM.W\u0141OSKI",
+    "id": "6014",
+    "latitude": "52.298300",
+    "longitude": "20.941870"
+  },
+  {
+    "name": "BOLES\u0141AWICKA",
+    "id": "1081",
+    "latitude": "52.282847",
+    "longitude": "21.033259"
+  },
+  {
+    "name": "RADIOWO-BOCZNICA",
+    "id": "6032",
+    "latitude": "52.286420",
+    "longitude": "20.882450"
+  },
+  {
+    "name": "KOLONIA HELEN\u00d3W",
+    "id": "2022",
+    "latitude": "52.225130",
+    "longitude": "21.187200"
+  },
+  {
+    "name": "HETMA\u0143SKA",
+    "id": "2266",
+    "latitude": "52.245010",
+    "longitude": "21.110940"
+  },
+  {
+    "name": "KOLARSKA",
+    "id": "2316",
+    "latitude": "52.201710",
+    "longitude": "21.171660"
+  },
+  {
+    "name": "PICASSA",
+    "id": "1251",
+    "latitude": "52.313262",
+    "longitude": "20.958105"
+  },
+  {
+    "name": "JUHAS\u00d3W",
+    "id": "2372",
+    "latitude": "52.194930",
+    "longitude": "21.170450"
+  },
+  {
+    "name": "STOLBUD",
+    "id": "3261",
+    "latitude": "52.184360",
+    "longitude": "20.997720"
+  },
+  {
+    "name": "PRZYBYSZEWSKIEGO",
+    "id": "6022",
+    "latitude": "52.277770",
+    "longitude": "20.940230"
+  },
+  {
+    "name": "BIA\u0141O\u0141\u0118KA-KANA\u0141",
+    "id": "1174",
+    "latitude": "52.326220",
+    "longitude": "21.031690"
+  },
+  {
+    "name": "ROLNICZA",
+    "id": "2320",
+    "latitude": "52.231890",
+    "longitude": "21.159180"
+  },
+  {
+    "name": "FABRYKA POMP",
+    "id": "1092",
+    "latitude": "52.302990",
+    "longitude": "21.009630"
+  },
+  {
+    "name": "PIRENEJSKA",
+    "id": "5160",
+    "latitude": "52.255830",
+    "longitude": "20.918110"
+  },
+  {
+    "name": "PKP WOLA (WOLSKA)",
+    "id": "5007",
+    "latitude": "52.230456",
+    "longitude": "20.954730"
+  },
+  {
+    "name": "CHMIELNA",
+    "id": "7032",
+    "latitude": "52.232630",
+    "longitude": "21.013800"
+  },
+  {
+    "name": "KONWIKTORSKA",
+    "id": "7052",
+    "latitude": "52.254790",
+    "longitude": "21.002400"
+  },
+  {
+    "name": "LERCHA",
+    "id": "3153",
+    "latitude": "52.162080",
+    "longitude": "21.114500"
+  },
+  {
+    "name": "PI\u0118CIOLINII",
+    "id": "3130",
+    "latitude": "52.155830",
+    "longitude": "21.023690"
+  },
+  {
+    "name": "URSYN\u00d3W P\u0141N.",
+    "id": "3120",
+    "latitude": "52.162080",
+    "longitude": "21.038130"
+  },
+  {
+    "name": "POMIECHOWSKA",
+    "id": "2265",
+    "latitude": "52.214090",
+    "longitude": "21.150970"
+  },
+  {
+    "name": "HUTNICZA",
+    "id": "1046",
+    "latitude": "52.265480",
+    "longitude": "21.067460"
+  },
+  {
+    "name": "POCZTY GDA\u0143SKIEJ",
+    "id": "4255",
+    "latitude": "52.199220",
+    "longitude": "20.901680"
+  },
+  {
+    "name": "ZIELONEJ G\u0118SI",
+    "id": "4339",
+    "latitude": "52.207347",
+    "longitude": "20.859404"
+  },
+  {
+    "name": "DANKOWICKA",
+    "id": "6072",
+    "latitude": "52.308990",
+    "longitude": "20.911090"
+  },
+  {
+    "name": "\u0141UBINOWA",
+    "id": "1042",
+    "latitude": "52.260470",
+    "longitude": "21.094540"
+  },
+  {
+    "name": "SZANCERA",
+    "id": "4095",
+    "latitude": "52.194780",
+    "longitude": "20.899850"
+  },
+  {
+    "name": "STATKOWSKIEGO",
+    "id": "3080",
+    "latitude": "52.190840",
+    "longitude": "21.083230"
+  },
+  {
+    "name": "RACIBORSKA",
+    "id": "1115",
+    "latitude": "52.353220",
+    "longitude": "20.984300"
+  },
+  {
+    "name": "TO\u0141STOJA",
+    "id": "6050",
+    "latitude": "52.283750",
+    "longitude": "20.927146"
+  },
+  {
+    "name": "OSIEDLE M\u0141ODYCH",
+    "id": "2110",
+    "latitude": "52.248410",
+    "longitude": "21.097100"
+  },
+  {
+    "name": "CEMENTOWNIA",
+    "id": "1125",
+    "latitude": "52.311290",
+    "longitude": "20.994170"
+  },
+  {
+    "name": "TYL\u017bYCKA",
+    "id": "6080",
+    "latitude": "52.281490",
+    "longitude": "20.984520"
+  },
+  {
+    "name": "PI\u0118KNA",
+    "id": "7038",
+    "latitude": "52.223300",
+    "longitude": "21.024300"
+  },
+  {
+    "name": "W\u0141OCHY-RATUSZ",
+    "id": "4010",
+    "latitude": "52.193572",
+    "longitude": "20.961432"
+  },
+  {
+    "name": "ARMATNIA",
+    "id": "5097",
+    "latitude": "52.220560",
+    "longitude": "20.959550"
+  },
+  {
+    "name": "MONIUSZKI",
+    "id": "2343",
+    "latitude": "52.251150",
+    "longitude": "21.217380"
+  },
+  {
+    "name": "AGRYKOLA",
+    "id": "7072",
+    "latitude": "52.216640",
+    "longitude": "21.040590"
+  },
+  {
+    "name": "CZEKOLADOWA",
+    "id": "3048",
+    "latitude": "52.132150",
+    "longitude": "21.101010"
+  },
+  {
+    "name": "NA BATERYJCE",
+    "id": "4081",
+    "latitude": "52.213100",
+    "longitude": "20.960770"
+  },
+  {
+    "name": "STEFANIKA",
+    "id": "1298",
+    "latitude": "52.326870",
+    "longitude": "20.940560"
+  },
+  {
+    "name": "RONDO UNII EUROPEJSKIEJ",
+    "id": "3243",
+    "latitude": "52.177867",
+    "longitude": "21.003675"
+  },
+  {
+    "name": "INSTALATOR\u00d3W",
+    "id": "4106",
+    "latitude": "52.200540",
+    "longitude": "20.947770"
+  },
+  {
+    "name": "\u017bERA\u0143 FSO",
+    "id": "1013",
+    "latitude": "52.289498",
+    "longitude": "21.003541"
+  },
+  {
+    "name": "STRZELECKA",
+    "id": "1509",
+    "latitude": "52.260200",
+    "longitude": "21.037123"
+  },
+  {
+    "name": "PALUCH",
+    "id": "4026",
+    "latitude": "52.151670",
+    "longitude": "20.965140"
+  },
+  {
+    "name": "MO\u0141DAWSKA",
+    "id": "4112",
+    "latitude": "52.201850",
+    "longitude": "20.979150"
+  },
+  {
+    "name": "CH PROMENADA",
+    "id": "2103",
+    "latitude": "52.233900",
+    "longitude": "21.106700"
+  },
+  {
+    "name": "KS.POPIE\u0141USZKI",
+    "id": "6094",
+    "latitude": "52.266720",
+    "longitude": "20.976710"
+  },
+  {
+    "name": "SZWOLE\u017bER\u00d3W",
+    "id": "7073",
+    "latitude": "52.215160",
+    "longitude": "21.045910"
+  },
+  {
+    "name": "HENRYKA BRODATEGO",
+    "id": "4337",
+    "latitude": "52.193820",
+    "longitude": "20.860133"
+  },
+  {
+    "name": "KOCJANA-S\u0104DY",
+    "id": "5079",
+    "latitude": "52.250340",
+    "longitude": "20.890560"
+  },
+  {
+    "name": "KANA\u0141 GOC\u0141AWSKI",
+    "id": "2099",
+    "latitude": "52.233090",
+    "longitude": "21.075010"
+  },
+  {
+    "name": "KADET\u00d3W-SZKO\u0141A",
+    "id": "2386",
+    "latitude": "52.213020",
+    "longitude": "21.111070"
+  },
+  {
+    "name": "FLETNIOWA",
+    "id": "1103",
+    "latitude": "52.335200",
+    "longitude": "20.975640"
+  },
+  {
+    "name": "OCH-TEATR",
+    "id": "4004",
+    "latitude": "52.214654",
+    "longitude": "20.979924"
+  },
+  {
+    "name": "LALKI",
+    "id": "4218",
+    "latitude": "52.197020",
+    "longitude": "20.880800"
+  },
+  {
+    "name": "WARSZAWA CENTRALNA",
+    "id": "7900",
+    "latitude": "52.228710",
+    "longitude": "21.003010"
+  },
+  {
+    "name": "HYNKA",
+    "id": "4011",
+    "latitude": "52.190610",
+    "longitude": "20.958880"
+  },
+  {
+    "name": "CZARNIECKIEGO",
+    "id": "6099",
+    "latitude": "52.270370",
+    "longitude": "20.991900"
+  },
+  {
+    "name": "GRENADY",
+    "id": "5112",
+    "latitude": "52.240160",
+    "longitude": "20.965080"
+  },
+  {
+    "name": "SZUBERTA",
+    "id": "4223",
+    "latitude": "52.208220",
+    "longitude": "20.900550"
+  },
+  {
+    "name": "MENNICA",
+    "id": "5036",
+    "latitude": "52.235075",
+    "longitude": "20.993090"
+  },
+  {
+    "name": "DOLINA S\u0141U\u017bEWIECKA",
+    "id": "3039",
+    "latitude": "52.174620",
+    "longitude": "21.043790"
+  },
+  {
+    "name": "ZWOLE\u0143SKA",
+    "id": "2192",
+    "latitude": "52.196230",
+    "longitude": "21.136210"
+  },
+  {
+    "name": "STRUMYKOWA",
+    "id": "1315",
+    "latitude": "52.332180",
+    "longitude": "20.946160"
+  },
+  {
+    "name": "OLESIN",
+    "id": "1295",
+    "latitude": "52.361750",
+    "longitude": "21.061800"
+  },
+  {
+    "name": "TOMASZOWSKA",
+    "id": "2244",
+    "latitude": "52.181030",
+    "longitude": "21.192310"
+  },
+  {
+    "name": "KOCISZEWSKICH",
+    "id": "2439",
+    "latitude": "52.211091",
+    "longitude": "21.210717"
+  },
+  {
+    "name": "BIA\u0141OBRZESKA",
+    "id": "4042",
+    "latitude": "52.221730",
+    "longitude": "20.978200"
+  },
+  {
+    "name": "OS.MAJDA\u0143SKA",
+    "id": "2130",
+    "latitude": "52.239930",
+    "longitude": "21.081490"
+  },
+  {
+    "name": "MYSZKOWSKA",
+    "id": "1136",
+    "latitude": "52.269930",
+    "longitude": "21.057530"
+  },
+  {
+    "name": "BOBROWIECKA",
+    "id": "3087",
+    "latitude": "52.200360",
+    "longitude": "21.046230"
+  },
+  {
+    "name": "\u015aNIEGOCKIEJ",
+    "id": "7070",
+    "latitude": "52.226650",
+    "longitude": "21.033910"
+  },
+  {
+    "name": "INSTYTUT LOTNICTWA",
+    "id": "4014",
+    "latitude": "52.178617",
+    "longitude": "20.946861"
+  },
+  {
+    "name": "WA\u0141 GOC\u0141AWSKI",
+    "id": "2144",
+    "latitude": "52.226080",
+    "longitude": "21.078760"
+  },
+  {
+    "name": "CM.BR\u00d3DNOWSKI",
+    "id": "1144",
+    "latitude": "52.278340",
+    "longitude": "21.044230"
+  },
+  {
+    "name": "WARSZAWA \u017bERA\u0143",
+    "id": "1904",
+    "latitude": "52.313710",
+    "longitude": "20.999260"
+  },
+  {
+    "name": "JEZIOROWA",
+    "id": "2210",
+    "latitude": "52.191410",
+    "longitude": "21.123178"
+  },
+  {
+    "name": "GORASZEWSKA",
+    "id": "3064",
+    "latitude": "52.186070",
+    "longitude": "21.064440"
+  },
+  {
+    "name": "SOLEC",
+    "id": "7065",
+    "latitude": "52.232170",
+    "longitude": "21.037000"
+  },
+  {
+    "name": "PRYSTORA",
+    "id": "4283",
+    "latitude": "52.189157",
+    "longitude": "20.903871"
+  },
+  {
+    "name": "DRZEWORYTNIK\u00d3W",
+    "id": "5014",
+    "latitude": "52.216859",
+    "longitude": "20.901053"
+  },
+  {
+    "name": "FRANCUSKA",
+    "id": "2153",
+    "latitude": "52.234540",
+    "longitude": "21.053890"
+  },
+  {
+    "name": "WARSZAWA GOC\u0141AWEK",
+    "id": "2903",
+    "latitude": "52.237460",
+    "longitude": "21.135120"
+  },
+  {
+    "name": "SADYBA",
+    "id": "3065",
+    "latitude": "52.181790",
+    "longitude": "21.069020"
+  },
+  {
+    "name": "PELCOWIZNA",
+    "id": "1162",
+    "latitude": "52.294589",
+    "longitude": "21.015644"
+  },
+  {
+    "name": "OBRZE\u017bNA",
+    "id": "3265",
+    "latitude": "52.172060",
+    "longitude": "20.998950"
+  },
+  {
+    "name": "PRZASNYSKA",
+    "id": "6088",
+    "latitude": "52.261750",
+    "longitude": "20.968260"
+  },
+  {
+    "name": "MAGELLANA",
+    "id": "3137",
+    "latitude": "52.155130",
+    "longitude": "21.042180"
+  },
+  {
+    "name": "WRONIA",
+    "id": "5193",
+    "latitude": "52.233992",
+    "longitude": "20.987025"
+  },
+  {
+    "name": "MI\u0118DZYLESIE",
+    "id": "2032",
+    "latitude": "52.208330",
+    "longitude": "21.196720"
+  },
+  {
+    "name": "PL.STARYNKIEWICZA",
+    "id": "4052",
+    "latitude": "52.226023",
+    "longitude": "20.994585"
+  },
+  {
+    "name": "SKARBKA Z G\u00d3R",
+    "id": "1326",
+    "latitude": "52.324710",
+    "longitude": "21.054620"
+  },
+  {
+    "name": "PRUSZKOWSKA",
+    "id": "4032",
+    "latitude": "52.200870",
+    "longitude": "20.984420"
+  },
+  {
+    "name": "OBRAZKOWA",
+    "id": "1019",
+    "latitude": "52.315509",
+    "longitude": "20.975546"
+  },
+  {
+    "name": "METRO STADION NARODOWY",
+    "id": "1231",
+    "latitude": "52.247130",
+    "longitude": "21.043085"
+  },
+  {
+    "name": "CIEP\u0141OWNIA KAW\u0118CZYN",
+    "id": "2077",
+    "latitude": "52.267320",
+    "longitude": "21.120780"
+  },
+  {
+    "name": "PAROWCOWA",
+    "id": "4212",
+    "latitude": "52.211820",
+    "longitude": "20.913600"
+  },
+  {
+    "name": "SAMSONOWSKA",
+    "id": "3414",
+    "latitude": "52.149523",
+    "longitude": "21.015300"
+  },
+  {
+    "name": "STERNICZA",
+    "id": "5045",
+    "latitude": "52.220492",
+    "longitude": "20.897117"
+  },
+  {
+    "name": "NARCYZOWA",
+    "id": "2163",
+    "latitude": "52.158770",
+    "longitude": "21.223800"
+  },
+  {
+    "name": "BORKOWSKA",
+    "id": "2440",
+    "latitude": "52.214531",
+    "longitude": "21.217734"
+  },
+  {
+    "name": "BUKOWSKIEGO",
+    "id": "2124",
+    "latitude": "52.230120",
+    "longitude": "21.094960"
+  },
+  {
+    "name": "PL.POLITECHNIKI",
+    "id": "7005",
+    "latitude": "52.220041",
+    "longitude": "21.011252"
+  },
+  {
+    "name": "ZB\u00d3JNA G\u00d3RA",
+    "id": "2184",
+    "latitude": "52.186670",
+    "longitude": "21.224780"
+  },
+  {
+    "name": "WYCZ\u00d3\u0141KI",
+    "id": "3104",
+    "latitude": "52.158250",
+    "longitude": "21.002380"
+  },
+  {
+    "name": "OKNICKA",
+    "id": "1202",
+    "latitude": "52.322500",
+    "longitude": "21.078640"
+  },
+  {
+    "name": "K\u00d3RNICKA",
+    "id": "3398",
+    "latitude": "52.124095",
+    "longitude": "20.998438"
+  },
+  {
+    "name": "STAWY",
+    "id": "4199",
+    "latitude": "52.204740",
+    "longitude": "20.920191"
+  },
+  {
+    "name": "P\u0141U\u017bNICKA",
+    "id": "1498",
+    "latitude": "52.310510",
+    "longitude": "20.970310"
+  },
+  {
+    "name": "KUPIECKA",
+    "id": "1339",
+    "latitude": "52.320282",
+    "longitude": "21.012226"
+  },
+  {
+    "name": "PL.ZAMKOWY",
+    "id": "7046",
+    "latitude": "52.245360",
+    "longitude": "21.013820"
+  },
+  {
+    "name": "PKP M\u0141YN\u00d3W",
+    "id": "5028",
+    "latitude": "52.238170",
+    "longitude": "20.955312"
+  },
+  {
+    "name": "LNIANA",
+    "id": "1050",
+    "latitude": "52.273580",
+    "longitude": "21.091230"
+  },
+  {
+    "name": "MI\u0118DZYNARODOWA",
+    "id": "2098",
+    "latitude": "52.229910",
+    "longitude": "21.067090"
+  },
+  {
+    "name": "PAROWOZOWA",
+    "id": "1101",
+    "latitude": "52.345270",
+    "longitude": "20.982550"
+  },
+  {
+    "name": "ESTRADY",
+    "id": "6035",
+    "latitude": "52.299240",
+    "longitude": "20.881300"
+  },
+  {
+    "name": "PRASOWA",
+    "id": "2047",
+    "latitude": "52.165950",
+    "longitude": "21.206440"
+  },
+  {
+    "name": "S\u00d3JKI",
+    "id": "3015",
+    "latitude": "52.143050",
+    "longitude": "21.017560"
+  },
+  {
+    "name": "RAABEGO",
+    "id": "3202",
+    "latitude": "52.136560",
+    "longitude": "21.061560"
+  },
+  {
+    "name": "CHABROWA",
+    "id": "6029",
+    "latitude": "52.283760",
+    "longitude": "20.902650"
+  },
+  {
+    "name": "KU WI\u015aLE",
+    "id": "3388",
+    "latitude": "52.212218",
+    "longitude": "21.063714"
+  },
+  {
+    "name": "AL.WIELKOPOLSKI",
+    "id": "4122",
+    "latitude": "52.216560",
+    "longitude": "20.995120"
+  },
+  {
+    "name": "HOTEL BRISTOL",
+    "id": "7045",
+    "latitude": "52.242140",
+    "longitude": "21.015270"
+  },
+  {
+    "name": "CYLICHOWSKA",
+    "id": "2193",
+    "latitude": "52.193230",
+    "longitude": "21.138420"
+  },
+  {
+    "name": "SIARCZANA",
+    "id": "1036",
+    "latitude": "52.262230",
+    "longitude": "21.063430"
+  },
+  {
+    "name": "ZACISZE",
+    "id": "1063",
+    "latitude": "52.286210",
+    "longitude": "21.063410"
+  },
+  {
+    "name": "WA\u0141 MIEDZESZY\u0143SKI",
+    "id": "2096",
+    "latitude": "52.226540",
+    "longitude": "21.054260"
+  },
+  {
+    "name": "KO\u0141OWA",
+    "id": "1143",
+    "latitude": "52.273190",
+    "longitude": "21.042830"
+  },
+  {
+    "name": "OPACZEWSKA",
+    "id": "4118",
+    "latitude": "52.209880",
+    "longitude": "20.970460"
+  },
+  {
+    "name": "WALEWSKA",
+    "id": "2135",
+    "latitude": "52.239020",
+    "longitude": "21.074760"
+  },
+  {
+    "name": "KR\u00d3LOWEJ BONY",
+    "id": "4226",
+    "latitude": "52.198860",
+    "longitude": "20.866880"
+  },
+  {
+    "name": "OS.ARBUZOWA",
+    "id": "3041",
+    "latitude": "52.171020",
+    "longitude": "21.061810"
+  },
+  {
+    "name": "URSUS-NIED\u0179WIADEK",
+    "id": "4221",
+    "latitude": "52.190420",
+    "longitude": "20.862514"
+  },
+  {
+    "name": "ROZ\u0141OGI",
+    "id": "5109",
+    "latitude": "52.227860",
+    "longitude": "20.901750"
+  },
+  {
+    "name": "P\u0141YTOWA",
+    "id": "1126",
+    "latitude": "52.316610",
+    "longitude": "21.011850"
+  },
+  {
+    "name": "R\u00d3W NATOLI\u0143SKI",
+    "id": "3422",
+    "latitude": "52.131068",
+    "longitude": "21.089514"
+  },
+  {
+    "name": "CHUDOBY",
+    "id": "1203",
+    "latitude": "52.324380",
+    "longitude": "21.075490"
+  },
+  {
+    "name": "KSAWER\u00d3W",
+    "id": "3110",
+    "latitude": "52.186370",
+    "longitude": "21.018470"
+  },
+  {
+    "name": "O\u015aRODEK WOJSKOWY",
+    "id": "4039",
+    "latitude": "52.174840",
+    "longitude": "20.979150"
+  },
+  {
+    "name": "WARSZAWA LOTNISKO CHOPINA",
+    "id": "4919",
+    "latitude": "52.169750",
+    "longitude": "20.975106"
+  },
+  {
+    "name": "INTERNETOWA",
+    "id": "1255",
+    "latitude": "52.322410",
+    "longitude": "21.071980"
+  },
+  {
+    "name": "SIODLARSKA",
+    "id": "5076",
+    "latitude": "52.247435",
+    "longitude": "20.916963"
+  },
+  {
+    "name": "WASILKOWSKA",
+    "id": "2162",
+    "latitude": "52.160670",
+    "longitude": "21.222730"
+  },
+  {
+    "name": "P+R AL.KRAKOWSKA",
+    "id": "4015",
+    "latitude": "52.176099",
+    "longitude": "20.943806"
+  },
+  {
+    "name": "BRONIS\u0141AWA CZECHA-LAS",
+    "id": "2023",
+    "latitude": "52.224860",
+    "longitude": "21.195530"
+  },
+  {
+    "name": "MEKSYKA\u0143SKA",
+    "id": "2152",
+    "latitude": "52.228640",
+    "longitude": "21.057770"
+  },
+  {
+    "name": "HALA WOLA",
+    "id": "5058",
+    "latitude": "52.228449",
+    "longitude": "20.915293"
+  },
+  {
+    "name": "POSAG 7 PANIEN",
+    "id": "4128",
+    "latitude": "52.204270",
+    "longitude": "20.879884"
+  },
+  {
+    "name": "BATUMI",
+    "id": "3093",
+    "latitude": "52.180350",
+    "longitude": "21.053830"
+  },
+  {
+    "name": "ZAMIENIECKA",
+    "id": "2102",
+    "latitude": "52.234790",
+    "longitude": "21.098890"
+  },
+  {
+    "name": "PL.BANKOWY",
+    "id": "7016",
+    "latitude": "52.243111",
+    "longitude": "21.002033"
+  },
+  {
+    "name": "WARSZAWA \u015aR\u00d3DMIE\u015aCIE",
+    "id": "7901",
+    "latitude": "52.229490",
+    "longitude": "21.008580"
+  },
+  {
+    "name": "PKP DAWIDY",
+    "id": "3399",
+    "latitude": "52.126525",
+    "longitude": "20.993303"
+  },
+  {
+    "name": "GO\u0141KOWSKA",
+    "id": "3062",
+    "latitude": "52.192300",
+    "longitude": "21.057050"
+  },
+  {
+    "name": "WARZELNICZA",
+    "id": "1175",
+    "latitude": "52.330520",
+    "longitude": "21.032330"
+  },
+  {
+    "name": "SP\u00d3\u0141DZIELNIA NOMA",
+    "id": "2065",
+    "latitude": "52.241040",
+    "longitude": "21.161450"
+  },
+  {
+    "name": "PKP WAWER",
+    "id": "2035",
+    "latitude": "52.222490",
+    "longitude": "21.149440"
+  },
+  {
+    "name": "TORWAR",
+    "id": "7076",
+    "latitude": "52.224210",
+    "longitude": "21.044050"
+  },
+  {
+    "name": "PADEREWSKIEGO",
+    "id": "2092",
+    "latitude": "52.269845",
+    "longitude": "21.150886"
+  },
+  {
+    "name": "OCHOCZA",
+    "id": "2164",
+    "latitude": "52.157200",
+    "longitude": "21.219610"
+  },
+  {
+    "name": "WITOLIN",
+    "id": "2105",
+    "latitude": "52.236060",
+    "longitude": "21.112930"
+  },
+  {
+    "name": "KWATERY G\u0141\u00d3WNEJ",
+    "id": "2013",
+    "latitude": "52.240154",
+    "longitude": "21.113278"
+  },
+  {
+    "name": "BRAZYLIJSKA",
+    "id": "2142",
+    "latitude": "52.231030",
+    "longitude": "21.063720"
+  },
+  {
+    "name": "MICHALINKI",
+    "id": "2159",
+    "latitude": "52.155480",
+    "longitude": "21.216140"
+  },
+  {
+    "name": "NISKA",
+    "id": "5087",
+    "latitude": "52.249430",
+    "longitude": "20.979190"
+  },
+  {
+    "name": "OS.OLSZYNY",
+    "id": "5149",
+    "latitude": "52.260330",
+    "longitude": "20.931600"
+  },
+  {
+    "name": "NOAKOWSKIEGO",
+    "id": "7004",
+    "latitude": "52.222820",
+    "longitude": "21.007740"
+  },
+  {
+    "name": "ROD\u0141A",
+    "id": "5102",
+    "latitude": "52.263000",
+    "longitude": "20.919040"
+  },
+  {
+    "name": "STRA\u017bACKA",
+    "id": "2080",
+    "latitude": "52.258880",
+    "longitude": "21.131470"
+  },
+  {
+    "name": "MOKRY \u0141UG-LE\u015aNICZ\u00d3WKA",
+    "id": "2419",
+    "latitude": "52.280977",
+    "longitude": "21.171652"
+  },
+  {
+    "name": "BRZEZI\u0143SKA",
+    "id": "1471",
+    "latitude": "52.351740",
+    "longitude": "20.981310"
+  },
+  {
+    "name": "LASEK NA KOLE",
+    "id": "5114",
+    "latitude": "52.251640",
+    "longitude": "20.954930"
+  },
+  {
+    "name": "H\u0141ASKI",
+    "id": "6134",
+    "latitude": "52.276860",
+    "longitude": "20.970920"
+  },
+  {
+    "name": "NOWOURSYNOWSKA",
+    "id": "3098",
+    "latitude": "52.170080",
+    "longitude": "21.040020"
+  },
+  {
+    "name": "BOKSERSKA",
+    "id": "3267",
+    "latitude": "52.169410",
+    "longitude": "20.996490"
+  },
+  {
+    "name": "DOBRA",
+    "id": "7060",
+    "latitude": "52.243620",
+    "longitude": "21.022170"
+  }
+]

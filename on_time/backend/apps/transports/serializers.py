@@ -9,7 +9,7 @@ class TransportEventSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = models.TransportEvent
-        fields = ('type', 'timestamp', 'label', 'latlng', 'desc')
+        fields = ('type', 'label', 'latlng', 'desc')
 
     def get_latlng(self, instance):
         return [instance.latitude, instance.longtitude]
