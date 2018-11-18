@@ -9,7 +9,7 @@
           <div class="offset-xs-3 col-xs-6 q-mt-md">
             <HereAutocomplete
               labelURL="assets/from.png"
-              placeholder="My Location"
+              placeholder="From"
               v-model="fromLocation"
             />
           </div>
@@ -54,10 +54,7 @@ export default {
   },
   data () {
     return {
-      fromLocation: {
-        latitude: 50.0274495,
-        longitude: 19.9041809
-      },
+      fromLocation: {},
       toLocation: {}
     }
   }
