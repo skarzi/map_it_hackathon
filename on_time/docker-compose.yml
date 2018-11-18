@@ -1,0 +1,71 @@
+version: '3'
+
+services:
+  db:
+    container_name: db-on_time
+    image: postgres:10.1-alpine
+    volumes:
+      - /var/lib/postgresql/data
+    ports:
+      - "5433:5432"
+    env_file:
+      - .env
+
+  app: &app
+    image: on_time_app
+    build:
+      context: .
+      dockerfile: ./docker/backend/local/Dockerfile
+    depends_on:
+      - redis
+      - db
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./backend:/app
+      - ./shared/media:/app/shared/media
+      - ./shared/static:/app/shared/static
+      - ./shared/templates:/app/shared/templates
+
+  redis:
+    image: redis:3.0
+    env_file:
+      - .env
+
+  celeryworker:
+    <<: *app
+    image: on_time_celeryworker
+    depends_on:
+      - redis
+      - db
+    ports: []
+    command: /start-celeryworker.sh
+
+  celerybeat:
+    <<: *app
+    image: on_time_celerybeat
+    depends_on:
+      - redis
+    ports: []
+    command: /start-celerybeat.sh
+
+  flower:
+    <<: *app
+    image: on_time_flower
+    depends_on:
+      - celeryworker
+    ports:
+      - "5555:5555"
+    command: /start-flower.sh
+
+  web:
+    image: on_time_web
+    build:
+      context: .
+      dockerfile: ./docker/frontend/local/Dockerfile
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env

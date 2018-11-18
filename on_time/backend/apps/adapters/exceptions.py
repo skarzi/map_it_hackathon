@@ -1,0 +1,2 @@
+class SdkRequestError(Exception):
+    pass

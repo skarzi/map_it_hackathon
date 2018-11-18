@@ -1,0 +1,48 @@
+# Wheel 0.25+ needed to install certain packages on CPython 3.5+ like Pillow and psycopg2
+# See http://bitly.com/wheel-building-fails-CPython-35
+# Verified bug on Python 3.5.1
+wheel==0.31.1
+
+# Django
+Django>=2.0,<2.1
+
+# Configuration
+django-environ==0.4.4
+
+# Images
+Pillow==5.2.0
+
+# Password storage
+argon2-cffi==18.1.0
+
+# Python-PostgreSQL Database Adapter
+psycopg2-binary==2.7.4
+
+# Health check
+django-health-check==3.6.0
+
+# Redis support for cache and celery
+django-redis==4.9.0
+redis>=2.10.6,<3.0
+
+# Powerful and flexible toolkit for building Web APIs
+djangorestframework==3.8.2
+
+# Python implementation of Markdown for DRF
+Markdown==2.6.11
+
+# Reusable app for filter querysets dynamically
+django-filter==1.1.0
+
+# Celery
+celery==4.2.1
+flower==0.9.2
+
+# Keeps your pinned dependencies fresh
+pip-tools==2.0.2
+
+django-cors-headers==2.4.0
+
+requests==2.20.1
+lxml==4.2.5
+cssselect==1.0.3
